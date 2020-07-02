@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&f&lРекрут'
+  command: 'rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &f&lРекрут'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&9&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&f[p] &r&7Префикс &7[&r&f➳&7]'
+    - '&f[p] &r&7Возможность получить набор &f/kit rekruit'
+    - '&f[p] &r&7Возможность заприватить &f1 регион'
+    - '&f[p] &r&7Возможность поставить &f2 точки дома'
+    - '&f[p] &r&7Возможность выставить &f2 предмета &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a5 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 5000
+  COMMAND: 'console: pex user {player} group add rekruit;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &f&lРекрут.'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

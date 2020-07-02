@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Shreck
+timestamps:
+  login: 1589469612709
+  lastteleport: 1589469542957
+  logout: 1589469620932
+ipAddress: 5.167.91.233
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -173.56914
+  pitch: -0.5798324
+logoutlocation:
+  world: world
+  x: -251.47313960921056
+  y: 72.0
+  z: -1929.554249886274
+  yaw: 323.4663
+  pitch: 28.17835

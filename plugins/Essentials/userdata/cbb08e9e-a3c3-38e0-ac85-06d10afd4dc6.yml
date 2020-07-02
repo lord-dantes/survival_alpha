@@ -1,0 +1,40 @@
+socialspy: false
+lastAccountName: fau1
+timestamps:
+  login: 1592591461766
+  logout: 1592591491837
+  lastteleport: 1592161526549
+  kits:
+    leitenant: 1591781259065
+ipAddress: 195.34.207.149
+lastlocation:
+  world: world
+  x: -1562.700682471272
+  y: 37.0
+  z: -1349.300000011921
+  yaw: -337.9652
+  pitch: 59.249958
+logoutlocation:
+  world: world
+  x: -313.62378302414845
+  y: 76.0
+  z: -775.5059596753043
+  yaw: -290.56348
+  pitch: 25.05001
+afk: false
+money: '4784182.3011000000001100'
+homes:
+  home:
+    world: world
+    x: -294.0570069067573
+    y: 65.0
+    z: -717.8396087766641
+    yaw: 343.92554
+    pitch: 53.54967
+  r:
+    world: world
+    x: -313.8884534630327
+    y: 68.0
+    z: -775.9081118999922
+    yaw: 82.3313
+    pitch: 57.74991

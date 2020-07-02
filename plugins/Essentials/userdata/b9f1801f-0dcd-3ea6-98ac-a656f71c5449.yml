@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Petuh
+timestamps:
+  login: 1591546186487
+  logout: 1591546441321
+  lastteleport: 1591546322005
+ipAddress: 5.182.25.67
+lastlocation:
+  world: world
+  x: -368.7211934449101
+  y: 62.0
+  z: -523.6367157949874
+  yaw: 106.02536
+  pitch: 21.599966
+logoutlocation:
+  world: world
+  x: -404.38908956252004
+  y: 62.0
+  z: -539.9437331057275
+  yaw: -282.61926
+  pitch: 10.670199

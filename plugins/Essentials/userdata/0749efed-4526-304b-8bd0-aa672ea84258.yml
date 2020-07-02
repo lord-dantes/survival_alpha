@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Dert
+timestamps:
+  login: 1591995505976
+  lastteleport: 1591995604784
+  logout: 1591995766106
+ipAddress: 178.121.10.63
+lastlocation:
+  world: world
+  x: -446.87908347423746
+  y: 66.41999998688698
+  z: -324.2379650767668
+  yaw: -76.83125
+  pitch: 10.358241
+logoutlocation:
+  world: world
+  x: -2043.8618089438748
+  y: 71.0
+  z: 1037.8482813477394
+  yaw: -254.04642
+  pitch: 7.423023

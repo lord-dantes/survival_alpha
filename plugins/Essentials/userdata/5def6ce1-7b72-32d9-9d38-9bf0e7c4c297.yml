@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: Cura
+timestamps:
+  login: 1592133727626
+  lastteleport: 1591723112176
+  logout: 1592133732211
+ipAddress: 31.162.3.54
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+money: '90.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 2493.376025024665
+    y: 76.0
+    z: 727.2519607486869
+    yaw: -79.42761
+    pitch: 18.749973
+logoutlocation:
+  world: world
+  x: 2487.6103771797852
+  y: 77.0
+  z: 740.1791262090776
+  yaw: -3.0775836
+  pitch: -8.700024

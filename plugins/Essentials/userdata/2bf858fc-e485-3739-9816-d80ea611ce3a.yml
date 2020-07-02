@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: UlashkaPan
+timestamps:
+  login: 1589658621132
+  lastteleport: 1589660824524
+  logout: 1589660846992
+ipAddress: 195.138.94.101
+lastlocation:
+  world: world
+  x: -219.93657683479182
+  y: 55.23673609213932
+  z: -108.83106262220763
+  yaw: 87.28004
+  pitch: 28.200012
+logoutlocation:
+  world: world
+  x: -374.87154286968655
+  y: 77.0
+  z: -141.4416040339621
+  yaw: 10.7795
+  pitch: 35.338974

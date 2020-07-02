@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: misericordia
+timestamps:
+  login: 1591375745237
+  logout: 1591391857554
+  lastteleport: 1591378718707
+ipAddress: 176.14.240.113
+lastlocation:
+  world: world
+  x: -836.3271814684309
+  y: 59.0
+  z: -598.0673034551273
+  yaw: -68.63739
+  pitch: 79.98692
+logoutlocation:
+  world: world
+  x: -854.7397001552343
+  y: 85.1875
+  z: -596.8643965776951
+  yaw: -1.772522
+  pitch: 20.23504
+afk: false
+homes:
+  home:
+    world: world
+    x: -851.7399051532807
+    y: 85.0
+    z: -597.7900846534573
+    yaw: -74.079346
+    pitch: 22.08535

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: MrHack
+timestamps:
+  login: 1592600559329
+  logout: 1592601028957
+ipAddress: 194.54.160.6
+lastlocation:
+  world: world
+  x: -403.5
+  y: 254.0
+  z: -498.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -313.9931121488413
+  y: 66.0
+  z: -710.9706653663371
+  yaw: 277.703
+  pitch: 3.2257948

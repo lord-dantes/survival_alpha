@@ -1,0 +1,84 @@
+socialspy: false
+lastAccountName: AFROD1TA
+timestamps:
+  login: 1592745473145
+  logout: 1592745572025
+  lastteleport: 1592745528181
+  jail: 0
+  kits:
+    capitan: 1592065697138
+    leitenant: 1592065571439
+    major: 1592652911025
+    admin: 1592653137129
+    flamingo: 1592573583015
+  lastheal: 1592740536136
+ipAddress: 178.214.249.59
+lastlocation:
+  world: world
+  x: 1343.960690354447
+  y: 98.36477702277386
+  z: 1591.4029329846446
+  yaw: 89.20694
+  pitch: 17.549992
+logoutlocation:
+  world: world
+  x: -1702.1737122884049
+  y: 80.0
+  z: -1477.3293011764654
+  yaw: -146.83205
+  pitch: 40.650196
+godmode: false
+afk: false
+homes:
+  home:
+    world: world
+    x: -314.38709475642395
+    y: 69.0
+    z: -1931.6615937003621
+    yaw: 269.32086
+    pitch: 1.2000096
+  pilezozz:
+    world: world
+    x: 165.03364468691422
+    y: 57.0
+    z: -1212.2464584231757
+    yaw: -1.9345703
+    pitch: 6.149997
+  v:
+    world: world
+    x: 1164.2129983263676
+    y: 72.0
+    z: -1988.969171046725
+    yaw: 73.69745
+    pitch: 3.4819138
+  dom:
+    world: world
+    x: -1700.635242429871
+    y: 80.0
+    z: -1478.442247896337
+    yaw: -326.53198
+    pitch: 24.900198
+  lll:
+    world: world
+    x: -1548.2298423479492
+    y: 25.0
+    z: -1229.3918756420878
+    yaw: 351.4507
+    pitch: 11.850051
+  blaze:
+    world: world_nether
+    x: 885.8323770011064
+    y: 66.0
+    z: -295.54108901942925
+    yaw: 94.38379
+    pitch: 11.0999365
+  hell:
+    world: world_nether
+    x: -249.31761378228217
+    y: 84.0
+    z: -175.10251150312754
+    yaw: 246.01868
+    pitch: 1.3499879
+money: '10080524.32879999999975384'
+jailed: false
+nickname: AKTUBHbIU_GOMEC

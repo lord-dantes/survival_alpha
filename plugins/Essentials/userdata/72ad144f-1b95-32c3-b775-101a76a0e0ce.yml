@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: alo3
+timestamps:
+  login: 1590355844094
+  logout: 1590355876372
+ipAddress: 184.178.172.28
+lastlocation:
+  world: world
+  x: -416.5
+  y: 254.0
+  z: -509.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

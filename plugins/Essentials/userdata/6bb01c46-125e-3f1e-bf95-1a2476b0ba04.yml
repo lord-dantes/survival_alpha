@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: DAR_Krow
+timestamps:
+  login: 1589457281211
+  logout: 1589457307815
+ipAddress: 192.162.109.173
+lastlocation:
+  world: world
+  x: -408.5
+  y: 254.0
+  z: -503.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.4769931652298
+  y: 58.0
+  z: -489.03132229498215
+  yaw: -355.82452
+  pitch: 5.588797

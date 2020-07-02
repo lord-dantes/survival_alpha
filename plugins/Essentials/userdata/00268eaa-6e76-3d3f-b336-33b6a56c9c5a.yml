@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: vadim03
+timestamps:
+  login: 1589376509857
+  logout: 1589376538531
+ipAddress: 164.73.191.2
+lastlocation:
+  world: world
+  x: -415.5
+  y: 254.0
+  z: -506.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

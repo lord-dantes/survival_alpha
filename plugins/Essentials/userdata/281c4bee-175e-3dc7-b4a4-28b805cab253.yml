@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: Hiroundead
+timestamps:
+  login: 1592740032349
+  lastteleport: 1592742297273
+  logout: 1592742715102
+ipAddress: 91.237.182.228
+lastlocation:
+  world: world
+  x: 1314.6671794620677
+  y: 80.0
+  z: 1588.1887990612963
+  yaw: 12.452393
+  pitch: -4.923035
+homes:
+  home:
+    world: world
+    x: 1325.2980003458347
+    y: 85.0
+    z: 1593.851792811681
+    yaw: 59.317017
+    pitch: 13.481534
+logoutlocation:
+  world: world
+  x: 1330.952809346586
+  y: 86.0
+  z: 1582.7555002207503
+  yaw: 340.781
+  pitch: 10.284252
+afk: false

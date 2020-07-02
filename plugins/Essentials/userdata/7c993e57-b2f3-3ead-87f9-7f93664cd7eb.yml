@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: SpecialOps
+timestamps:
+  login: 1590355478957
+  logout: 1590355481676
+ipAddress: 185.64.16.117
+lastlocation:
+  world: world
+  x: -411.5
+  y: 254.0
+  z: -493.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

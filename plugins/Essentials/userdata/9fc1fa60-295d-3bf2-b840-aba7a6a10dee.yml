@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: olalala
+timestamps:
+  login: 1589700264880
+  logout: 1589702362731
+  lastteleport: 1589699227552
+ipAddress: 192.162.227.174
+lastlocation:
+  world: world
+  x: 1592.2187998483998
+  y: 126.37457909351356
+  z: -1473.4278401445129
+  yaw: -131.56906
+  pitch: 32.472477
+godmode: false
+logoutlocation:
+  world: world
+  x: 1111.7108633329196
+  y: 78.6779485382814
+  z: -203.68285819000454
+  yaw: -183.84497
+  pitch: 74.21099
+money: '300.0'
+afk: false

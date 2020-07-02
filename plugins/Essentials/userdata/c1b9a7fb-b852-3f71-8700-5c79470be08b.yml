@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: antecoder
+timestamps:
+  login: 1591033740802
+  lastteleport: 1591034024535
+  logout: 1591035022912
+ipAddress: 46.250.74.166
+lastlocation:
+  world: world
+  x: -447.5
+  y: 69.0
+  z: -555.5
+  yaw: -119.6972
+  pitch: 46.408173
+homes:
+  home:
+    world: world
+    x: -410.4368958999327
+    y: 63.0
+    z: -274.34655717443195
+    yaw: -343.07462
+    pitch: 9.188784
+money: '484.7590000000000038'
+logoutlocation:
+  world: world
+  x: -1375.5829060256576
+  y: 35.0
+  z: 324.57031216231775
+  yaw: 304.80273
+  pitch: 38.54997

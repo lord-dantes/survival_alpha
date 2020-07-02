@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&e&lСтарший-лейтенант'
+  command: 'rankupgradetostleitenantonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &e&lСтарший-лейтенант'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&e&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&e[p] &r&7Префикс &7[&r&e➳⁺&7]'
+    - '&e[p] &r&7Возможность получить набор &e/kit stleitenant'
+    - '&e[p] &r&7Возможность заприватить &e3 региона'
+    - '&e[p] &r&7Возможность поставить &e3 точки дома'
+    - '&e[p] &r&7Возможность выставить &e5 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a150 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 150000
+  COMMAND: 'console: pex user {player} group add stleitenant;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &e&lСтарший-лейтенант'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

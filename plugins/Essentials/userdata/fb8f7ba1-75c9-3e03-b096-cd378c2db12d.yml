@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: q31k
+timestamps:
+  login: 1591719750055
+  lastteleport: 1591722415436
+  logout: 1591723651016
+ipAddress: 92.241.121.48
+lastlocation:
+  world: world
+  x: -416.2171838770053
+  y: 61.0
+  z: -530.8465708193589
+  yaw: -194.86916
+  pitch: -3.2798321
+logoutlocation:
+  world: world
+  x: -325.0384756830446
+  y: 64.0
+  z: -1378.2536240604077
+  yaw: 157.8003
+  pitch: -4.7999954
+afk: false

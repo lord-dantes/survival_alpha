@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: IIIu3uk
+timestamps:
+  login: 1591799295425
+  logout: 1591799465576
+  lastteleport: 1591799182260
+ipAddress: 212.164.64.1
+lastlocation:
+  world: world
+  x: 1774.6851519768081
+  y: 64.0
+  z: -1466.1452804224846
+  yaw: -58.88421
+  pitch: 10.964544
+logoutlocation:
+  world: world
+  x: -399.82810488627024
+  y: 62.0
+  z: -539.6355179898748
+  yaw: 173.65796
+  pitch: 17.505573
+homes:
+  home:
+    world: world
+    x: 1774.6851519768081
+    y: 64.0
+    z: -1466.1452804224846
+    yaw: -58.88421
+    pitch: 10.964544
+money: '23168.2004999999999897'
+afk: false

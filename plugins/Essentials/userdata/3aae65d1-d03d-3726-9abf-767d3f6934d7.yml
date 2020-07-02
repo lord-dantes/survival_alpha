@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: HemeTorec
+timestamps:
+  login: 1591780483663
+  logout: 1591782133209
+ipAddress: 188.239.198.10
+lastlocation:
+  world: world
+  x: -413.5
+  y: 136.0
+  z: -494.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: -295.9229646943707
+  y: 71.0
+  z: -606.7983922292482
+  yaw: -7.8483896
+  pitch: 23.925304

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Dany887
+timestamps:
+  login: 1592337826817
+  logout: 1592338529284
+  lastteleport: 1590950067994
+ipAddress: 195.226.203.19
+lastlocation:
+  world: world
+  x: -408.2561608119588
+  y: 58.0
+  z: -499.4158013618738
+  yaw: -275.27808
+  pitch: 47.100033
+logoutlocation:
+  world: world
+  x: -451.4169331160608
+  y: 12.0
+  z: -316.9169940944918
+  yaw: -0.78686523
+  pitch: 5.550275
+money: '30001.0'

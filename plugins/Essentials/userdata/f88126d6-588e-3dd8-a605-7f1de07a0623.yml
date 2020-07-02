@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Limon4ik_080
+timestamps:
+  login: 1589467536608
+  lastteleport: 1589467611069
+  logout: 1589467802731
+ipAddress: 213.87.120.13
+lastlocation:
+  world: world
+  x: -406.43823641839145
+  y: 62.0
+  z: -545.3275447033012
+  yaw: 116.9751
+  pitch: 51.000015
+homes:
+  home:
+    world: world
+    x: -440.02624373971327
+    y: 67.0
+    z: 641.2415068640286
+    yaw: 273.59213
+    pitch: 5.611752
+logoutlocation:
+  world: world
+  x: -438.73542573905553
+  y: 67.0
+  z: 641.1284406635214
+  yaw: 273.59225
+  pitch: 11.761751

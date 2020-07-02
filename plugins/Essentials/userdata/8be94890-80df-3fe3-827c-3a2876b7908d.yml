@@ -1,0 +1,49 @@
+socialspy: false
+lastAccountName: klown
+timestamps:
+  login: 1591096748086
+  logout: 1591097259371
+  lastteleport: 1591096073737
+  kits:
+    capral: 1590928919021
+    capitan: 1591096165088
+    serjant: 1590931577561
+ipAddress: 178.217.43.151
+lastlocation:
+  world: world
+  x: -1278.300000011921
+  y: 8.0
+  z: 1319.2987139401682
+  yaw: -225.17328
+  pitch: 44.44192
+logoutlocation:
+  world: world
+  x: -419.06990323135136
+  y: 60.0
+  z: -522.0306538732257
+  yaw: 217.82234
+  pitch: 12.323664
+homes:
+  home:
+    world: world
+    x: 895.0492420047811
+    y: 69.0
+    z: 1163.371285344573
+    yaw: -154.1289
+    pitch: 21.062977
+  a:
+    world: world
+    x: -1297.2487090675045
+    y: 63.0
+    z: 1403.0781431484018
+    yaw: 22.816893
+    pitch: 5.9620996
+  b:
+    world: world
+    x: 910.0084914516337
+    y: 75.0
+    z: 1202.6712769621558
+    yaw: -251.17242
+    pitch: 19.18347
+money: '408164.67124999999997304'
+afk: false

@@ -1,0 +1,21 @@
+lastAccountName: KrycersS
+timestamps:
+  login: 1590865124610
+  logout: 1590865402464
+  lastteleport: 1590865284402
+ipAddress: 46.219.226.238
+socialspy: false
+lastlocation:
+  world: world_nether
+  x: 1088.699999988079
+  y: 70.0
+  z: -405.0305407768122
+  yaw: 114.18593
+  pitch: -0.16401874
+logoutlocation:
+  world: world
+  x: -394.1785696250449
+  y: 62.0
+  z: -544.68769267069
+  yaw: 265.02234
+  pitch: 4.257729

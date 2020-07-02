@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: DIMA_228_PRO
+timestamps:
+  login: 1591968061724
+  logout: 1591969008838
+ipAddress: 95.56.13.230
+lastlocation:
+  world: world
+  x: -398.5
+  y: 254.0
+  z: -499.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -199.8614673561317
+  y: 64.0
+  z: -754.8903886316871
+  yaw: -79.07623
+  pitch: 27.165766
+afk: false

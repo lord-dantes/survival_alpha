@@ -1,0 +1,82 @@
+socialspy: false
+lastAccountName: kol_art2288
+timestamps:
+  login: 1592736032646
+  lastteleport: 1592739600913
+  logout: 1592739743245
+  kits:
+    capral: 1591801703631
+    capitan: 1592648379096
+    leitenant: 1592733904338
+    serjant: 1591813470294
+    major: 1592648362534
+    admin: 1592401337685
+    flamingo: 1592735982897
+ipAddress: 46.175.255.62
+lastlocation:
+  world: world
+  x: -1569.5
+  y: 72.0
+  z: -1216.5
+  yaw: 0.29882812
+  pitch: 2.099986
+homes:
+  z:
+    world: world
+    x: -1556.3682278123197
+    y: 17.0
+    z: -1224.429772765808
+    yaw: 93.45047
+    pitch: 23.54999
+  if:
+    world: world_nether
+    x: -84.25942476665655
+    y: 62.0
+    z: -701.2065449906347
+    yaw: 148.34802
+    pitch: 36.749966
+  h:
+    world: world
+    x: -1569.5806216860212
+    y: 72.0
+    z: -1216.794306490859
+    yaw: 0.29882812
+    pitch: 2.099986
+  f:
+    world: world
+    x: -1289.8608511843358
+    y: 88.6517969838937
+    z: -1740.1536502896076
+    yaw: -33.307617
+    pitch: 31.949932
+  d:
+    world: world
+    x: -869.5173404855539
+    y: 64.0
+    z: 326.8887770968628
+    yaw: 199.50024
+    pitch: 31.050034
+  p:
+    world: world
+    x: -1462.2161906941976
+    y: 33.0
+    z: -1112.3346312035249
+    yaw: -74.69983
+    pitch: 16.799974
+  df:
+    world: world
+    x: -1536.8715925254203
+    y: 99.0
+    z: -1227.773818696956
+    yaw: -269.09998
+    pitch: 27.900024
+money: '9201054.67350000000075735'
+logoutlocation:
+  world: world
+  x: -1563.1612491461797
+  y: 72.0
+  z: -1218.1714684734745
+  yaw: -40.049816
+  pitch: 25.650028
+afk: false
+nickname: Kaloda

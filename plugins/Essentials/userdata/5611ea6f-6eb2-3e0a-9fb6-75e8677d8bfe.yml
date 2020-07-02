@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: az32
+timestamps:
+  login: 1591120627737
+  logout: 1591120641736
+  lastteleport: 1591018878996
+ipAddress: 89.28.162.95
+lastlocation:
+  world: world
+  x: -364.7846859858639
+  y: 62.0
+  z: -518.832625803451
+  yaw: 88.96758
+  pitch: 7.6122856
+logoutlocation:
+  world: world
+  x: -463.56466127556735
+  y: 30.00133597911215
+  z: -223.7195943593979
+  yaw: -178.63184
+  pitch: 16.555984
+homes:
+  home:
+    world: world
+    x: -463.82621570444456
+    y: 57.0
+    z: -194.0094580125495
+    yaw: -263.0298
+    pitch: 7.039697
+money: '0.0'

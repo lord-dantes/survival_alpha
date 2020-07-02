@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: AKIL
+timestamps:
+  login: 1592662409225
+  logout: 1592664226608
+  lastteleport: 1592663466696
+ipAddress: 176.213.158.232
+lastlocation:
+  world: world
+  x: -719.5668048522947
+  y: 71.0
+  z: -1648.9129342365507
+  yaw: 184.05255
+  pitch: 2.0999796
+logoutlocation:
+  world: world
+  x: 67.99616448743711
+  y: 77.0
+  z: -1276.7238158943733
+  yaw: 103.650986
+  pitch: 34.949966
+homes:
+  home:
+    world: world
+    x: 68.64060414376192
+    y: 78.0
+    z: -1276.589266175607
+    yaw: 336.75
+    pitch: 25.350021
+afk: false

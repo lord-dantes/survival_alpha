@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: 0Shinobi
+timestamps:
+  login: 1592750355607
+  logout: 1592752818742
+  lastteleport: 1592752814432
+ipAddress: 87.117.50.223
+lastlocation:
+  world: world
+  x: 981.3272278871368
+  y: 79.0
+  z: -505.02394341736544
+  yaw: -330.4806
+  pitch: 23.919237
+homes:
+  home:
+    world: world
+    x: 1432.0651053340816
+    y: 67.0
+    z: -1535.0067406421476
+    yaw: -59.134674
+    pitch: 24.768608
+afk: false
+logoutlocation:
+  world: world
+  x: 1432.5
+  y: 66.0
+  z: -1535.5
+  yaw: 68.14218
+  pitch: 34.42409
+money: '166.447999999999996'

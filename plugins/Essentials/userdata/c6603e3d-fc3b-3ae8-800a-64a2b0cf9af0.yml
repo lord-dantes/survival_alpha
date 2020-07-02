@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Nick
+timestamps:
+  login: 1592382130712
+  logout: 1592382975218
+  lastteleport: 1592334127963
+ipAddress: 195.34.207.149
+lastlocation:
+  world: world
+  x: 110.30000001192093
+  y: 76.0
+  z: -834.6697216333893
+  yaw: 244.94841
+  pitch: 2.999653
+logoutlocation:
+  world: world
+  x: -258.8977986286618
+  y: 64.0
+  z: -745.5604140781929
+  yaw: -48.47458
+  pitch: 13.538816
+money: '197600.0'
+afk: false

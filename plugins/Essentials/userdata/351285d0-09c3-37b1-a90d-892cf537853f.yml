@@ -1,0 +1,21 @@
+lastAccountName: vityalox
+timestamps:
+  login: 1590049016543
+  logout: 1590049565752
+  lastteleport: 1590049269053
+ipAddress: 188.244.155.243
+socialspy: false
+lastlocation:
+  world: world
+  x: -408.4681604135818
+  y: 68.5
+  z: -568.5294803041794
+  yaw: -180.31909
+  pitch: -5.229836
+logoutlocation:
+  world: world
+  x: 443.053060070251
+  y: 65.0
+  z: 1658.1559063886111
+  yaw: 234.14929
+  pitch: 66.00004

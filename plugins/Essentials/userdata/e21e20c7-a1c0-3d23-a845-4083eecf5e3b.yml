@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: fredykruger
+timestamps:
+  login: 1589817575015
+  logout: 1589817721847
+ipAddress: 178.172.246.219
+lastlocation:
+  world: world
+  x: -403.5
+  y: 254.0
+  z: -499.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -400.3349175749459
+  y: 61.0
+  z: -543.9418150130831
+  yaw: -57.474884
+  pitch: 16.38882

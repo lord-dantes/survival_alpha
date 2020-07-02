@@ -1,0 +1,66 @@
+config-version: 1.3.3
+settings:
+  debug: true
+  invalid-uuid: true
+  restrict:
+    on-error: true
+  whitelist:
+    play-time: 120
+  protection:
+    use: true
+    max-joins: 6
+    interval: 2
+    duration: 120
+  proxy:
+    vipsocks24:
+      download: false
+    proxydaily:
+      download: false
+    socksproxylist24:
+      download: false
+    sslproxies24:
+      download: false
+    botscout: false
+    stopforumspam: true
+    antibot-ultra: false
+    urls:
+      download: true
+      timeout: 5000
+      list:
+      - http://tjfmc.de/DeathBot/SSlproxies.txt
+      - http://tjfmc.de/DeathBot/Socks4.txt
+      - http://tjfmc.de/DeathBot/Socks5.txt
+  asn:
+    use: false
+    list:
+    - AS62567
+    - AS63949
+    - AS16276
+    - AS12876
+    - AS13335
+    - AS26496
+    - AS20473
+permissions:
+  protection: antibot-ultra.protection
+  whitelist: antibot-ultra.whitelist
+  bypass: antibot-ultra.bypass
+mysql:
+  arguments: '?autoreconnect=true'
+  type: yaml
+  username: root
+  password: password12345
+  dbname: AntiBot-Ultra
+  host: 127.0.0.1
+  port: 3306
+messages:
+  whitelist: "[AntiBot-Ultra] Player %player% has been added to the whitelist!"
+  protection:
+    attack-detected: "[AntiBot-Ultra] Bot attack detected! Starting protection..."
+    attack-stopped: "[AntiBot-Ultra] Stopping the protection...! Sorry for the inconvenience!"
+    kick: "[AntiBot-Ultra]\nYou have been kicked!\nReason: Bot attack detected!\nYou
+      are not on the whitelist!\nPlease try again in a few seconds!"
+  proxy: "[AntiBot-Ultra]\nYou have been kicked!\nReason: Proxy detected!\nIf you
+    think this is an error, please contact us at www.example.com\nThank you!"
+  invalid-uuid: "[AntiBot-Ultra]\nYou have been kicked!\nReason: Invalid UUID\nIf
+    you think this is an error, please contact us at www.example.com\nThank you!"
+  asn: "[AntiBot-Ultra]\nYou have been kicked!\nReason: Your ASN is not allowed!\nIf you think this is an error, please contact us at www.example.com\nThank you!"

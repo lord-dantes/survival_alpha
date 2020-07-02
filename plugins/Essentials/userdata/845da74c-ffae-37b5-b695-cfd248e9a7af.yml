@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Dswd
+timestamps:
+  login: 1590425145233
+  logout: 1590425247172
+ipAddress: 85.140.16.123
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -494.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -399.6867066975499
+  y: 61.0
+  z: -546.30249251968
+  yaw: -307.6751
+  pitch: 0.9387867

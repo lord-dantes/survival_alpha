@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: opposum
+timestamps:
+  login: 1592992974267
+  lastteleport: 1592992568805
+  logout: 1592993306329
+ipAddress: 188.172.220.71
+lastlocation:
+  world: world
+  x: -1017.4401348262672
+  y: 68.5
+  z: 1440.9558540595508
+  yaw: 262.44678
+  pitch: 24.861158
+logoutlocation:
+  world: world
+  x: -1014.1232501594077
+  y: 69.0
+  z: 1450.2331421422582
+  yaw: 88.660194
+  pitch: 4.488773
+homes: {}

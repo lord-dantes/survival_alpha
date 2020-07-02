@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ResRes
+timestamps:
+  login: 1592672911593
+  lastteleport: 1592672986110
+  logout: 1592673118724
+ipAddress: 188.235.20.64
+lastlocation:
+  world: world
+  x: 1273.2767748830363
+  y: 73.0
+  z: -1923.9719287843134
+  yaw: -14.400038
+  pitch: 11.100004
+logoutlocation:
+  world: world
+  x: -409.49762909237865
+  y: 60.0
+  z: -520.2601093617203
+  yaw: 182.831
+  pitch: 26.549995

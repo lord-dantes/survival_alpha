@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: Serjant
+timestamps:
+  login: 1592119037756
+  logout: 1592119106930
+  lastteleport: 1592114169131
+ipAddress: 83.221.200.30
+lastlocation:
+  world: world
+  x: 872.4008903995679
+  y: 38.0
+  z: -1577.7284259751418
+  yaw: -78.726074
+  pitch: 21.300163
+logoutlocation:
+  world: world
+  x: 952.7114098601764
+  y: 90.0
+  z: -1628.691443802521
+  yaw: -5.6795654
+  pitch: 20.850082
+money: '503.39600000000001205'
+homes:
+  home:
+    world: world
+    x: 952.5023920986675
+    y: 75.0
+    z: -1636.4550105400401
+    yaw: -118.47876
+    pitch: 15.90008
+afk: false

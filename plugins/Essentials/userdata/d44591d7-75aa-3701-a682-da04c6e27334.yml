@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Mancerop
+timestamps:
+  login: 1592679445251
+  logout: 1592679452098
+ipAddress: 195.226.203.22
+lastlocation:
+  world: world
+  x: -424.23040692468317
+  y: 59.0
+  z: -459.7071290589973
+  yaw: -322.2091
+  pitch: 51.15005
+logoutlocation:
+  world: world
+  x: -431.22044953115784
+  y: 65.0
+  z: -345.67414574118806
+  yaw: -19.969147
+  pitch: 28.070189
+afk: false
+money: '58.0'

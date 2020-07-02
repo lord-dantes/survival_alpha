@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: p2nflamy4
+timestamps:
+  login: 1591377266719
+  lastteleport: 1591376696844
+  logout: 1591377435988
+ipAddress: 176.118.209.254
+lastlocation:
+  world: world
+  x: -1751.4409026619483
+  y: 85.0
+  z: -626.4110319283783
+  yaw: -211.35492
+  pitch: 6.149987
+logoutlocation:
+  world: world
+  x: -853.3920221222188
+  y: 85.0
+  z: -598.092060985436
+  yaw: 19.196775
+  pitch: 9.899939
+homes:
+  home:
+    world: world
+    x: -854.9415674968892
+    y: 85.0
+    z: -596.3885779749615
+    yaw: -141.45322
+    pitch: 14.699966
+afk: false

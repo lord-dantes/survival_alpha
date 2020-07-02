@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Vaiz4R
+timestamps:
+  login: 1589555881428
+  logout: 1589555911380
+  lastteleport: 1589482130414
+ipAddress: 178.44.181.232
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -175.99887
+  pitch: 1.607361
+logoutlocation:
+  world: world
+  x: -2346.995315580809
+  y: 64.0
+  z: -160.921325795457
+  yaw: 226.08284
+  pitch: 12.545033
+afk: false

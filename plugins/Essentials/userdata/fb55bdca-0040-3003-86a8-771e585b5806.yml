@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: Hook_Blood
+timestamps:
+  login: 1592598820859
+  lastteleport: 1592596814070
+  jail: 0
+  logout: 1592598833613
+ipAddress: 82.208.124.120
+lastlocation:
+  world: world
+  x: -416.30000001192093
+  y: 30.0
+  z: -511.46332962376636
+  yaw: -91.80373
+  pitch: 8.751097
+homes:
+  home:
+    world: world
+    x: -1124.0497096111362
+    y: 87.0
+    z: -309.4848442870401
+    yaw: 354.73608
+    pitch: 14.190217
+money: '198.0100000000000008'
+jailed: false
+logoutlocation:
+  world: world
+  x: -407.0882792171446
+  y: 35.0
+  z: -509.3000000119208
+  yaw: -141.11691
+  pitch: -0.94091386

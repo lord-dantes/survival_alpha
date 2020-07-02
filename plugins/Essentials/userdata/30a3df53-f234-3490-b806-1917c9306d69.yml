@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: bog_dan
+timestamps:
+  login: 1589458386120
+  logout: 1589458697531
+ipAddress: 178.122.209.194
+lastlocation:
+  world: world
+  x: -407.8685386901424
+  y: 59.17675927506424
+  z: -497.511895351932
+  yaw: -188.44324
+  pitch: 37.403557
+logoutlocation:
+  world: world
+  x: -408.5854693598164
+  y: 58.0
+  z: -501.36092902552394
+  yaw: -182.2831
+  pitch: 4.2981625

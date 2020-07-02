@@ -1,0 +1,62 @@
+socialspy: false
+lastAccountName: Lord_Dantes
+timestamps:
+  login: 1593381777314
+  logout: 1593381549484
+  lastteleport: 1593379447828
+  kits:
+    capitan: 1592995686400
+    capral: 1593070981369
+    general: 1592995682196
+    leitenant: 1590687889757
+    serjant: 1590687854640
+    major: 1592995657796
+    brigadir: 1592995694796
+    mlcapral: 1592995664796
+    general-leitenant: 1593070811719
+    start: 1592994530030
+    stserjant: 1593085056868
+    rekruit: 1592995651447
+  lastheal: 1590856994758
+ipAddress: 192.162.227.174
+lastlocation:
+  world: world
+  x: -1088.6742825498086
+  y: 72.46747038846694
+  z: 1449.4516233631546
+  yaw: 267.58524
+  pitch: 28.980185
+logoutlocation:
+  world: world
+  x: -1034.1249709969331
+  y: 64.0
+  z: 1424.1439406544541
+  yaw: 277.93066
+  pitch: 8.366933
+homes:
+  home:
+    world: world
+    x: -392.710656047389
+    y: 62.5
+    z: -543.722224439821
+    yaw: -86.64206
+    pitch: 19.451616
+  s:
+    world: world
+    x: -392.30386868852656
+    y: 62.0
+    z: -543.5393449323354
+    yaw: -175.31
+    pitch: 11.981784
+  oldspawn:
+    world: world
+    x: -398.03153329081994
+    y: 62.0
+    z: -542.485737532998
+    yaw: 70.79644
+    pitch: 17.551407
+afk: false
+godmode: false
+money: '62958508.71950000000015735'
+nickname: Lord_Dantes
+teleportenabled: true

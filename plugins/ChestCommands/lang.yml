@@ -1,0 +1,11 @@
+# no-open-permission: '&cУ вас нет разрешения &e{permission} &использовать это меню.'
+no-open-permission: '&cУ вас недостаточно уполномочий чтобы обращаться к этому.'
+default-no-icon-permission: '&cУ вас нет разрешения на этот значок.'
+open-menu: '&a&aОткрытие меню "{menu}".'
+no-exp: '&cДля этого вам нужны уровень {levels} XP.'
+menu-not-found: '&cМеню не найдено! Пожалуйста, сообщите об этом сотрудникам отеля.'
+no-money: '&7[&e&lSurvival&7&r] &7Чтобы купить этот ранг вам нужно иметь &c{money}'
+no-required-item: '&cВы должны иметь &e{amount}x {material} &c(значение данных: {datavalue})
+для этого.'
+open-menu-others: '&aОткрытие меню "{menu} " в {player}.'
+any: any

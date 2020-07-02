@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: Toscha_1358
+timestamps:
+  login: 1590934555708
+  logout: 1590943163862
+  lastteleport: 1590943019972
+ipAddress: 91.245.134.114
+lastlocation:
+  world: world
+  x: -969.4183006185483
+  y: 19.0
+  z: -824.3794604229109
+  yaw: -241.19897
+  pitch: 8.849829
+logoutlocation:
+  world: world
+  x: -1232.5955612635503
+  y: 75.0
+  z: -803.2725401681256
+  yaw: -14.979456
+  pitch: 8.699948
+homes:
+  home:
+    world: world
+    x: -1170.5209892446067
+    y: 70.0
+    z: -838.7143441698813
+    yaw: 199.82057
+    pitch: 20.699953
+money: '4646.05210000000001443'
+afk: false

@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: Russ1anFl3x
+timestamps:
+  login: 1591795169709
+  logout: 1591799458359
+  lastteleport: 1591799235938
+  kits:
+    capral: 1591796655505
+ipAddress: 178.90.56.223
+lastlocation:
+  world: world
+  x: 1783.4429741390954
+  y: 64.0
+  z: -1463.3866614513865
+  yaw: -178.53491
+  pitch: 13.077087
+logoutlocation:
+  world: world
+  x: -402.51441670818394
+  y: 66.82103582517358
+  z: -543.2788619046794
+  yaw: -295.8828
+  pitch: 35.762966
+money: '32501.5000000000001566'
+homes:
+  home:
+    world: world
+    x: 1783.4429741390954
+    y: 64.0
+    z: -1463.3866614513865
+    yaw: -178.53491
+    pitch: 13.077087

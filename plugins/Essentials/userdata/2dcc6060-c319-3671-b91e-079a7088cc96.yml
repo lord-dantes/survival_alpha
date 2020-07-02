@@ -1,0 +1,72 @@
+socialspy: false
+lastAccountName: 0sypher
+timestamps:
+  login: 1592334618230
+  logout: 1592334648129
+  lastteleport: 1592252483432
+  kits:
+    capral: 1591557829090
+    leitenant: 1591738837612
+    serjant: 1591698224107
+  lastheal: 1592252434972
+ipAddress: 195.34.207.149
+lastlocation:
+  world: world
+  x: -317.0544125752084
+  y: 76.0
+  z: -776.6999999880791
+  yaw: -313.66217
+  pitch: 18.149939
+logoutlocation:
+  world: world
+  x: -288.11982213415166
+  y: 70.0
+  z: -725.4130341189037
+  yaw: 214.80147
+  pitch: 28.049908
+money: '7603483.3421999999989993'
+homes:
+  home:
+    world: world
+    x: -1570.8124819159632
+    y: 38.0
+    z: -1295.3361182298186
+    yaw: 45.42148
+    pitch: 34.95291
+  q:
+    world: world
+    x: -281.23599472815425
+    y: 76.0
+    z: -719.763041664274
+    yaw: 175.93536
+    pitch: 14.486933
+  qq:
+    world: world
+    x: -917.0867139259078
+    y: 63.0
+    z: -797.0542654702356
+    yaw: 323.25076
+    pitch: 19.349997
+  home1:
+    world: world
+    x: -129.52265963780968
+    y: 65.0
+    z: -784.710612091904
+    yaw: -57.106537
+    pitch: 33.379723
+  derevo:
+    world: world
+    x: -182.34931403412315
+    y: 64.0
+    z: -734.1995672674735
+    yaw: 44.257767
+    pitch: 6.3652296
+  du:
+    world: world
+    x: 456.20889035076596
+    y: 72.0
+    z: 1660.9086011052996
+    yaw: 325.20578
+    pitch: 54.000046
+afk: false
+nickname: PIKAPER

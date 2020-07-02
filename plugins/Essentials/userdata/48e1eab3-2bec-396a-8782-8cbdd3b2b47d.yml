@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Smerx
+timestamps:
+  login: 1589457618401
+  logout: 1589457695305
+ipAddress: 5.248.108.231
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -500.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -405.3778380176707
+  y: 60.0
+  z: -527.385794249157
+  yaw: 15.571976
+  pitch: -1.3111718

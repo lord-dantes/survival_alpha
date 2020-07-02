@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Swist
+timestamps:
+  login: 1591885206200
+  logout: 1591885257046
+ipAddress: 95.64.245.143
+lastlocation:
+  world: world
+  x: -418.5
+  y: 254.0
+  z: -498.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -407.3798726026142
+  y: 66.0
+  z: -377.3801526124222
+  yaw: -56.607544
+  pitch: -19.115772

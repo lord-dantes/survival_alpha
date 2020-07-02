@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: misconduct
+timestamps:
+  login: 1590325826095
+  logout: 1590325909948
+ipAddress: 37.112.209.65
+lastlocation:
+  world: world
+  x: -409.5
+  y: 254.0
+  z: -497.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -425.0107086688293
+  y: 104.0
+  z: -505.8858171962405
+  yaw: -3.4603136
+  pitch: 78.0547

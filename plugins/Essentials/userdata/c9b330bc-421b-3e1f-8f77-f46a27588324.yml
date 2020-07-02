@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: 128am
+timestamps:
+  login: 1592477665137
+  logout: 1592478005971
+ipAddress: 109.95.33.11
+lastlocation:
+  world: world
+  x: -417.5
+  y: 254.0
+  z: -500.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -364.8070252754666
+  y: 60.0
+  z: 4.31446530940222
+  yaw: -42.15001
+  pitch: 11.099986

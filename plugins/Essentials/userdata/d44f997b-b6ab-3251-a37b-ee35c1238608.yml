@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Martelov
+timestamps:
+  login: 1590354898293
+  logout: 1590354932913
+ipAddress: 195.138.90.20
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -508.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -403.8969649165117
+  y: 63.796735600668704
+  z: -518.713095082361
+  yaw: -66.77475
+  pitch: 16.538858

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: KepZee
+timestamps:
+  login: 1592160086987
+  logout: 1592160116996
+ipAddress: 213.57.43.114
+lastlocation:
+  world: world
+  x: -409.5
+  y: 129.0
+  z: -494.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.4668249981748
+  y: 58.0
+  z: -498.92231112248135
+  yaw: -167.41719
+  pitch: 90.0

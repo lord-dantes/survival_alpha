@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: Lucifer
+timestamps:
+  login: 1592740469583
+  logout: 1592742923586
+  lastteleport: 1592742792213
+  kits:
+    capral: 1592670091216
+ipAddress: 176.108.190.1
+lastlocation:
+  world: world
+  x: 1298.3888008262056
+  y: 10.0
+  z: 1631.138331908054
+  yaw: 292.42828
+  pitch: 21.403093
+logoutlocation:
+  world: world
+  x: 1314.9287743175241
+  y: 85.0
+  z: 1594.1753266472
+  yaw: 314.55896
+  pitch: 11.619611
+homes:
+  home:
+    world: world
+    x: 1317.2716788705459
+    y: 85.0
+    z: 1599.2995317977582
+    yaw: 208.17773
+    pitch: 17.259268
+money: '10100.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: PhoebLee
+timestamps:
+  login: 1589656282936
+  lastteleport: 1589656580117
+  logout: 1589656969320
+ipAddress: 217.65.252.208
+lastlocation:
+  world: world
+  x: -365.62906109100544
+  y: 67.7531999805212
+  z: -551.5754985492968
+  yaw: -163.95082
+  pitch: 16.862276
+logoutlocation:
+  world: world
+  x: -340.9042973186508
+  y: 64.0
+  z: -654.7719651051715
+  yaw: 56.3963
+  pitch: -9.326002

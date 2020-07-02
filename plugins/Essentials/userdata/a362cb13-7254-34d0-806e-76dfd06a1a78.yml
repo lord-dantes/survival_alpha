@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: ___pathetic
+timestamps:
+  login: 1590938660885
+  logout: 1590944819546
+  lastteleport: 1590943428686
+ipAddress: 85.196.249.9
+lastlocation:
+  world: world
+  x: -462.50666773027575
+  y: 63.0
+  z: 639.1295808918039
+  yaw: 306.00305
+  pitch: 12.474704
+logoutlocation:
+  world: world
+  x: -777.770583165308
+  y: 73.0
+  z: 62.58547214844382
+  yaw: 141.61221
+  pitch: 8.68642
+afk: false
+homes:
+  home:
+    world: world
+    x: -782.4562541248632
+    y: 81.0
+    z: 61.60967050999723
+    yaw: 231.1272
+    pitch: 16.398338

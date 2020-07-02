@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Boyo
+timestamps:
+  login: 1590948108762
+  logout: 1590948518366
+  lastteleport: 1590948302700
+ipAddress: 212.124.7.111
+lastlocation:
+  world: world
+  x: -868.8476306654513
+  y: 15.0
+  z: -428.5001354177725
+  yaw: 308.82422
+  pitch: 19.050009
+logoutlocation:
+  world: world
+  x: -1017.5778478202238
+  y: 64.0
+  z: -301.84997721162864
+  yaw: 254.07959
+  pitch: 19.50012
+homes:
+  home:
+    world: world
+    x: -1021.1535040758826
+    y: 64.0
+    z: -317.1868985062
+    yaw: 76.03296
+    pitch: 30.300123

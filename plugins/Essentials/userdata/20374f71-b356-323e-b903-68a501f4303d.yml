@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: katyusha54555
+timestamps:
+  login: 1591765370019
+  logout: 1591766786493
+  lastteleport: 1591766681364
+ipAddress: 109.171.74.225
+lastlocation:
+  world: world
+  x: -1386.1480675393304
+  y: 3.0
+  z: 568.1586651833708
+  yaw: 44.344543
+  pitch: 2.700066
+logoutlocation:
+  world: world
+  x: -1408.593729359281
+  y: 68.0
+  z: 449.830195275328
+  yaw: 95.041626
+  pitch: 32.38042
+afk: false
+homes:
+  home:
+    world: world
+    x: -1406.0573095741895
+    y: 68.0
+    z: 444.23039198353763
+    yaw: 315.84192
+    pitch: 29.380434
+money: '1.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Andrei777
+timestamps:
+  login: 1590950886874
+  lastteleport: 1590950681966
+  logout: 1590950996741
+ipAddress: 109.127.181.236
+lastlocation:
+  world: world
+  x: -455.85370357692364
+  y: 63.0
+  z: -201.41396614933578
+  yaw: -24.93919
+  pitch: 50.549973
+logoutlocation:
+  world: world
+  x: -437.37536558901223
+  y: 66.0
+  z: -204.6992332755187
+  yaw: -116.19215
+  pitch: 38.46777

@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: nastya1284
+timestamps:
+  login: 1590481671248
+  lastteleport: 1590426654046
+  logout: 1590481700404
+ipAddress: 178.151.163.48
+lastlocation:
+  world: world
+  x: -182.52206027230764
+  y: 71.0
+  z: -1608.1368522658224
+  yaw: -64.94971
+  pitch: 27.300001
+homes:
+  home:
+    world: world
+    x: -1357.3364643815016
+    y: 77.0
+    z: -524.9260991720301
+    yaw: 148.56726
+    pitch: 41.399994
+logoutlocation:
+  world: world
+  x: -1357.760570129469
+  y: 77.0
+  z: -525.2520202811559
+  yaw: 1.7180946
+  pitch: 50.550007

@@ -1,0 +1,108 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 12288 bytes for committing reserved memory.
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   The process is running with CompressedOops enabled, and the Java Heap may be blocking the growth of the native heap
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+#   JVM is running with Unscaled Compressed Oops mode in which the Java heap is
+#     placed in the first 4GB address space. The Java Heap base address is the
+#     maximum limit for the native heap growth. Please use -XX:HeapBaseMinAddress
+#     to set the Java Heap base and to place the Java Heap above 4GB virtual address.
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (os_linux.cpp:2757), pid=4191, tid=0x00007f5d5007f700
+#
+# JRE version: OpenJDK Runtime Environment (8.0_252-b09) (build 1.8.0_252-8u252-b09-1~18.04-b09)
+# Java VM: OpenJDK 64-Bit Server VM (25.252-b09 mixed mode linux-amd64 compressed oops)
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f5d380a6800):  JavaThread "process reaper" daemon [_thread_new, id=18712, stack(0x00007f5d50047000,0x00007f5d50080000)]
+
+Stack: [0x00007f5d50047000,0x00007f5d50080000],  sp=0x00007f5d5007eb00,  free space=222k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.so+0xabcb22]
+V  [libjvm.so+0x4de337]
+V  [libjvm.so+0x8f66c6]
+V  [libjvm.so+0x8ed9fe]
+V  [libjvm.so+0x8f7c37]
+V  [libjvm.so+0xa5af26]
+V  [libjvm.so+0xa5b160]
+V  [libjvm.so+0x8f3e62]
+C  [libpthread.so.0+0x76db]  start_thread+0xdb
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+=>0x00007f5d380a6800 JavaThread "process reaper" daemon [_thread_new, id=18712, stack(0x00007f5d50047000,0x00007f5d50080000)]
+  0x00007f5d281a0000 JavaThread "User Authenticator #35" daemon [_thread_in_vm, id=18685, stack(0x00007f5d19790000,0x00007f5d19891000)]
+  0x00007f5d2817f800 JavaThread "User Authenticator #34" daemon [_thread_in_vm, id=18684, stack(0x00007f5d1948d000,0x00007f5d1958e000)]
+  0x00007f5d32007800 JavaThread "Timer-4" [_thread_blocked, id=14477, stack(0x00007f5d19992000,0x00007f5d19a93000)]
+  0x00007f5d2d0bd000 JavaThread "pool-19-thread-1" [_thread_blocked, id=4317, stack(0x00007f5d18c87000,0x00007f5d18d88000)]
+  0x00007f5d302df800 JavaThread "Chunk I/O Executor Thread-2" daemon [_thread_blocked, id=4316, stack(0x00007f5d18d88000,0x00007f5d18e89000)]
+  0x00007f5d302de000 JavaThread "Chunk I/O Executor Thread-1" daemon [_thread_blocked, id=4315, stack(0x00007f5d18e89000,0x00007f5d18f8a000)]
+  0x00007f5d30336000 JavaThread "File IO Thread" [_thread_in_vm, id=4311, stack(0x00007f5d1918a000,0x00007f5d1928b000)]
+  0x00007f5d32078000 JavaThread "Thread-15" [_thread_blocked, id=4295, stack(0x00007f5d19e93000,0x00007f5d19f94000)]
+  0x00007f5d32000000 JavaThread "Jobs-BufferedPaymentThread" [_thread_blocked, id=4292, stack(0x00007f5d19f94000,0x00007f5d1a095000)]
+  0x00007f5d31f6b800 JavaThread "Jobs-DatabaseSaveTask" [_thread_in_vm, id=4291, stack(0x00007f5d1b80d000,0x00007f5d1b90e000)]
+  0x00007f5d320ba800 JavaThread "pool-20-thread-1" [_thread_blocked, id=4284, stack(0x00007f5d1bb3a000,0x00007f5d1bc3b000)]
+  0x00007f5d31eba800 JavaThread "Timer-3" [_thread_blocked, id=4273, stack(0x00007f5d1b1f8000,0x00007f5d1b2f9000)]
+  0x00007f5d31e7b800 JavaThread "Abandoned connection cleanup thread" daemon [_thread_blocked, id=4272, stack(0x00007f5d1b0f7000,0x00007f5d1b1f8000)]
+  0x00007f5d3033c000 JavaThread "Timer-2" daemon [_thread_blocked, id=4267, stack(0x00007f5d1b4f9000,0x00007f5d1b5fa000)]
+  0x00007f5d31d67000 JavaThread "Timer-1" [_thread_blocked, id=4262, stack(0x00007f5d1be3b000,0x00007f5d1bf3c000)]
+  0x00007f5d28011800 JavaThread "Netty Epoll Server IO #3" daemon [_thread_blocked, id=4257, stack(0x00007f5d1c13c000,0x00007f5d1c23d000)]
+  0x00007f5d2800e000 JavaThread "Netty Epoll Server IO #2" daemon [_thread_blocked, id=4254, stack(0x00007f5d1c23d000,0x00007f5d1c33e000)]
+  0x00007f5d28004000 JavaThread "Netty Epoll Server IO #1" daemon [_thread_in_vm, id=4251, stack(0x00007f5d1c33e000,0x00007f5d1c43f000)]
+  0x00007f5d305c9000 JavaThread "Timer-0" daemon [_thread_blocked, id=4246, stack(0x00007f5d1c83f000,0x00007f5d1c940000)]
+  0x00007f5d3059c800 JavaThread "AutoSaveWorld AutoConsoleCommandThread" [_thread_blocked, id=4245, stack(0x00007f5d1cb40000,0x00007f5d1cc41000)]
+  0x00007f5d3059a800 JavaThread "AutoSaveWorld CrashRestartThread" [_thread_blocked, id=4244, stack(0x00007f5d1cc41000,0x00007f5d1cd42000)]
+  0x00007f5d30599000 JavaThread "AutoSaveWorld AutoRestartThread" [_thread_blocked, id=4243, stack(0x00007f5d1cd42000,0x00007f5d1ce43000)]
+  0x00007f5d30596800 JavaThread "AutoSaveWorld AutoPurgeThread" [_thread_blocked, id=4242, stack(0x00007f5d1ce43000,0x00007f5d1cf44000)]
+  0x00007f5d30595000 JavaThread "AutoSaveWorld AutoBackupThread" [_thread_blocked, id=4241, stack(0x00007f5d1cf44000,0x00007f5d1d045000)]
+  0x00007f5d3058c800 JavaThread "AutoSaveWorld AutoSaveThread" [_thread_blocked, id=4240, stack(0x00007f5d1d045000,0x00007f5d1d146000)]
+  0x00007f5d301dc800 JavaThread "Netty Epoll Server IO #0" daemon [_thread_in_vm, id=4231, stack(0x00007f5d1e08f000,0x00007f5d1e190000)]
+  0x00007f5d3019a000 JavaThread "Spigot Metrics Thread" daemon [_thread_in_vm, id=4226, stack(0x00007f5d1e190000,0x00007f5d1e291000)]
+  0x00007f5d30185000 JavaThread "Paper Watchdog Thread" [_thread_in_vm, id=4225, stack(0x00007f5d1e291000,0x00007f5d1e392000)]
+  0x00007f5d30012000 JavaThread "Server console handler" daemon [_thread_in_native, id=4223, stack(0x00007f5d1e392000,0x00007f5d1e493000)]
+  0x00007f5d30009000 JavaThread "Thread-5" [_thread_in_vm, id=4222, stack(0x00007f5d1e493000,0x00007f5d1e594000)]
+  0x00007f5d4c00b000 JavaThread "DestroyJavaVM" [_thread_blocked, id=4192, stack(0x00007f5d543b6000,0x00007f5d544b6000)]
+  0x00007f5d4c72d800 JavaThread "Server thread" [_thread_in_vm, id=4221, stack(0x00007f5d1e594000,0x00007f5d1e695000)]
+  0x00007f5d4c72d000 JavaThread "Server Infinisleeper" daemon [_thread_blocked, id=4220, stack(0x00007f5d1e695000,0x00007f5d1e796000)]
+  0x00007f5d4c75d800 JavaThread "NonBlockingInputStreamThread" daemon [_thread_blocked, id=4218, stack(0x00007f5d1e796000,0x00007f5d1e897000)]
+  0x00007f5d4c1b6000 JavaThread "Snooper Timer" daemon [_thread_blocked, id=4206, stack(0x00007f5d1e897000,0x00007f5d1e998000)]
+  0x00007f5d4c6c3000 JavaThread "Paper Async Task Handler Thread - 0" [_thread_blocked, id=4205, stack(0x00007f5d1eb98000,0x00007f5d1ec99000)]
+  0x00007f5d4c0e6000 JavaThread "Service Thread" daemon [_thread_blocked, id=4199, stack(0x00007f5d3c11e000,0x00007f5d3c21f000)]
+  0x00007f5d4c0d8800 JavaThread "C1 CompilerThread1" daemon [_thread_blocked, id=4198, stack(0x00007f5d3c220000,0x00007f5d3c320000)]
+  0x00007f5d4c0d6800 JavaThread "C2 CompilerThread0" daemon [_thread_in_vm, id=4197, stack(0x00007f5d3c321000,0x00007f5d3c421000)]
+  0x00007f5d4c0d5000 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=4196, stack(0x00007f5d3c421000,0x00007f5d3c522000)]
+  0x00007f5d4c0a4800 JavaThread "Finalizer" daemon [_thread_blocked, id=4195, stack(0x00007f5d500c0000,0x00007f5d501c1000)]
+  0x00007f5d4c0a0000 JavaThread "Reference Handler" daemon [_thread_blocked, id=4194, stack(0x00007f5d501c1000,0x00007f5d502c2000)]
+
+Other Threads:
+  0x00007f5d4c096800 VMThread [stack: 0x00007f5d502c3000,0x00007f5d503c3000] [id=4193]
+  0x00007f5d4c0e8800 WatcherThread [stack: 0x00007f5d3c01e000,0x00007f5d3c11e000] [id=4200]
+
+VM state:synchronizing (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x00007f5d4c007a70] Safepoint_lock - owner thread: 0x00007f5d4c096800
+[0x00007f5d4c007af0] Threads_lock - owner thread: 0x00007f5d4c096800
+
+heap address: 0x00000000c0000000, size: 1024 MB, Compressed Oops mode: 32-bit
+Narrow klass base: 0x0000000000000000, Narrow klass shift: 3
+Compressed class space size: 1073741824 Address: 0x0000000100000000
+
+Heap:
+ def new generation   total 314560K, used 68094K [0x00000000c0000000, 0x00000000d5550000, 0x00000000d5550000)
+  eden

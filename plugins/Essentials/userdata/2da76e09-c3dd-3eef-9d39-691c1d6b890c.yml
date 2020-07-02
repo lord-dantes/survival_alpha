@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: tyio
+timestamps:
+  login: 1592735227432
+  logout: 1592737758885
+  lastteleport: 1592736939027
+ipAddress: 5.76.125.148
+lastlocation:
+  world: world
+  x: 961.0973887440505
+  y: 75.0
+  z: -948.6429066750329
+  yaw: 39.955173
+  pitch: 23.399986
+logoutlocation:
+  world: world
+  x: 920.2546443979224
+  y: 44.0
+  z: -960.3000000119209
+  yaw: 15.579401
+  pitch: 39.30005
+homes:
+  home:
+    world: world
+    x: 913.0017534081624
+    y: 64.0
+    z: -921.7852633495431
+    yaw: -38.420223
+    pitch: 11.850002
+afk: false

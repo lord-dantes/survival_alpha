@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: MrKowiy
+timestamps:
+  login: 1590403888210
+  lastteleport: 1590404181884
+  logout: 1590404202203
+ipAddress: 188.32.154.130
+lastlocation:
+  world: world
+  x: -299.68613706312584
+  y: 67.0
+  z: -769.1960970080354
+  yaw: -337.8213
+  pitch: 19.349892
+logoutlocation:
+  world: world
+  x: -407.81487856474297
+  y: 60.0
+  z: -523.0809471762442
+  yaw: -97.96916
+  pitch: 8.5701685

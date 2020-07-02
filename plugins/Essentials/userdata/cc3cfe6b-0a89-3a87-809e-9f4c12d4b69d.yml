@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Gosha08
+timestamps:
+  login: 1589461118931
+  logout: 1589461635271
+  lastteleport: 1589461333667
+  mute: 0
+ipAddress: 188.170.84.243
+lastlocation:
+  world: world
+  x: -458.45643547535565
+  y: 86.0
+  z: -1149.5799976281892
+  yaw: 297.30017
+  pitch: 89.25
+logoutlocation:
+  world: world
+  x: -407.8700057060263
+  y: 58.0
+  z: -509.61277479263555
+  yaw: -182.2688
+  pitch: 36.599983
+muteReason: флудд
+muted: true

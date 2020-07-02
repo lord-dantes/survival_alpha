@@ -1,0 +1,135 @@
+groups:
+  rekruit:
+    default: true
+    permissions:
+    - authme.register
+    - -bukkit.command.kill
+    - essentials.spawn
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.msg
+    - essentials.ping
+    - essentials.signs.use.*
+    - essentials.list
+    - essentials.motd
+    - essentials.rules
+    - essentials.spawn
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.worth
+    - essentials.jail.allow.mail
+    - essentials.jail.allow.ping
+    - essentials.jail.allow.seen
+    - essentials.home
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple
+    - essentials.kit
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.msg
+    - essentials.signs.use.*
+    prefix: '&7[Игрок] &e'
+    suffix: ''
+  capral:
+    default: false
+    inheritance:
+    - rekruit
+    permissions:
+    - essentials.back
+    prefix: '&7[Капрал] &e'
+    suffix: ''
+  serjant:
+    default: false
+    inheritance:
+    - capral
+    permissions:
+    - essentials.back
+    prefix: '&7[Сержант] &f'
+    suffix: ''
+  leitenant:
+    default: false
+    inheritance:
+    - serjant
+    permissions:
+    - essentials.back
+    prefix: '&7[Лейтенант] &f'
+    suffix: ''
+  capitan:
+    default: false
+    inheritance:
+    - leitenant
+    permissions:
+    - essentials.back
+    prefix: '&7[Капитан] &f'
+    suffix: ''
+  major:
+    default: false
+    inheritance:
+    - capitan
+    permissions:
+    - essentials.back
+    prefix: '&7[Майор] &f'
+    suffix: ''
+  polkovnik:
+    default: false
+    inheritance:
+    - major
+    permissions:
+    - essentials.back
+    prefix: '&7[Полковник] &f'
+    suffix: ''
+  general-leitenant:
+    default: false
+    inheritance:
+    - polkovnik
+    permissions:
+    - essentials.back
+    prefix: '&7[Генерал-лейтенант] &f'
+    suffix: ''
+  general:
+    default: false
+    inheritance:
+    - general-leitenant
+    permissions:
+    - essentials.back
+    prefix: '&7[Генерал] &f'
+    suffix: ''
+  moderator:
+    default: false
+    inheritance:
+    - general
+    permissions:
+    - essentials.back
+    prefix: '&7[Полковник] &f'
+    suffix: ''
+  admin:
+    default: false
+    inheritance:
+    - moderator
+    permissions:
+    - essentials.back
+    prefix: '&7[Генерал-лейтенант] &f'
+    suffix: ''
+  owner:
+    default: false
+    inheritance:
+    - admin
+    permissions:
+    - '*'
+    prefix: '&7[Генерал] &c&l'
+    suffix: ''
+users:
+  lord_dantes:
+    group:
+    - owner

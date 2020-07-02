@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: Pugach_GOU
+timestamps:
+  login: 1592323911467
+  logout: 1592323961915
+  lastteleport: 1592313490871
+ipAddress: 92.124.160.49
+lastlocation:
+  world: world
+  x: -70.69999998807907
+  y: 10.0
+  z: -311.94502399003613
+  yaw: 179.28351
+  pitch: 42.11713
+homes:
+  home:
+    world: world
+    x: -46.52406169768847
+    y: 64.0
+    z: -330.1229605189087
+    yaw: -312.41907
+    pitch: 24.750002
+money: '9900.0'
+logoutlocation:
+  world: world
+  x: -45.166644926047255
+  y: 64.0
+  z: -330.27592248600956
+  yaw: -254.51558
+  pitch: 40.34997
+afk: false

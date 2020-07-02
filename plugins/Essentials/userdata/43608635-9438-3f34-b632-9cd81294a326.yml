@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: misericordia1
+timestamps:
+  login: 1591374881560
+  lastteleport: 1591375137370
+  logout: 1591375944918
+ipAddress: 176.14.240.113
+lastlocation:
+  world: world
+  x: -1166.2060212684808
+  y: 65.0
+  z: -839.8633816993511
+  yaw: 292.73328
+  pitch: 29.746702
+logoutlocation:
+  world: world_nether
+  x: -106.69999998807907
+  y: 28.0
+  z: -129.30000001192093
+  yaw: 208.5473
+  pitch: 50.818554
+afk: false

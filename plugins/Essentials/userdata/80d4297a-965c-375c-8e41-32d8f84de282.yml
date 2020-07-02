@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: hjhh
+timestamps:
+  login: 1592495495416
+  lastteleport: 1592496191632
+  logout: 1592496605747
+ipAddress: 91.237.182.224
+lastlocation:
+  world: world
+  x: 1341.413302618579
+  y: 71.0
+  z: 1588.300000011921
+  yaw: 188.84918
+  pitch: 89.85
+homes:
+  home:
+    world: world
+    x: 1323.4469977060585
+    y: 85.0
+    z: 1593.9633622179758
+    yaw: 167.09903
+    pitch: 9.441397
+afk: false
+logoutlocation:
+  world: world
+  x: 1313.137499988079
+  y: 80.0
+  z: 1592.169734189588
+  yaw: -306.6046
+  pitch: -60.750008

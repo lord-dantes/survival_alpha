@@ -1,0 +1,70 @@
+socialspy: false
+lastAccountName: FuckYouMich
+timestamps:
+  login: 1591119304782
+  lastteleport: 1591120156669
+  logout: 1591120609966
+  kits:
+    capral: 1590928318742
+    major: 1590946114559
+  lastheal: 1591119851498
+ipAddress: 178.217.43.133
+lastlocation:
+  world: world
+  x: -408.85349287337783
+  y: 58.0
+  z: -499.95986320645187
+  yaw: -205.67471
+  pitch: 3.6387963
+homes:
+  home:
+    world: world
+    x: 903.5
+    y: 71.0
+    z: 1034.5
+    yaw: 181.6529
+    pitch: 10.992117
+  mex:
+    world: world
+    x: 903.6533914641216
+    y: 71.0
+    z: 1034.7514359066793
+    yaw: 181.6529
+    pitch: 10.992117
+  portal:
+    world: world
+    x: -519.1609429549501
+    y: 27.0
+    z: 2106.4353691441393
+    yaw: -274.11816
+    pitch: 27.696854
+  ad:
+    world: world_nether
+    x: 134.21037329581583
+    y: 69.0
+    z: 452.5165396780119
+    yaw: 17.693481
+    pitch: 33.477585
+  mine:
+    world: world_nether
+    x: 18.296045551344076
+    y: 99.0
+    z: 136.21915222262976
+    yaw: -1.8577576
+    pitch: 9.359867
+  stroika:
+    world: world
+    x: -1288.346437958225
+    y: 64.0
+    z: 1369.4755931448558
+    yaw: -109.811646
+    pitch: 17.154541
+logoutlocation:
+  world: world_nether
+  x: 74.30000001192093
+  y: 76.0
+  z: 148.07032957400617
+  yaw: -355.94803
+  pitch: 67.8847
+money: '121654.67025000000035451'
+afk: false

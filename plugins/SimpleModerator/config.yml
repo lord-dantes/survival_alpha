@@ -1,0 +1,11 @@
+bans: ip:-1,pr0kjl9itoedit9i:-1,
+mutes: ''
+ipbans: 176.112.173.28,195.43.70.93,46.219.226.238,178.217.43.133,89.28.162.95,2.133.14.205,128.75.162.167,
+broadcast:
+  kick: false
+  mute: false
+  ban: false
+limit:
+  mute: 168
+  ban: 168
+persist-mutes: 'false'

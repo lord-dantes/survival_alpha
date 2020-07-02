@@ -1,0 +1,50 @@
+socialspy: false
+lastAccountName: Maryshka
+timestamps:
+  login: 1593378199767
+  logout: 1593378206395
+  lastteleport: 1593020311222
+  jail: 0
+  kits:
+    capral: 1591609523310
+    leitenant: 1591609554460
+    serjant: 1591609537252
+    brigadir: 1593016791307
+    start: 1593016936875
+    admin: 1592383203486
+    flamingo: 1592383171277
+ipAddress: 46.133.144.178
+lastlocation:
+  world: world
+  x: -1049.5509400051421
+  y: 78.63240094796278
+  z: 1492.5277386099415
+  yaw: 149.13574
+  pitch: 21.900122
+logoutlocation:
+  world: world
+  x: -1073.4395382222403
+  y: 102.70325118677924
+  z: 1519.811763899294
+  yaw: 252.08301
+  pitch: 57.599995
+money: '0'
+jailed: false
+afk: false
+nickname: §4ERROR
+homes:
+  building:
+    world: world
+    x: 2167.306411252747
+    y: 76.0
+    z: -1522.2659838565546
+    yaw: 220.05238
+    pitch: 41.099934
+  house:
+    world: world
+    x: 210.06318573801448
+    y: 71.0
+    z: 1606.2716492398092
+    yaw: 347.53027
+    pitch: 31.49999
+teleportenabled: true

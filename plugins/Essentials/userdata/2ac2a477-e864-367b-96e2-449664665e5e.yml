@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Jared
+timestamps:
+  login: 1592132098899
+  logout: 1592142998072
+  lastteleport: 1592142713976
+  kits:
+    capral: 1592107333464
+ipAddress: 213.87.127.0
+lastlocation:
+  world: world
+  x: 590.4544289417938
+  y: 3.0
+  z: 1146.9801796060678
+  yaw: -183.29927
+  pitch: 33.14999
+logoutlocation:
+  world: world
+  x: 453.04464412272495
+  y: 63.5625
+  z: 1656.471599354758
+  yaw: -275.7
+  pitch: 18.599974
+money: '20977.5'
+afk: false

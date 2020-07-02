@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Alex_Xit
+timestamps:
+  login: 1590162012146
+  logout: 1590162111004
+  lastteleport: 1590162069197
+ipAddress: 37.212.194.31
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+logoutlocation:
+  world: world
+  x: -249.87959730767815
+  y: 66.0
+  z: -1272.6995959978922
+  yaw: -279.31235
+  pitch: 1.3500377
+homes:
+  home:
+    world: world
+    x: -229.2739648253788
+    y: 67.0
+    z: -1280.4634317013401
+    yaw: 41.83746
+    pitch: 6.5999956

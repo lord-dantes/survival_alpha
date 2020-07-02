@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: lar10n
+timestamps:
+  login: 1590256428979
+  lastteleport: 1590255048541
+  logout: 1590256511319
+ipAddress: 109.187.167.136
+lastlocation:
+  world: world
+  x: 177.46557718542934
+  y: 57.0
+  z: -1202.5471517968065
+  yaw: 45.461792
+  pitch: 5.5500073
+homes:
+  home:
+    world: world
+    x: 175.9026566750778
+    y: 57.0
+    z: -1202.947295294693
+    yaw: -143.98724
+    pitch: 31.649961
+logoutlocation:
+  world: world_nether
+  x: 23.116546577708267
+  y: 55.0
+  z: -142.8472368481637
+  yaw: -227.38869
+  pitch: 30.449905

@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: Bonnqaz
+timestamps:
+  login: 1592309777978
+  lastteleport: 1592005596203
+  logout: 1592309867827
+ipAddress: 37.19.76.234
+lastlocation:
+  world: world
+  x: 2016.699999988079
+  y: 71.0
+  z: -332.30000001192093
+  yaw: -103.519165
+  pitch: 72.197044
+logoutlocation:
+  world: world
+  x: 1859.7112298154843
+  y: 66.0
+  z: -271.01945479439524
+  yaw: 275.9782
+  pitch: 16.600695
+homes:
+  home:
+    world: world
+    x: 1859.7179988919486
+    y: 66.0
+    z: -270.4746834157075
+    yaw: -62.986694
+    pitch: 23.273413
+afk: false

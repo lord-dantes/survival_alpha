@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: damir
+timestamps:
+  login: 1590235932273
+  lastteleport: 1590235670205
+  logout: 1590235986903
+ipAddress: 88.200.214.47
+lastlocation:
+  world: world
+  x: -388.08148360921376
+  y: 109.0
+  z: -513.6686377930513
+  yaw: 1.1787521
+  pitch: 86.85
+homes:
+  home:
+    world: world
+    x: 1490.9093341951843
+    y: 63.0
+    z: -1415.2926499676082
+    yaw: 143.24976
+    pitch: 34.650032
+logoutlocation:
+  world: world
+  x: -388.07836850374474
+  y: 62.0
+  z: -541.3000000119209
+  yaw: -76.81946
+  pitch: 6.7499804

@@ -1,0 +1,76 @@
+# If you are unsure how to configure this, just use the ingame commands /nm group
+# After setting a group, give the group the permission "namemanager.group.group".
+# Example: You create a group called Admin, the permission would be namemanager.group.admin
+# Only groups listed under GroupList are valid!
+# The order is descending
+GroupList:
+- conscript
+- rekruit
+- mlcapral
+- capral
+- serjant
+- stserjant
+- leitenant
+- stleit
+- capitan
+- major
+- podpolk
+- polkovnik
+- brigadir
+- genleit
+- genmajor
+- general
+- fieldmarsh
+
+Groups:
+  conscript:
+    Prefix: '&7[&r&7➳&7]&r '
+    Suffix: ''
+  rekruit:
+    Prefix: '&7[&r&f➳&7]&r '
+    Suffix: ''
+  mlcapral:
+    Prefix: '&7[&r&3➳&7]&r '
+    Suffix: ''
+  capral:
+    Prefix: '&7[&r&3➳⁺&7]&r '
+    Suffix: ''
+  serjant:
+    Prefix: '&7[&r&9➳&7]&r '
+    Suffix: ''
+  stserjant:
+    Prefix: '&7[&r&9➳⁺&7]&r '
+    Suffix: ''
+  leitenant:
+    Prefix: '&7[&r&e➳&7]&r '
+    Suffix: ''
+  stleit:
+    Prefix: '&7[&r&e➳⁺&7]&r '
+    Suffix: ''
+  capitan:
+    Prefix: '&7[&r&d◇&7]&r '
+    Suffix: ''
+  major:
+    Prefix: '&7[&r&d◈&7]&r '
+    Suffix: ''
+  podpolk:
+    Prefix: '&7[&r&6±&7]&r '
+    Suffix: ''
+  polkovnik:
+    Prefix: '&7[&r&6±⁺&7]&r '
+    Suffix: ''
+  brigadir:
+    Prefix: '&7[&r&5⊖&7]&r '
+    Suffix: ''
+  genleit:
+    Prefix: '&7[&r&5⊖⁺&7]&r '
+    Suffix: ''
+  genmajor:
+    Prefix: '&7[&r&c⊙&7]&r '
+    Suffix: ''
+  general:
+    Prefix: '&7[&r&c⊡&7]&r '
+    Suffix: ''
+  fieldmarsh:
+    Prefix: '&7[&r&4♆&7]&r '
+    Suffix: ''

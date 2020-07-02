@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Alebarys
+timestamps:
+  login: 1591179441490
+  logout: 1591179523747
+  lastteleport: 1589543547316
+ipAddress: 85.249.217.143
+lastlocation:
+  world: world
+  x: -925.5
+  y: 19.0
+  z: -607.5
+  yaw: 292.53778
+  pitch: 16.835522
+logoutlocation:
+  world: world
+  x: -906.2409194949313
+  y: 82.0
+  z: -645.7250661081513
+  yaw: -108.01645
+  pitch: 6.471927
+homes:
+  baks:
+    world: world
+    x: -896.9015212788509
+    y: 82.0
+    z: -650.0702070283322
+    yaw: -329.8047
+    pitch: 13.334015
+  cave:
+    world: world
+    x: -925.3078206260113
+    y: 19.0
+    z: -607.1312337134223
+    yaw: 292.53778
+    pitch: 16.835522

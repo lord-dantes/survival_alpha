@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: stev12
+timestamps:
+  login: 1590826269366
+  logout: 1590827080667
+  lastteleport: 1590826703880
+ipAddress: 83.169.200.154
+lastlocation:
+  world: world
+  x: 106.5228439211179
+  y: 56.936037357390674
+  z: 944.7441757161849
+  yaw: -55.91039
+  pitch: 31.036802
+logoutlocation:
+  world: world
+  x: -1276.699999988079
+  y: 53.21589434553872
+  z: 1022.7146253910292
+  yaw: -237.30298
+  pitch: 18.729599
+money: '123.0395000000000002'

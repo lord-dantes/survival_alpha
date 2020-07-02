@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: adminshop
+timestamps:
+  login: 1589460427133
+  lastteleport: 1589460504491
+  logout: 1589464444990
+ipAddress: 5.8.16.236
+lastlocation:
+  world: world
+  x: -409.5
+  y: 58.0
+  z: -499.5
+  yaw: 92.02295
+  pitch: -2.4347956
+afk: false
+logoutlocation:
+  world: world
+  x: -439.3595758748742
+  y: 72.40284067442843
+  z: -642.1484014177324
+  yaw: -279.32043
+  pitch: 32.870205

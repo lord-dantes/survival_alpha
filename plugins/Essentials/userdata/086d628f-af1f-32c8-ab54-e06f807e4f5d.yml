@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Dragon007
+timestamps:
+  login: 1590355482580
+  logout: 1590355485196
+ipAddress: 189.80.135.154
+lastlocation:
+  world: world
+  x: -414.5
+  y: 135.0
+  z: -494.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

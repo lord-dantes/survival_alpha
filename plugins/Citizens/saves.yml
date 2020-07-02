@@ -1,0 +1,531 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 17
+npc:
+  '0':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMxMjUyMDk5OSwKICAicHJvZmlsZUlkIiA6ICI3M2I3ZGYyOGI2OGY0YmY3YWYwYTQ5YmEyOGJlYTM4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWtydXQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRlZGI1Njc5YmY1OWM3ZDVlNjhjMDcxMDg1YTQ3MDRjMzE1YzRiYzdkOWQ1NWMzYzE0NTBiNjA2Mzk1MjQzNyIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: rekrut
+      cached-skin-uuid: 73b7df28-b68f-4bf7-af0a-49ba28bea387
+      player-skin-name: rekrut
+      player-skin-signature: CZm5wg89ZUKd/bpyyXLAnwNPeRbH1JEdNHC7gn29QLKKKkin/IjYl1b9we4FYBEO94ezwCiXfq7r2Cotxv+4S2YfBmJvQXzvOuBXsaGL/0oDYDQXsNkE+tBKVl0MAwBLofJidrJoh/pJSakI2Cv6N8EoRSMUbW/hOQdDFlFhMpbKh9BAalTFBkwyciFhwfwrpBEf1NSjAnpvdZTmnYWUpz084Qv8FrrapDWhSIbyKbjFBkWzCC0ZygjyKxYz6mvkCihQDICNl1p1zm1gb2en50rXz4+WpcE5Z+AJ5MsGlnXMjCyVBj9JLX7vcrXn4xqycs7cdHFdtxkzKhdac2FaJIRnk/dHezE/yuIipS4xK6IjaknJvCLK+FwUjW1mgOBMK1NZNlkuLMmZybLOyBQS/2HzkpyMzHbziA9mnw/f0uOelOcJKzA2eJ/UYDLoT5OCZcRQsjMrUQVG4ylx7G+tbTYXdv8CaFbsRPaIW+f2yW0jP2pmV1R+mxnMw9QKhpN+Cxl6DkV6r20PbzBBCmZg1C+hocH6GKaRpBUCgBKSiICH979XzOpLTeCSuSoUlWPBG5et4bCF95RApwqA0xy/USw2zlHLQYDOJLf8QOaJyzE6nLU/zJBaXpqry486PpsMrZsdKYK7ql7tcpcz9njaRaNC96EHRQhPvR0qnJmzzR0=
+      removefromplayerlist: true
+    name: §e§lБармен
+    uuid: c0de8cb7-9bd7-4c74-bd70-255d5326f345
+    traits:
+      gravity:
+        enabled: false
+      controllable:
+        enabled: false
+        owner_required: false
+      type: PLAYER
+      spawned: true
+      location:
+        world: world
+        x: '-1031.6197'
+        y: '64.0'
+        z: '1424.4157'
+        yaw: '87.65380859375'
+        pitch: '0.0'
+      text:
+        delay: -1
+        talk-close: false
+        random-talker: true
+        realistic-looking: false
+        range: '5.0'
+        talkitem: default
+        text:
+          '0': '!./delhome home'
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,gravity,equipment,text,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    name: §2§lМайор
+    uuid: eeedc97f-7980-4aa3-ab57-27796ceffe17
+    traits:
+      location:
+        world: world
+        x: '-366.709'
+        y: '65.0'
+        z: '-551.0578'
+        yaw: '-58.3404541015625'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      controllable:
+        enabled: false
+        owner_required: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,gravity,equipment,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMyNjI4MjQyMywKICAicHJvZmlsZUlkIiA6ICI2NjU0ODlkMDQ4MTU0ZTc1ODViMjVmNzk5NTQ5NGMzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJheWYiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjI4NTRkNjY1MWNhYTE3M2U2YzMyM2UzYmQ3YWFjYTgyMmNlMGYyMWFiZTA0M2I1YTA3ZWI4ZmE3ZTgxM2JkYiIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: ayf
+      cached-skin-uuid: 665489d0-4815-4e75-85b2-5f7995494c3b
+      player-skin-name: ayf
+      player-skin-signature: pXIyA19IRhsSoqVlFRumfKhk6igOTTbM+u2gPZtGaC0t4PycljAd1rpflYhxEYbLksWvv106HHbissQqhR1WUTGvAEiiEycNNI5obgze1OagUsMCsvtHxOvMJJvsjrL0hb2a4L/kwH72nk20gXAga6GGrIn69G6rePPIq2DcdQuMdMCLwsZcNAMI4ildi8fo7APBOCfZ7W5w864O9KWnVzgKLyXtM09PH78ro6sTLzTIYeK26csyvsJLy8/4vKvf+rXVKqgMa9WGsi9PaYTdAjtCLvTceWljM5+k+bib5dAX3nHlHvrsdnjewi3szv9nHMdnXsz5ekXBmuo2U59n5FAAMXsUKq/RwMi6mheG+RdHPCWTYW95keDD0gk61DR03qHl1ac+eiHSU2EkR59x9xhxh0LiW4X8jong24r0sTWbD0nLzcid/kF7Q3Jz+SGSAt9VWamR+CaV32dG1yFztTgGifxjsbl9+L/4fiqqAjggA5gnRVS737/2RsNQ8Qdev+VYG8gVXruy+AyJy6Uzwu06My8LwZGsAnC6UvXfjNFQ32tOUw2Z910d9uhdlW97uPHqN4Jz7fEvGLSI85bemLBcTNmNaCrtzvWGoxL0vkMLUSlLvEudGjDRDLroGl4EUWTaEQ5Th6D3R+ElxObTkeb8c+x7EBbqekD21AgQ5jg=
+  '9':
+    name: §d§lКапитан
+    uuid: 19ef0bfb-4664-424f-8917-06f3fe25c7df
+    traits:
+      location:
+        world: world
+        x: '-389.6064'
+        y: '62.0'
+        z: '-506.6392'
+        yaw: '-46.50565719604492'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMyNjIxNzI5OCwKICAicHJvZmlsZUlkIiA6ICI1NzFkYjJmMDliZGQ0OTdlODRkNmFjMGRmZDcyOGI3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJmNzBkZGFhMDY4MTI4N2M2NmJjYjA0NjY5MDZlNDhkNmQwY2I4N2VkNjI4MTE2M2JlMmYwN2RjODEwYWVmNCIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: cap
+      cached-skin-uuid: 571db2f0-9bdd-497e-84d6-ac0dfd728b7b
+      player-skin-name: cap
+      player-skin-signature: tKamF8of9xNzXUk9dX4iP37mCMhw5EJf8W+1M///8xaCCaL2r8WJ8SPgNoF5dJs3nXYUdnF2L//UGR4LhlAoTADbXK2h5dF8vfTNaKTbbP5noTZux9z3cnRNs3y4+JkBTMhfPihUqOgKvS20y/nYdEcq8gxKrLsYwUJ1aFPy8S6NhE+zcPOZCrEczMCatoFx4DTluCDOl0+D/F6ClauJaBcDrpIQNIAbwD6/PkxnDmiV5fihuNPgVM5SBc429bySUb2NXJRdZ6vdOYcmapwWifHnLN98N/9e44WZQ7/Qhhs+0fH0ijEcoox0NzGXhHnK4Z2kk7OB/uvB4bZ+NKOT/trMUJ0DUf1PFysqnpOmuB8O8h4f+2q2pTeoTP825dPDaQpAHzR3rNdBgzoq/g3Fy0T0BBeNYYre5kFHx46+gLJcgPOw3+nplOJ48FWdMB3Hq0Fod4MppBR9GNF4xtE4HvmIL7wloMYDzA//ZgruWf8gnfZBG/QxOT8R/Hyly4CZh1tUT+HRc+gUraTHK8xOWWUI5N3uApKQyjWS2urxUx6SUzFtVHRY5dcEEVNTfAAIQJgd4dWVJSGcPCfVCfuQKjdaLQu5Ox6iFwdY4+Lu7ZQsYP27TR5nt6CSc5SC7hvfBWutXm54jhlRqN9FS+7JwORE5xxQYJzhRe4O+Gx2gyA=
+  '8':
+    name: §f§lРекрут
+    uuid: 1d99dceb-b857-4b63-b753-b1d40fbe144a
+    traits:
+      location:
+        world: world
+        x: '-392.3'
+        y: '62.0'
+        z: '-541.8278'
+        yaw: '-123.74015808105469'
+        pitch: '0.0'
+      controllable:
+        enabled: false
+        owner_required: false
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,controllable,inventory,mounttrait,equipment,gravity,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5MjA3MDY2NiwKICAicHJvZmlsZUlkIiA6ICJhOWNiNWM2YTYxZDQ0ZGFjYjJmMDA3NjM1OTVmMjA3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJyZWtydSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYTFlYjI5OWMyYjEyNDE1YzJmNzU1OWY5NzcyNGY3YjUxNDAwZjFjOGNlNDRjZTEzM2E1N2UwNmE2NjI5ZjI1IgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: rekru
+      cached-skin-uuid: a9cb5c6a-61d4-4dac-b2f0-0763595f207a
+      player-skin-name: lizahahluha
+      player-skin-signature: lsLV4Tp8qqGDUFKmTvlC/Tvp8jwZ1oyPVU1bc30x0rUu2wTFBqLna6ek4zpAgJYalFcpJSrA9QnvGpAlC86LNxEChMv86Nih6LlCoxu3vOdAv07OLhD/cN1SDb0MZJhoCgxgHoD2BC6Ui7R1B4rOUUcnRMaX/Y0dzUkE16S266+2yr2nKoCItLwlW4lPPJ1pzkpF0hMJPpO01mfDA/Lok14lZcEkn6EHml93YcDiaL+WhXmelANCBE/6hZvHKANliNi+R3lpmccvf17HPknedpmj2vQSG2Ny1Gx9jUE35EKjSWS8DcQBrSO8VabR5Pl/Vyd7i6aVhvOsJXPuiD8zARwuf2hq54v9FUD3wbZbiT9MiDK2PhztkttusDZ9toh33okfenjfzqQmth5NDr4xjVui/CzREfGsoCxVQl2u3x2fBXYUVnG4yevK1CjjFwI3j0dgP0vy2JQD/yKxwCkcC/M0Ywd2CzRKI1DTjrpIFRW9i+gE/O76QrTx2BEboFqRC6BFz6VA5UHy6seG8eLPM4MTtCTun7rzwkf7MhDQLczwQQuXXu01AfONRHkqdslAbo7n+2zk9x28qlnJh1uT1j1xtz1j1B8ycCjMiDgSm3xBFzwaavzYXaSHLZqoPoOw32xVjncNlnrSQbwjcug8M3FSz2En+vIuwEav5TVzSWY=
+  '7':
+    name: §c§lГенерал-§e§lЛейт.
+    uuid: 2e4576ff-8076-4c10-9ecd-cd41ca710a6e
+    traits:
+      location:
+        world: world
+        x: '-416.9569'
+        y: '59.0'
+        z: '-496.9538'
+        yaw: '175.0760498046875'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5Mjg1OTY5NiwKICAicHJvZmlsZUlkIiA6ICI5MWU4YjY5MzkwMDc0MDFlOWRiZjBiZTQ4MDI5OTA1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb3NzTWFmaWEiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWM0Njc0ODVhZWI3Y2RiNGZiNGRlZjk0MjNhZTQ5MjJjZGQ0ZGNkMzdlMGU1ZjkzOGI5YThiNmZhNDdhMDJmMCIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: bossmafia
+      cached-skin-uuid: 91e8b693-9007-401e-9dbf-0be480299056
+      player-skin-name: bossmafia
+      player-skin-signature: HWMlGNVWoHI91iXZvbiGvXKF9C8Y+w4x0PVyE1w0vtDEeBpI+p/FJPGPPOByDf/v5m0SidJNWMlOJskkYfwYPQTuNKX2kQ0Hkv/yjq0DolN0njsdiHQ7dOwJNj0e7XHx2d9ygVDThydi50gf1t/59iFlQsfrxazLW0HMcnlfb8i3/hpsK4DgNzJpoKXQ6jw9PZkYQvn8LkiXyt4UVAWwySYLfXtQWaRvLfYZwt3G3CCUXoMfVqcRN9QloUgKlSc5Ak8SEGvUpc+Y+eXcx0LPWeCGBGB5JUYzvlD62+ewJMlV2kJJNvE42I+fwuEsf7stFTheYV4Kg8PU6z0uk6MQkxGu0V/kDl7LjfPHOStHJ9El4GH8soSMnKOOxwXCJKdmJLND90NCDwNYRwhmHXSL6ldoOJpIq7alIJkwThmrVEHaUIr6nYQF3g5yL7dd1DppBhUYQgDicgBpa0Ub7RKyo6Zp12OVwG/dLINXunOGqhnQAt1xGF0R4ENWmyBLXSxdjRwOqrvjbRGp/mbskLjXwHmeI3H0L4rTxUmOmtrDvnVh8D+qly1E1g1RpiCVhQZSyRr5ozYE1Ps2lW4buy7bDkzvs31LKDDVRQmJ/HH8SHxXY4kVhx/lCYO9ncaR8npC5BAoSkm7RGqWoePhrfYZVkWCEN+T7KRURYnk3YC9pFo=
+  '6':
+    name: §c§lГенерал
+    uuid: b208bd52-12a1-40cc-8e10-ca6326e5a907
+    traits:
+      location:
+        world: world
+        x: '-416.9793'
+        y: '59.0'
+        z: '-499.97'
+        yaw: '16.95703125'
+        pitch: '0.0'
+      controllable:
+        enabled: false
+        owner_required: false
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,gravity,equipment,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5MzA5ODg4MiwKICAicHJvZmlsZUlkIiA6ICI4YzA5NDgzN2ZmMTg0OGVjYTYwZTNhNjVkMmVhZTU0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTWFrc2ltWiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NzU3YWZhODU2ZGI3YTAxYTE5NjdjYzk0NDIzNzhiNGY0MmZjMjRhYzgzMWE1YmY1MTc1M2U0NGI3OWZmNDczIgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: _maksimz
+      cached-skin-uuid: 8c094837-ff18-48ec-a60e-3a65d2eae544
+      player-skin-name: _maksimz
+      player-skin-signature: ycvbAi60VFW/m83J+JMunl+KcL/WJwXwJleYMD9b5tGq5jSatVAF8UIUDwyiudqOktGh6d91RaQQEwP3ev543n82Xq9tbK4rAQ0BhvCaj6Rch+D8N8s2UsDoq/DLh1pMx4tA+jypc2qxjsPpuGu6icHr8/DtS/3BKzt+AFsrqgimz+YSILxQNdm791G0d9l63UQ7hi9afQEJyVgDdE5H3F1T7vfP7OrKGnw+C+Z8QWO+fblzcgFT4as1A6eP5Di3t1kdeDL2CjCelGhbv1ImJ0qG5xNITqe4ks/N45IfwdcUqDt1/r3S7LbGEUAU8iSogg48lXDUxfon+BMurnJwbN4bWYUQXmAvUfKkmC4lCJBm2vBm8iYWnH78J+iw/nlh7EW53aCcetmpoOZvtFh+2n1D77NWtsImYQBUv+5tOJxMQSyHSLwaI9DGCW+HWNoUDIpCF8tO/yzNgoBNJdLzpGVM+0QvlHOeaVU8sGVCZznLlxz5079bhbaRFjrOCMsv5dTDSMy5xPMcBqA8G4LphLtkJ+Q29SctVJroBDaROs6qh3aEhqdpseSH6BsLCwDSn8Iqx2zAyw/jc74XulL3hB0Rdh2xls+j3DLxTGzmE4qS8/h1zYkfCL1iFpPx4S6FhN00Bnu8DPGhNFMTlzs7AoHaIdGP5CY2r7/Eu4uZZgs=
+  '5':
+    name: §6§lПолковник
+    uuid: 8552250d-c7cf-4597-b52f-10ea2e544848
+    traits:
+      location:
+        world: world
+        x: '-362.4907'
+        y: '62.0625'
+        z: '-516.3288'
+        yaw: '-19.328113555908203'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDY5MjY2OTk1MywKICAicHJvZmlsZUlkIiA6ICI1ZGUwYjFiOWFkZTA0MGRjYWU1ODRiNThlZWRmMDdjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWZpbyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NTFjN2FhYjdiZjEyMmIwODM1ZTM2NzliNTQyMWJhMzdhMGNhYjExOTZhZWExNDc1MjY5MjM1MTc3NmFhYmI5IgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: mafio
+      cached-skin-uuid: 5de0b1b9-ade0-40dc-ae58-4b58eedf07ca
+      player-skin-name: mafio
+      player-skin-signature: Dcwwn9RMlJNz9JN2pDA58QZlMHNprTbNvvniWbS0Y76tjiUwXY0yRsQ7jTkaT3rvUWK2rZdNEEoegzWR+cKEDX5KHlCzNJxPXjPs4p0QBEJUdXrO2OofoHipQCeanlcjikzQa3quVQfxkgNhrfD/1vNCti39aBCk0mU6j0OJmM8JhDfJ5FUFky5GKvZ/NAOaLjoUWoanhm9UQkjX/Js0Zdhm9Uyv3rx8k2hRFU07XFFnpKM7Yimr6yNZeVMNfMcwp+ROYzKn7lu4ynM5SpXc1qhKtG79cWTqo0WqdDZor9wI/YASalkifamjOY1qEBEIK0U4+dxxM25ez6z/QC4Uj/aFO1V4NLE3zBgm8K6Un5oOYMyGgpWgoySE6jWImzTiU5BZwD8bL5hXXvcWOSfK3DWn/akLlQmviavMj9SET5Bk/lK7FEzDidmQKYK+ZTA4P19z9bt5S9caAntKthyjEq3I/6+DkPU0XvIFYyrGpifoyYAJGSK4ysPgI2XOa3lCiO/NCu3aYfEACxHaP1rcy1j1qVLazpxH9XjSVUNpS5FUH0mk1OYd3R63gXgKlGEwghKTSa8KK5N8cFZKSn3ldmptEUWtI0bQ7KH8urKKBCWPJKLF0t/k9JHS1zOWa8UqsxRwbNvmYXxiELgCfeKF0cF67+QZ0lbI8FjJFqM+ey0=
+  '3':
+    name: §e§lЛейтенант
+    uuid: f4351859-ccd7-4e67-89d9-15b5b1b1b909
+    traits:
+      location:
+        world: world
+        x: '-1035.5987'
+        y: '64.0'
+        z: '1435.8847'
+        yaw: '-0.314453125'
+        pitch: '0.0'
+      spawned: false
+      type: PLAYER
+      gravity:
+        enabled: false
+      controllable:
+        enabled: false
+        owner_required: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,equipment,gravity,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMyNjExODUwMiwKICAicHJvZmlsZUlkIiA6ICI0NTdiN2QyYzI1OGY0YTFiOTI0Mzc4ODM1ZTRmMWUyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLbmlnaHQiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZThmOGJjN2UyZGNlZDU4MTNmNGU0ZWJjMzY5YWEzMzUzOTBiZGE2ZDFkZjY0OWMwMzQyM2YyOTNhNTkxMDM5IgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: knight
+      cached-skin-uuid: 457b7d2c-258f-4a1b-9243-78835e4f1e23
+      player-skin-name: knight
+      player-skin-signature: fBxgmdurOG/b8FBXL7C/xa5Coo4CFbtKmcvXz1ONbe2TdLwBmMgt/OsTHi/Hy+pHdio8zGdgj5sFKq1iLlwgl2YIFD/EJmh2hq1iVPD7IJLhjOGhkTpX3rQCm+gcsVOiqEb8z4RYg0pRXBivpXzYznabrEiblYyKKJU69lVneZVY5L9AXSMAObhlsq4tHH2VU/rfUKDycR6Oy+uWSSIcfe5praQAaEEfT+iffyQaoAR4iYN6nvpqc85yHc64Zcjat3gq3uxkZ9SeS0kDg3QoTmM9j+k3FtRcRXuFbVhxCZywJjecy0BRLv8EL9Cneyd0Gp7UaZ9bD4932xG82YqHRLRohuKGosRG2v7RQOB5nLG8WkARF/J9NJJ29MTJUMjRB5RHmwPg16De21bjlQns+A4pMTsG5Bx5pSB+buBcieLT5U6OFGaZOYPQCzvGWUoCK5Ugfn1eFBjjEQF1Y9IglIxgzNo3KLwz5EOIPEoBGJ5HwctgGE/U7lJTq1fgAt9mw7wcqFFqM8UCYZh/RP8BBUcOhx5xWpOqDLhwHd5Fgh/iJiSE528y4SOdEOU9JUlNMGBja2ZuF6m2ljBNxLJUgjpU87Qb0Mixhoa2C2xn/HcZAfy1RT5bOS8Sh6x5BZXw5jJe1XcCrmm2zmIuEfw9lTimNaaXrwfGHSN5+IQmqxA=
+  '2':
+    name: §9§lСержант
+    uuid: 24109896-4556-4c9e-add5-e94c2b19b6fb
+    traits:
+      location:
+        world: world
+        x: '-1035.7001'
+        y: '64.0'
+        z: '1434.9365'
+        yaw: '-0.314453125'
+        pitch: '0.0'
+      spawned: false
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMyMDI5MTYxMywKICAicHJvZmlsZUlkIiA6ICI1Y2QyZjYyMTAzY2Q0YjA5ODdmNzQ2YWZkODAwMmE1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3JkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkN2Y5YzY1MGU4ODRhOWFkYmM5YjEzOTMyZDI1ZjNjYmQzMzZhY2VjZjFkZTMxYjVhN2MyZDVkMTYzOTJlYzYiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: lord
+      cached-skin-uuid: 5cd2f621-03cd-4b09-87f7-46afd8002a56
+      player-skin-name: lord
+      player-skin-signature: iiu8Z4Y/4SQWz5gRErXU81KKUQiFlCjHaCrtNU02ZDuG7xVjLzM9k6192gFbSWzR/yZ4jKaudbOZ1fXSpSK91nVbMLjEJyfQ4UIe0B44gIXZhrocQsIjbkFoAIi3hGJJmUHxYDJ76A2K3SyhEKIOZCotJhYYIPDWZqIJh9m6JH76tOvsyIg4fVbU68EYLCxAAUnFMtBvpqbeit7FU7i+o/CCSyytSdge3rroMttYoC3gfZgYlu6UfXpb7W9VfYR2GZXNChg1nUYXHYTQb+XjiRmR8rfaExxhTpp5FPXP4Rr0rfxLdXpd6ERmPQFUQkZYSPQKtZfVjPbhoMTr3CDOc7o/falE4qMU2ql/UnAEqYFC+BCi58XRd9SQ0YFGi1ZEpXFuY6KWXsxfoXH5UmdeSdKWK6sDMr8wILx4SOBCRg0XyRdMbvP9b7HTZvlzqg6430HWtJb+qP/WAdCyIrSw9zhlOq34UlaXBm+lVsixly4IRgLMyMRwy5GPqPZG776/6POK8KeIz9oms32ZG0sedU+NIKTjDuFsSmXx5fpdZTrCe/8H+9vnzfMxBB5VPng64jsH1DWp38yCr79UMtPfzMHOwtrp4yuwWJJPUDQTB/XynL6DGUFXygE7EcoM4Ss8K5jWwfTdy8cyrhvmLNjSFOxlNGRTUnDIf0NGXLp9N1o=
+  '1':
+    name: §3§lКапрал
+    uuid: f3618cb3-ec88-4f87-96c7-67c1365b7488
+    traits:
+      location:
+        world: world
+        x: '-1035.7107'
+        y: '64.0'
+        z: '1435.749'
+        yaw: '-356.0460205078125'
+        pitch: '0.0'
+      controllable:
+        enabled: false
+        owner_required: false
+      spawned: false
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,equipment,gravity,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDMxOTgwNDYwMCwKICAicHJvZmlsZUlkIiA6ICIxNzU1MjMxODRiNWM0OWM1OWJiZTljYTUwZjE2NzA5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xkYXQ1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IyZmVmOTBkOTQ0NGNiMmU5N2VjZWExZjE3OTFiODc4ZmE4ODJmZDg1ZWZkMGY2ZGZlN2QzNjRlOGI3OTI3NTgiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: soldat5
+      cached-skin-uuid: 17552318-4b5c-49c5-9bbe-9ca50f16709f
+      player-skin-name: soldat5
+      player-skin-signature: vCfI5Eise/9jziZI33etFVhhuoUvd7AgUdjlxFX1Nqwv3vUO56KktZvSlXht+hUTWZYZ+RZxk740DMRI9j5T7/kDRGn2n9cKu1ADk0x60/XfUfnUGT12jLUW3ovn0JQb1uowrXhRE+wlqL9IoA3cmmGWWUa7WnUSZIiWiLihKKj0IVm4qYaXQzTcBnLvUcKro43GHKTmLV8xzHR+8QmrqgmJ1wqRZfuh9k5r9SV0w3ucWAwD4RbsrQXS23AUqEfHynGu79XJoIadDAF+NRtttDjFjUI2KNqRKt+FBg2kV106OsbUBORKx+KBSxVLdbmewL22VwpeGdxjHlGh2pJbAnX7cwgn+hv9Cm8bJvabilyxYafg3HIRLhi09x0+8VE/DidSCw29vuBZ2fI9zXknT28PdIoSAwQZQU82NBTD4oYW59M+sScvAup8wv3dEtrCwCQXsHkHMduPSMbicy/pJKAoXOKmZQmGsKQ5Bh1mBpcnD3oaIA3TTu7t+kZoSmNlVVElyzUv3qaurLbFItjeQtbbzt4ohawKgMyRYlT59N17KvylDJCYTjVfSHEfCHRlOpEADmm2DlyC4+UIzD+WHOnMPyNnWStbWUoUZIuEgXli0bvk+nxNr9c//gaxViWI09ppwLA7/cAAuBaT86ppg67AB16vnb95ujGuFO90b1c=
+      protected-leash: true
+      swim: true
+  '11':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDU5MjMxOTQwOSwKICAicHJvZmlsZUlkIiA6ICJhY2I0Y2JjYjA4MjQ0ZTYwYjU3ODBmZTYwNDAwOGJiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb2huIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1NjMxZTZhZTM2ZWM1Mzc0MTI4YjZmMjg1NzQ0M2EzNGIxYWY0NzQ0YmJlZTIxM2UyZTJlMjk4MjQ5ZGYxMDciCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: john
+      cached-skin-uuid: acb4cbcb-0824-4e60-b578-0fe604008bb0
+      player-skin-name: john
+      nameplate-visible: 'true'
+      player-skin-signature: sXj0NX10hSWtadQfqS5TJBAt4K319sVk7AFDYyCHKnkOKB6gdz7DAFFhHlctayWOg3BIxbFVn63IDWX5tSsxyrlZGwtswsoHqWMp5m1PWqER7rCpRDOO0lcpn9zrSRrZ022FCewcs2kG2hWPkL01pN5tQCRbMt+ASGkeFv4250IL07VTF3bgHVqnafFDQEHvuHtQTyKgHFEGvvCkzXqY9FIsfPi16lPRYiDCY/jwRJvdNlsWt+fCpQwpWVBCpbSrFQcPREBHl9PJT43MIkPQC1ABJQx4aavdM9hHpSD0UCD4WLJV3JxObbo7yjzJhyLGguD5ibTgu3VsMxu72EWXHnIJhwHip89AmN7o+x7Aj6k4SMAwj3MH16LP8IrvtAjYoJLInzOdzLqEDdYA2q8cGUPTL/sY1ooppp+CYEQGfwePUiinNz2iPllpbCvG++lIyuISztW81HiaUf9jnd20LPwtBqYVisI8YRhzUEOon6NHH7v+9H4+IIixXKZCtt3a377o7EkrD2qq7KL+zu2I7xVEpHwpFpzAwNsjuJ2M37wm1k1begkaoD8Dg5WGu2ttCDBhgry+8onBERtA5Bn7wZrrXCmng9g29DomiNNY0G61MxiLUuaWlb4XAuccBKDYODqwTxBbokm12ilZtQP7GVMS5Be5ea1AjbUC18/kgqo=
+    name: §2§lИнструментальщик Джон
+    uuid: 8f11439f-bc8d-4b89-9915-eb35d416e98e
+    traits:
+      spawned: true
+      location:
+        world: world
+        x: '-1071.4545'
+        y: '66.0625'
+        z: '1521.3674'
+        yaw: '-176.3309326171875'
+        pitch: '0.0'
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDU2ODEzODE2MCwKICAicHJvZmlsZUlkIiA6ICI0MjQzMjMwMTM2NGQ0MGI0YThhMjVhNWQ2MDNkNWRlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJY2VfR2lybCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTg5ODVlOWI1ZGMyNjc2ZjNmM2MwZjAwZTBmNmE3ZTc3ZGU2NDM2OTE4NDYyNTZkMTJiODRjYzI0MmFkMDE4IgogICAgfQogIH0KfQ==
+      cached-skin-uuid-name: ice_girl
+      cached-skin-uuid: 42432301-364d-40b4-a8a2-5a5d603d5def
+      player-skin-name: ice_girl
+      player-skin-signature: tN3jnUWSrjXiLbOX033fUp+NlWBMpVO212VA9W/LjjPUG+CQGXph00f/uYuRCJI8wCvZF59t5Q8eQkI2XMSjGpIWhb64W6OKqGKFr070mJBSVOlCtPs2dga8JMNsIvrObaRu6KF49p9uTq8aHKK6Jsn3+9WumbDymUxHfu7c0n+lLYD9kJycFdGIw1CNQ0GOQLcUwNaDGcjywgOhbn6ZQ2v9zl9qSHOC6lv98UWu+gPX0ID6CAvTBUQen0WvZKUtnWnze0tcLpt2RBrDcfn7MmuZUKnWpy/om58h4nqpgw+QYToNYWuBGOmOtmVPLY90TeGMmEycRBERJrJ9mrlK/UYl9PCMk4Z2P79WfV1ligAPZDjYLZW97Mq71/bXCKTIM5OFoo0OuSOKS9UlKtrhNQggsMyeWL3SlmPm3TmnOx5k4y7LCiOMdabet6MAdiGRyV/Hj71DUMrooeb00we1Gr69/W8QnoHuOUkMZJ3DaavoGsfvPrcOyKwZBVfwuLF+6jOfY7rxQCHmFDpdKRGbPaNZ2y2enG4ph2Bg4vRHvnxMlUPWBXjhreNq9jAcIFsyrys/beIdye7VgeZ7DCEl6wUTw+rb314dInP1Slcr2c4REIqw+m4MmGS7peEiiM6gvPjTSKJ3USIigpUVrNMSYF434ZscBrLworqeZ8iYS4s=
+    name: §3§lШеф-повар Джулия
+    uuid: 9f7e74f6-8f33-4ec1-895a-fbdf199b7113
+    traits:
+      location:
+        world: world
+        x: '-1021.481'
+        y: '63.0625'
+        z: '1518.3883'
+        yaw: '-179.3779296875'
+        pitch: '0.0'
+      spawned: true
+      type: PLAYER
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,equipment,gravity,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '13':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDg0OTk4NDMyMiwKICAicHJvZmlsZUlkIiA6ICIxMTIwMjllNjc4NmQ0ZDFjOTNmYjk1Mjc4ZDhkODVkNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb2UiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTRjMTViZWE0ODdiZWFlZmJkZmVlMDQ2NWIwOGRkYmJmNWJhOTlkZmMzMjhhOTAyM2ZlMGNlOTJhNWZhZDczMSIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: poe
+      cached-skin-uuid: 112029e6-786d-4d1c-93fb-95278d8d85d6
+      player-skin-name: poe
+      player-skin-signature: x2uKktSH2baMpqqa5x75ix7eNuuP9wUIOXJ9mVulCk7mDZX0843uRPy5owQ92v2R579XVHnnRy/ZJxkS8dLFEPRXd7iGObIioaE8lr49wp1s1dnIh354Ozm1kqquOv0+xYjgqny6r76827vnX/9WVciHmWtew1lggTnEcCPJA45bNL27R7H3CB3PLDbV55jRnsvY8mg7W21ahdRTvcEZ8+vJL4IYu9YeoZ7WUPTuMoBCAX4vTATUiAG14YpRG94jQNysLbq01ObwEFGhNP4+Uk9MGWZy+QyHLiR1Q3tdpwVk7IYRjrC42FsCSLckXpolCOSa3qqfRGJa44i8kyblxIyDdXGL/N8wiQYXqSCWm/ImkNPOQohLLbixcybnuWwmBrucLprlNkJwO0tEyoxXq/J/LKSGP15LGvrH66h+/XjIXasGJzGK8p3NLicRmwT2TMhmEckukO9itgyR/kcvd+OPerZA4e+Wfm0YmciRHoJGAdo0jJ8Jwlhif9r3RYJvjXu0d4QAdgB8ciSzAFMAJ7wFiNmG+bUqZ5s61rFLHiRJHXWEGaaZfqtsWnRFNkGKbLAmwV7jNTSR5yVOyg93dEv9alXv8ffXipX9fJ65jSk9MNKAXTtDiAD1r3pbHedbDl0MJNEOo/3Ogz5wO+A9llQhu919o3mCmfx3Sc9eZUQ=
+    name: §6§lВрач Том
+    uuid: 7d2a2421-107d-4d77-b86e-73d7a5ed41fb
+    traits:
+      location:
+        world: world
+        x: '-1083.5211'
+        y: '64.0'
+        z: '1422.3045'
+        yaw: '0.260498046875'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,equipment,gravity,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '14':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MDg0OTk4MDQyMSwKICAicHJvZmlsZUlkIiA6ICIyMjc0MjNlMDAxODM0YTU0OTMzYTQ3M2M5ZTBkYTk5MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJhcmhpIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY5YjcyNTFmMjVmNzZjZjNkZDU2Yzk2NDQ3ZTdkMTZhZmQyNzY1MTdkYTVjMWQ2ZWQ1YTBhMjFmOWFmODk4NzAiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: arhi
+      cached-skin-uuid: 227423e0-0183-4a54-933a-473c9e0da991
+      player-skin-name: arhi
+      player-skin-signature: N2x3pIqxiYuGfvC/SPFihRSPn5iqXfX6gMZCa64/ehKfHkZCoDvDCRADQaTMAkCkHrOUfdbIcp+h0crmIMEqCPUrYR2V1zIfYg0owpgOvOJSQyC/hInBYmcjW8GAHVnS08bArHadS/bicZrah6+PTdHJfmGRm85SCvbXUf7Rh4ywIqN5fE4ooN+tubTORrCVojtGX4LF+i0uBU4F9AvtDL/uQ5WQeqHvnbeB2fQhKAC7BlhMPfAspfRQfDKQBC3fUa+HjFF8IIg2nsowG7PETz/WAaL0XDNXFprKADy23+yVklxL8/X+Kc/9T4yeerVWTPV3EP+cd/LgMkeT+r891gIITpNN0X3nqjbAqMQ7nozJ3JclwGYTwCu/jyqreawcuKRY8JLNgEMm2Gj6Z37RqMTvCfphk9XQEW/j4aaIpBIptp2uPSKkmbk4h08Rwm9QPzrNwi4bIg45dYZMiZgDTol3TYuNhjBtMxrtCWBqWcx7BeXF3ZCkESB/Zo+9PTWSYVTzUFmA0XAG2zBzU2OeyeOPGMA3IrYffYxnlHfYCqddNmj800JfDnvCniLqgWWSli/Mzd3RYr8nbjYZ3PaIoF/oT0gAV036yfjdSvei8DqkLsPKOjoi8bDI8Xgn7WXWgR8hNACUzvf6YF2IQDZvpC6/Lojaqf+m2cieKVdD5G0=
+    name: §7§lАрхитектор Йорк
+    uuid: 581972c1-2691-46e1-a173-1113833404fe
+    traits:
+      location:
+        world: world
+        x: '-1044.5647'
+        y: '60.0'
+        z: '1423.6802'
+        yaw: '-4.30322265625'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,equipment,gravity,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '15':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MTUyMzg3ODIyNiwKICAicHJvZmlsZUlkIiA6ICJlZWYwNmUyYzRiMGY0YWJmYjg5NzVmYTU2MjNjOTQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYXJtaW5nIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIxNzc5ODFiZmJkZjc3YTJkZGM4MGU1OTAxYmI0MWJjZTI4NzZhMDVjNDlkMmZiOGI4MThiM2NkMjRkZjc0ODMiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: farming
+      cached-skin-uuid: eef06e2c-4b0f-4abf-b897-5fa5623c9499
+      player-skin-name: farming
+      player-skin-signature: sn73jUMZaCTyywoYdKd7PMCIp/H42Pdn4xQG5AJUcqq/wNoRiUlMBbRMQOFimBHb3jVA/PA9dqxXKlqEdfm6MH76N3nVisxeVCT8Vwlom/QGzWlA+O5IOriptpjwy5fs2n7C/krtFJZ3mCJyQ3OvOWG09tGpGkx5WzR0ki2jRdZb5lvgtoak2fJp1AyombyR6FWQZ+ynU24lleeCHv5EcxKQxK/20lFzDqTDY9Adkp47y99DJaazaNXWxkSsfjlvT2444d6qr65417+B6EPuWq+f9O94Gs+En12fdd04H2vQBOXoR8DRFpurZIeXtA3m3zqTkIoZq8sMn/nUOJPbgDdrIznmhOYFBuNJcRhB3uj9rSsW84QiccYsoubeJ5mqNDCRnsRj0yw7Ue9FXm8wul1Sr69DOi5R8jHhumnpN8PhFaItUwCLmRme/3hJWCMlyrePjcXa/hT4kXEJsG/h1sQ0Z2wvIJVDFmy00VEcpKMASp1ZMd0o8f+KYJSwGb0ydXU2YfmSUen5VK3BzsapZHk7wmbtOLHzpIZxAzbWcww5UOCOBoCT+gKBOLW1LeBGoCJ+4GP+8wd6LIMh15xVWX/hO5QQ2N4Gy30R3gieLXGE+racdFVfv+rQW2bm/mDsrTKnvhSFRllqc6pzF3jWgdpOJ2RpPz43LjGqtP3bR1M=
+    name: §a§lФермер Лукас
+    uuid: 9dbc009a-a224-45a4-aba7-bc77f54877ed
+    traits:
+      controllable:
+        enabled: false
+        owner_required: false
+      location:
+        world: world
+        x: '-1064.2998'
+        y: '66.0625'
+        z: '1522.2998'
+        yaw: '-162.319580078125'
+        pitch: '0.0'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,controllable,poses,inventory,mounttrait,gravity,equipment,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '17':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MTUyMzY0MjAxNywKICAicHJvZmlsZUlkIiA6ICJmNWJjNjlmYjkxZjc0Yjk2OGYyZDM0ZDMzM2I4ODA1YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdHJvIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViMGUzZmY5ZTE0YTFkM2RlMjQwZTVjZDRlMTAxYWY1MDQ1YWIyM2NhNTc3ZTIwZjlmNGMzNGYxM2U2ZDY0ZTAiCiAgICB9CiAgfQp9
+      cached-skin-uuid-name: stro
+      cached-skin-uuid: f5bc69fb-91f7-4b96-8f2d-34d333b8805a
+      player-skin-name: stro
+      player-skin-signature: Z63ZvWpRUn3s896DDJOT1CppphXUnUOONCpjm2MDlKusbwM8h16p/bAFfU3obxC33fWRHOJFbRlx1LkjkQJTUt5fTggOFze7PS8WzQuTkLlrzVpg9RQvxmF9ZtrCGAviQOPgNKLSitLM+llSa6657G2LRkDFu8T3uY24jvbZdrYHRigCaSOacUu+Aoo8n3zD0lN8krBwvAJIpna1dkmFS/40eh48QQh0tlBbPCgD13uE+OGm6NgZ1cEU+naLOEcNakN1iagS+Bmrws3uEmvyu4Te35BlQ/aCe+QbqwXcvhvrr5r3Blvaeg4eOkHHhNlpm2mUzOocLZ1HZQPcqD1jWPx9UAb/4OK4GfYsbheyBFvVNhtcKn7S78w+elVG//dyCdoiwDpknzHSo0mp5rgp5sCtSLTt8H7EdCkk0LCJ6qIvJAj6vRDPP6jIF9I0GFRRkP+PrJTFgosJhZpgb8vxy/bzseVU8GW9Ka1a9uY36SQCxwAgXFUElBvkyO3MJAH4Hh9oHDuycTIpsiqhx+iVMBXcsopLWdCcONf9IpmyAor8DXUU+LRKZcu1W0P9vW2YRKX2TMgBcyAHgpEYgfXM8FprivBv9btUcAvB8NW1b2dXpojo0d/IZejtrOeUfOC056FbTrw+e4LqvPa8TuvaByi9rPcOZ80plK5Gon5GzHk=
+    name: §9§lСтроитель Джой Бо
+    uuid: fa474cb5-ce28-4356-a8b3-794ca035810d
+    traits:
+      location:
+        world: world
+        x: '-376.2844'
+        y: '65.0'
+        z: '-549.5111'
+        yaw: '-79.4005126953125'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,gravity,equipment,owner,location,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '16':
+    metadata:
+      player-skin-textures: ewogICJ0aW1lc3RhbXAiIDogMTU5MTUyMjQ4ODU0OSwKICAicHJvZmlsZUlkIiA6ICI4ZDk3ZjgwYjEwMzA0YzM4OGE1MWM2Y2Y0NWVkNGQ2OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPQkxBS08iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAyOGQ2MzUyMDhiNmRkZjQ4OWUwZjMwZmZhOGM1YmIxYjFmNmFjZTcxZmU1YTk0YmFhMWFhZGUyMjYyODBmNCIKICAgIH0KICB9Cn0=
+      cached-skin-uuid-name: oblako
+      cached-skin-uuid: 8d97f80b-1030-4c38-8a51-c6cf45ed4d69
+      player-skin-name: oblako
+      player-skin-signature: WvlVjzdXhBYIPoI0J3Lrj8BEz1HGpJzkZwuPVp8zijr/F48yGBmfu3j7NX2SR6K70TDDCWLhQPAzpl5K4vDWp9+gBSujHnrqgFhQlVB8OxK5IQ4jxwUhpzPi/tfcCog18pBvCXthz0xLJ3YBzChucK9BLTKPalL8/M8M/23l8/wrS59yO48eyAU6R18rYvu4KpJWbiKGvju4TcuiNaAAoHtcUY5ACo6I688MV9/ubV3q7dwXIGhc1yl9vL2s3JhDxWwkFjhoAa3nGZAMfCdQEYJIemXTXXUyCI0iaC1uCKDSa3XGoM+b7nJRA/1MfLFTGG/UjKKfOUcE2juOIhHksolzp/OKWunC0laflGmcokdQtFn6yN1ApDQG10875oNr7PjKaRfHQw52KSgfqmoM/4pkXq5iNp5Np96sNHVniDaVWrAMhm4iWD8320NzEFoiBFRMXKZbcSVmRCwjS8jTuRvWK1YpZ39av18eHTaKHwd2eWj07NyELZTIeQUrx54ebRCQYr1rYIppbFIqoiH6rT7sMTCsWCzlspX5RdRBU0MoSBN4S09Uuv8yChUGqS2ESWMdV3El86ZKxKlcBGS54e2OPNjZPaMfiZz73QDRMzV4PKlIGDVcv3i3q9t/lVx00fN36i96vDMcR/9akhO2mddGK3rlJtTNXCytcKR5ut4=
+    name: §3§lКузнец
+    uuid: 738f0c92-83f4-43fb-8216-f71d1f1fd926
+    traits:
+      location:
+        world: world
+        x: '-1043.5025'
+        y: '64.0625'
+        z: '1465.4181'
+        yaw: '-135.6982421875'
+        pitch: '0.0'
+      gravity:
+        enabled: false
+      type: PLAYER
+      spawned: true
+      owner:
+        owner: Lord_Dantes
+        uuid: c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+    traitnames: type,poses,inventory,mounttrait,equipment,gravity,owner,spawned,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

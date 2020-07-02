@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: HISHbanKICK
+timestamps:
+  login: 1589455023569
+  logout: 1589455172739
+ipAddress: 77.35.132.213
+lastlocation:
+  world: world
+  x: -404.5
+  y: 254.0
+  z: -500.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -441.26619843064816
+  y: 72.0
+  z: -670.2953225161056
+  yaw: -224.72514
+  pitch: -17.99998

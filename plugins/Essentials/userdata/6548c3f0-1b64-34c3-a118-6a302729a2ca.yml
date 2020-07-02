@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: wertyytrewqaz
+timestamps:
+  login: 1592750212732
+  logout: 1592750219387
+  lastteleport: 1592737393103
+ipAddress: 212.13.181.38
+lastlocation:
+  world: world
+  x: 926.8300241289359
+  y: 64.0
+  z: -937.2092610235137
+  yaw: -85.203896
+  pitch: 8.037814
+logoutlocation:
+  world: world
+  x: 1279.3615034950587
+  y: 76.0
+  z: -1598.6929009744524
+  yaw: -127.91658
+  pitch: 10.500015
+homes:
+  home:
+    world: world
+    x: 915.3696058014128
+    y: 61.0
+    z: -938.6255518015099
+    yaw: -56.103973
+    pitch: 11.487824
+afk: false

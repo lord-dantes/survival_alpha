@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: togedamaru
+timestamps:
+  login: 1591764952540
+  lastteleport: 1591766524207
+  logout: 1591766649974
+ipAddress: 109.171.74.225
+lastlocation:
+  world: world
+  x: -1491.1984227388114
+  y: 71.0
+  z: 506.69999998807907
+  yaw: 241.1991
+  pitch: -3.300044
+homes:
+  home:
+    world: world
+    x: -1436.8785449113157
+    y: 73.0
+    z: 336.08304498730644
+    yaw: 9.299423
+    pitch: 23.399939
+logoutlocation:
+  world: world
+  x: -1387.7630630670417
+  y: 2.0
+  z: 566.6999999880791
+  yaw: 80.4964
+  pitch: -6.450006
+afk: false

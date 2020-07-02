@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: Kitty_Down
+timestamps:
+  login: 1591979296231
+  logout: 1591979374279
+  lastteleport: 1591814238870
+ipAddress: 178.70.2.163
+lastlocation:
+  world: world
+  x: -1205.4986090099878
+  y: 79.0
+  z: -1247.5423303776722
+  yaw: 166.95
+  pitch: 25.499996
+logoutlocation:
+  world: world
+  x: 1835.340232256219
+  y: 63.5625
+  z: 682.7246925791699
+  yaw: 325.2286
+  pitch: 9.150395
+homes:
+  home:
+    world: world
+    x: 1838.1005323661484
+    y: 63.0
+    z: 684.6999999880791
+    yaw: 122.82197
+    pitch: 11.550007
+afk: false

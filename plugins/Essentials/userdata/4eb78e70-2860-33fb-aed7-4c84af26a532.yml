@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: RSAQ
+timestamps:
+  login: 1591629529490
+  lastteleport: 1591629447456
+  logout: 1591629946931
+ipAddress: 2.133.14.205
+lastlocation:
+  world: world
+  x: -407.8171745381652
+  y: 73.0
+  z: -589.6965955314781
+  yaw: -29.451876
+  pitch: 14.565927
+logoutlocation:
+  world: world
+  x: 842.2494142112117
+  y: 98.0
+  z: -1475.168551199752
+  yaw: 267.66974
+  pitch: 17.509472
+homes:
+  home:
+    world: world
+    x: 840.991284043954
+    y: 75.0
+    z: -1478.3198055950265
+    yaw: 334.59824
+    pitch: 56.50021

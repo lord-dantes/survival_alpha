@@ -1,0 +1,47 @@
+socialspy: false
+lastAccountName: SimPatichNII
+timestamps:
+  login: 1590688005261
+  lastteleport: 1590687611117
+  logout: 1590688750295
+  kits:
+    capral: 1590687476574
+ipAddress: 178.129.73.224
+lastlocation:
+  world: world
+  x: 203.1071796912495
+  y: 63.0
+  z: -1223.981442377938
+  yaw: -74.545105
+  pitch: -6.299965
+homes:
+  pil:
+    world: world
+    x: 172.86974369074895
+    y: 57.0
+    z: -1212.5989244032671
+    yaw: -287.99643
+    pitch: 27.150026
+  danj:
+    world: world
+    x: 711.6999999880791
+    y: 25.0
+    z: -550.6999999880791
+    yaw: 50.937252
+    pitch: 29.699953
+  sim:
+    world: world
+    x: 2461.699999988079
+    y: 70.0
+    z: -321.5287465679562
+    yaw: -15.145536
+    pitch: 2.5499659
+logoutlocation:
+  world: world
+  x: 2393.3240551016347
+  y: 15.79673560066869
+  z: -282.7476661287518
+  yaw: 249.15508
+  pitch: 22.049932
+afk: false
+money: '7600'

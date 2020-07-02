@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Renzokunen
+timestamps:
+  login: 1590355637137
+  logout: 1590355648006
+ipAddress: 174.70.241.27
+lastlocation:
+  world: world
+  x: -399.5
+  y: 115.0
+  z: -508.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

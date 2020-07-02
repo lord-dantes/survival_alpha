@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: inokend1y
+timestamps:
+  login: 1590658939175
+  lastteleport: 1590388969704
+  logout: 1590659931250
+ipAddress: 46.241.64.251
+lastlocation:
+  world: world
+  x: -408.4890020808963
+  y: 58.0
+  z: -500.7888577372006
+  yaw: -134.26913
+  pitch: 2.8701682
+logoutlocation:
+  world: world
+  x: -280.85194491283846
+  y: 76.0
+  z: -1926.556561110665
+  yaw: 192.37077
+  pitch: 18.599981
+afk: false

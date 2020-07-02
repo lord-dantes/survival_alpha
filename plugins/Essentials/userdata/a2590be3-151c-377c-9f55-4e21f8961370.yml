@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: KpoBaTb_
+timestamps:
+  login: 1592643751142
+  lastteleport: 1592605842180
+  logout: 1592645251168
+ipAddress: 95.152.59.109
+lastlocation:
+  world: world
+  x: 1889.7508431767608
+  y: 63.0
+  z: -919.7468195150351
+  yaw: 111.000305
+  pitch: 7.0499806
+logoutlocation:
+  world: world
+  x: 1864.9410660501553
+  y: 74.0
+  z: -981.307740178778
+  yaw: 157.07562
+  pitch: 10.949963
+afk: false

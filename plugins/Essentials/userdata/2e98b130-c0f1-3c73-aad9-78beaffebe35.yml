@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: sp1ri7
+timestamps:
+  login: 1591446966307
+  lastteleport: 1591450661415
+  logout: 1591450663493
+  kits:
+    serjant: 1591096214933
+ipAddress: 77.40.44.254
+lastlocation:
+  world: world_nether
+  x: 97.09335497342313
+  y: 55.0
+  z: 242.49220399510907
+  yaw: 192.15283
+  pitch: 19.120026
+logoutlocation:
+  world: world
+  x: 909.5
+  y: 75.0
+  z: 1202.5
+  yaw: 64.78119
+  pitch: 18.125233
+afk: false
+homes:
+  home:
+    world: world
+    x: 909.2348363906258
+    y: 75.0
+    z: 1202.5912922142822
+    yaw: 64.78119
+    pitch: 18.125233
+money: '88334.10525000000005326'

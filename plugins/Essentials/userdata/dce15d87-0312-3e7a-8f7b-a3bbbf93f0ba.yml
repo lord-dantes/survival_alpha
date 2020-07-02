@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: One_Kop
+timestamps:
+  login: 1591103691894
+  lastteleport: 1591103933614
+  logout: 1591104109563
+ipAddress: 178.217.43.165
+lastlocation:
+  world: world
+  x: -408.55550396945245
+  y: 58.0
+  z: -501.7166315976493
+  yaw: -24.919159
+  pitch: 3.920169
+logoutlocation:
+  world: world
+  x: -391.44807737791456
+  y: 62.0
+  z: -542.3852968604019
+  yaw: -43.96927
+  pitch: 7.370164

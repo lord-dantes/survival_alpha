@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: undio
+timestamps:
+  login: 1591014221537
+  lastteleport: 1591018884504
+  logout: 1591018976971
+ipAddress: 109.86.17.86
+lastlocation:
+  world: world
+  x: -367.84080304290217
+  y: 62.0
+  z: -518.2810669355578
+  yaw: 115.39032
+  pitch: 41.35699
+logoutlocation:
+  world: world
+  x: -465.8327452075182
+  y: 58.0
+  z: -192.39291051847124
+  yaw: 55.345978
+  pitch: 64.80683
+homes:
+  home:
+    world: world
+    x: -462.3517759531244
+    y: 52.0
+    z: -190.65051228823467
+    yaw: -270.37225
+    pitch: -20.29347
+money: '0.0'

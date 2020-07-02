@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Cas123
+timestamps:
+  login: 1591781764068
+  logout: 1591781790470
+ipAddress: 176.49.204.111
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -503.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 1038.3480850222527
+  y: 72.0
+  z: -973.3256296126942
+  yaw: -40.19995
+  pitch: 25.64999

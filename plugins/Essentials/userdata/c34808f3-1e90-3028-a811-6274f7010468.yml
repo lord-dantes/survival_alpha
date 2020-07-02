@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: scfsd
+timestamps:
+  login: 1591041153519
+  logout: 1591041183086
+ipAddress: 185.60.133.214
+lastlocation:
+  world: world
+  x: -409.5
+  y: 101.0
+  z: -508.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

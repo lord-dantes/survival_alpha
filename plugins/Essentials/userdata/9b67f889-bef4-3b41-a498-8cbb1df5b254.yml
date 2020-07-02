@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: SoupCS
+timestamps:
+  login: 1592677148037
+  logout: 1592677165679
+  lastteleport: 1591370582313
+ipAddress: 5.44.168.81
+lastlocation:
+  world: world
+  x: -377.56471178058973
+  y: 62.0
+  z: -477.96501381865875
+  yaw: -132.40088
+  pitch: 30.07028
+godmode: false
+logoutlocation:
+  world: world
+  x: -162.12757438713186
+  y: 68.0
+  z: -463.8662820657782
+  yaw: -172.49667
+  pitch: 15.304574
+homes:
+  home:
+    world: world
+    x: -164.68588526624933
+    y: 68.0
+    z: -463.61488296189395
+    yaw: -189.1365
+    pitch: 11.999974
+money: '86703.78100000000019048'
+afk: false
+nickname: SoupCS

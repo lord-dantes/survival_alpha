@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: hypent
+timestamps:
+  login: 1590066788125
+  logout: 1590066989184
+  lastteleport: 1590066955652
+ipAddress: 5.44.171.94
+lastlocation:
+  world: world
+  x: 681.7509583119161
+  y: 64.0
+  z: 1134.791996064521
+  yaw: 139.95021
+  pitch: 23.09994
+logoutlocation:
+  world: world
+  x: -427.50086825903344
+  y: 63.0
+  z: -396.5750961638931
+  yaw: -266.41907
+  pitch: 25.970175

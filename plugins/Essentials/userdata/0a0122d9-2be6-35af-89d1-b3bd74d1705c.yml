@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: 3lou_3adrot
+timestamps:
+  login: 1592160891228
+  lastteleport: 1592159586194
+  logout: 1592161010994
+  kits:
+    major: 1592160032829
+ipAddress: 78.111.185.126
+lastlocation:
+  world: world
+  x: -377.11815090151083
+  y: 63.04365101893567
+  z: -515.8260179041711
+  yaw: 166.92114
+  pitch: 17.888784
+homes:
+  home:
+    world: world
+    x: -1573.277365890788
+    y: 85.0
+    z: -1241.8962799454448
+    yaw: 6.467041
+    pitch: 22.950012
+money: '63335.1607000000001217'
+afk: false
+logoutlocation:
+  world: world
+  x: -1555.4967741404712
+  y: 85.41999998688698
+  z: -1227.699999988079
+  yaw: -145.63547
+  pitch: 22.949984

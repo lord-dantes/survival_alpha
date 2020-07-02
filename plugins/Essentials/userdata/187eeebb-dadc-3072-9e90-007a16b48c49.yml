@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: ploxo
+timestamps:
+  login: 1590093487087
+  logout: 1590093573582
+ipAddress: 178.95.1.183
+lastlocation:
+  world: world
+  x: -400.5
+  y: 254.0
+  z: -489.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -388.2497640231435
+  y: 69.0
+  z: -569.1290480944089
+  yaw: -311.27533
+  pitch: -28.161194

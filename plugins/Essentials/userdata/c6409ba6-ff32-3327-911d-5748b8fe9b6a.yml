@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Sane4kaHokage228
+timestamps:
+  login: 1591374989816
+  lastteleport: 1591373178167
+  logout: 1591375019722
+ipAddress: 188.227.82.222
+lastlocation:
+  world: world
+  x: -358.9852571240909
+  y: 64.0
+  z: -673.8206939143829
+  yaw: -108.92645
+  pitch: 6.979936
+afk: false
+logoutlocation:
+  world: world_nether
+  x: -38.89429789730504
+  y: 69.0
+  z: 97.27860320815915
+  yaw: 85.24603
+  pitch: 49.928574

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Osypher
+timestamps:
+  login: 1590960838285
+  logout: 1590960849466
+ipAddress: 195.34.207.149
+lastlocation:
+  world: world
+  x: -401.5
+  y: 84.0
+  z: -501.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -316.0747
+  pitch: -16.461205

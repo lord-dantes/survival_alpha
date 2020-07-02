@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: zicarus
+timestamps:
+  login: 1591487088998
+  logout: 1591487133047
+ipAddress: 46.216.69.132
+lastlocation:
+  world: world
+  x: -408.5
+  y: 91.0
+  z: -506.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -299.8747
+  pitch: -7.761204

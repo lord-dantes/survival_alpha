@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&9&lМастер-сержант'
+  command: 'rankupgradetostsejantonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &9&lМастер-сержант'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&9&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&9[p] &r&7Префикс &7[&r&9➳⁺&7]'
+    - '&9[p] &r&7Возможность получить набор &9/kit stserjant'
+    - '&9[p] &r&7Возможность заприватить &93 региона'
+    - '&9[p] &r&7Возможность поставить &93 точки дома'
+    - '&9[p] &r&7Возможность выставить &94 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a85 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 85000
+  COMMAND: 'console: pex user {player} group add stserjant;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &9&lМастер-сержант'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

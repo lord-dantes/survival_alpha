@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: SeaBlue3
+timestamps:
+  login: 1592115443709
+  lastteleport: 1592115828592
+  logout: 1592116068122
+ipAddress: 95.54.22.232
+lastlocation:
+  world: world
+  x: -398.7421729055519
+  y: 62.0
+  z: -542.7837898197149
+  yaw: 61.112553
+  pitch: -9.5769205
+homes:
+  home:
+    world: world
+    x: -906.5772204868828
+    y: 25.0
+    z: -833.4288324369629
+    yaw: -285.7968
+    pitch: 31.665659
+money: '5112.0537499999999615'
+afk: false
+logoutlocation:
+  world: world
+  x: 2452.2268268938515
+  y: 64.0
+  z: 1359.7772853080367
+  yaw: -95.03656
+  pitch: 31.212128

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Adimass
+timestamps:
+  login: 1590688539871
+  lastteleport: 1590226310493
+  logout: 1590688606920
+ipAddress: 92.39.220.5
+lastlocation:
+  world: world
+  x: -473.67185164660856
+  y: 68.0
+  z: -496.460551142121
+  yaw: 204.78815
+  pitch: 3.1007314
+afk: false
+logoutlocation:
+  world: world
+  x: -849.2899528289656
+  y: 64.0
+  z: -658.9191292316763
+  yaw: 308.41986
+  pitch: 43.770687

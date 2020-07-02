@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: OssiWorld
+timestamps:
+  login: 1592056117499
+  logout: 1592056122849
+ipAddress: 217.230.176.84
+lastlocation:
+  world: world
+  x: -416.5
+  y: 254.0
+  z: -496.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.3712779133733
+  y: 58.0
+  z: -499.1182938794422
+  yaw: 1.1751496
+  pitch: -3.4500284

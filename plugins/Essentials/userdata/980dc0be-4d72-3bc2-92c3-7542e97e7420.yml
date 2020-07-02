@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: kaban2002
+timestamps:
+  login: 1592398153177
+  logout: 1592398207183
+ipAddress: 95.32.195.143
+lastlocation:
+  world: world
+  x: -410.5
+  y: 254.0
+  z: -501.5
+  yaw: 0.0
+  pitch: 0.0
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -657.2252320674615
+  y: 68.0
+  z: -782.5685402479018
+  yaw: 242.55006
+  pitch: 10.650001
+afk: false

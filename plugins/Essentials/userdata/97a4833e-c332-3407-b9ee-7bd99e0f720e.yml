@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: stavlike
+timestamps:
+  login: 1589658872658
+  lastteleport: 1589659115790
+  logout: 1589659279947
+ipAddress: 46.200.189.74
+lastlocation:
+  world: world
+  x: -93.96200871583993
+  y: 69.0
+  z: -1925.7093642608622
+  yaw: 254.70038
+  pitch: 16.049965
+logoutlocation:
+  world: world
+  x: -408.28556710671444
+  y: 58.0
+  z: -505.9714266582167
+  yaw: -114.76918
+  pitch: -44.67983

@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&3&lКапрал'
+  command: 'rankupgradetocapralonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &3&lКапрал'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&3&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&3[p] &r&7Префикс &7[&r&3➳⁺&7]'
+    - '&3[p] &r&7Возможность получить набор &3/kit capral'
+    - '&3[p] &r&7Возможность заприватить &32 региона'
+    - '&3[p] &r&7Возможность поставить &33 точки дома'
+    - '&3[p] &r&7Возможность выставить &33 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a35 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 35000
+  COMMAND: 'console: pex user {player} group add capral;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &3&lКапрал'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

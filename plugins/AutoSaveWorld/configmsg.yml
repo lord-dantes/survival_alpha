@@ -1,0 +1,16 @@
+broadcast:
+  pre: '&7[&e&lSurvival§7] &eСохранение Мира'
+  post: '&7[&e&lSurvival§7] &aСохранение Завершено'
+broadcastbackup:
+  pre: ''
+  post: ''
+broadcastpurge:
+  pre: '&a[&e&lSurvival§a] &9&lАвтоматическая Продувка'
+  post: '&a[&e&lSurvival§a] &9&lАвтоматическая Очистка Завершена'
+autorestart:
+  restarting: '&a[&e&lSurvival§a] &9&lСервер перезагружается'
+  countdown: '&a[&e&lSurvival§a] &9&lСервер будет перезапущен {SECONDS} секунд'
+worldregen:
+  kickmessage: '&a[&e&lSurvival§a] &9&lСервер восстанавливает карту, пожалуйста, приходите
+    позже'
+insufficentpermissions: '&a[&e&lSurvival§a] &c&lУ вас нет доступа к этой команде.'

@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Xalat
+timestamps:
+  login: 1592006673221
+  lastteleport: 1592005319562
+  logout: 1592007176219
+ipAddress: 176.59.100.138
+lastlocation:
+  world: world
+  x: 2082.9041500621265
+  y: 26.121600046157813
+  z: -280.48323496947444
+  yaw: -23.323639
+  pitch: 9.300088
+homes:
+  home:
+    world: world
+    x: 1855.902961113337
+    y: 66.0
+    z: -276.05925977236654
+    yaw: -296.1679
+    pitch: 26.399954
+logoutlocation:
+  world: world
+  x: 1861.8124296254173
+  y: 66.0
+  z: -267.7153597413363
+  yaw: -167.19067
+  pitch: 41.40004

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Fistifo4
+timestamps:
+  login: 1590135313792
+  logout: 1590135536148
+  lastteleport: 1590135357675
+ipAddress: 176.59.36.60
+lastlocation:
+  world: world
+  x: -385.60898242219344
+  y: 69.0
+  z: -729.5623709529041
+  yaw: -330.62476
+  pitch: 12.488802
+logoutlocation:
+  world: world
+  x: -408.12501164149484
+  y: 60.0
+  z: -523.2397700514141
+  yaw: -175.36914
+  pitch: 6.0201693

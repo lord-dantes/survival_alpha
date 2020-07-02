@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Steven
+timestamps:
+  login: 1592556180901
+  logout: 1592556241119
+ipAddress: 185.41.207.6
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -493.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -366.49719276704633
+  y: 66.0
+  z: -307.8702544834264
+  yaw: 61.925404
+  pitch: 21.15002

@@ -1,0 +1,66 @@
+socialspy: false
+lastAccountName: mekboyz777
+timestamps:
+  login: 1592767160766
+  lastteleport: 1592767179142
+  logout: 1592767466344
+  kits:
+    capral: 1591631145706
+    capitan: 1591966506651
+    leitenant: 1591879014730
+    serjant: 1591794334134
+    major: 1592294276575
+  lastheal: 1592766562233
+ipAddress: 5.182.25.67
+lastlocation:
+  world: world
+  x: -1920.9215535958872
+  y: 40.0
+  z: -1964.5356103297945
+  yaw: 7.1217346
+  pitch: 8.023785
+homes:
+  home:
+    world: world
+    x: 841.2265527867318
+    y: 80.0
+    z: -1474.2249589819453
+    yaw: 161.84552
+    pitch: 18.750057
+  baza:
+    world: world_nether
+    x: 117.37836461180466
+    y: 75.0
+    z: -805.216550255729
+    yaw: -68.849884
+    pitch: 59.25
+  mine:
+    world: world_nether
+    x: -413.7686063430425
+    y: 128.0
+    z: 202.7006963817155
+    yaw: -162.28467
+    pitch: 61.93357
+  wah:
+    world: world
+    x: -1538.8891597271968
+    y: 82.0281585429212
+    z: -1780.7157053667154
+    yaw: 357.0001
+    pitch: 29.550007
+  boom:
+    world: world
+    x: -1909.906248745491
+    y: 63.0
+    z: -1974.741585090223
+    yaw: 16.291203
+    pitch: 50.489456
+money: '1259516.38404999999942881'
+logoutlocation:
+  world: world
+  x: 841.8450196044556
+  y: 88.11323916349842
+  z: -1459.0913264038231
+  yaw: 77.507965
+  pitch: 75.71657
+afk: false

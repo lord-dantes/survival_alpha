@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&6&lПодполковник'
+  command: 'rankupgradetopodpolkovnikonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &6&lПодполковник'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&6&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&6[p] &r&7Префикс &7[&r&6±&7]'
+    - '&6[p] &r&7Возможность получить набор &6/kit podpolkovnik'
+    - '&6[p] &r&7Возможность заприватить &65 регионов'
+    - '&6[p] &r&7Возможность поставить &65 точек дома'
+    - '&6[p] &r&7Возможность выставить &65 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a1 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 1000000
+  COMMAND: 'console: pex user {player} group add podpolkovnik;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &6&lПодполковник'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

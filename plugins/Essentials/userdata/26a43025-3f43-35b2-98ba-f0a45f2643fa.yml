@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: _shazam_
+timestamps:
+  login: 1592571587173
+  logout: 1592571627566
+  lastteleport: 1592046306271
+ipAddress: 213.110.14.183
+lastlocation:
+  world: world
+  x: -374.27799715600923
+  y: 65.0
+  z: -547.5098883121127
+  yaw: 226.41882
+  pitch: -0.022193784
+logoutlocation:
+  world: world
+  x: 788.8607107310322
+  y: 68.0
+  z: -1531.2327546130023
+  yaw: 189.33688
+  pitch: 46.79999
+homes:
+  home:
+    world: world
+    x: 787.3857318641201
+    y: 68.0
+    z: -1526.8743056341918
+    yaw: 228.39587
+    pitch: 22.537836
+money: '0'

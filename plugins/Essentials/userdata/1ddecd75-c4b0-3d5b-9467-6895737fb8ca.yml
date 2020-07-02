@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: massik2007
+timestamps:
+  login: 1592130440266
+  logout: 1592130946077
+ipAddress: 188.244.133.252
+lastlocation:
+  world: world
+  x: -418.5
+  y: 254.0
+  z: -491.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.0735867328956
+  y: 65.5
+  z: -618.179325867495
+  yaw: -178.02602
+  pitch: 15.676795
+afk: false

@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: sato_san
+timestamps:
+  login: 1589659718023
+  lastteleport: 1589660748965
+  logout: 1589660841894
+ipAddress: 188.163.100.241
+lastlocation:
+  world: world
+  x: -402.47563113988895
+  y: 61.0
+  z: -491.69999998807907
+  yaw: -79.11275
+  pitch: 23.557371
+homes:
+  home:
+    world: world
+    x: -283.43449459825234
+    y: 58.0
+    z: -2073.2773140742756
+    yaw: 144.64978
+    pitch: 28.635023
+logoutlocation:
+  world: world
+  x: -374.30054242713516
+  y: 77.0
+  z: -141.0947321799299
+  yaw: 78.02576
+  pitch: 45.51873

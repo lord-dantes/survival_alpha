@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Guest
+timestamps:
+  login: 1591726658919
+  logout: 1591726687121
+ipAddress: 46.133.8.239
+lastlocation:
+  world: world
+  x: -416.5
+  y: 254.0
+  z: -497.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.6863677248589
+  y: 58.0
+  z: -499.88777065834165
+  yaw: -188.12474
+  pitch: 6.488796

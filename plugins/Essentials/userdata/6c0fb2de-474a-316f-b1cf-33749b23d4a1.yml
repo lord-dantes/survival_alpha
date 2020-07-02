@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Vitya3005
+timestamps:
+  login: 1590048803071
+  lastteleport: 1590049284080
+  logout: 1590049566853
+ipAddress: 188.244.155.228
+lastlocation:
+  world: world
+  x: -404.1862949405029
+  y: 58.5
+  z: -499.56240819217254
+  yaw: -98.46625
+  pitch: 75.51195
+logoutlocation:
+  world: world
+  x: 443.80208712967584
+  y: 65.0
+  z: 1656.2756990692908
+  yaw: 22.784668
+  pitch: 20.19973

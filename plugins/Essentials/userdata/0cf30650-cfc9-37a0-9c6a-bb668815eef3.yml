@@ -1,0 +1,50 @@
+socialspy: false
+lastAccountName: FeniX_WH
+timestamps:
+  login: 1591348971929
+  logout: 1591349051790
+  lastteleport: 1590849607922
+  mute: 0
+ipAddress: 37.77.108.32
+logoutlocation:
+  world: world
+  x: -383.35798436071855
+  y: 62.0
+  z: -516.6821124290832
+  yaw: 102.6552
+  pitch: 12.480592
+afk: false
+lastlocation:
+  world: world
+  x: -433.13044702972115
+  y: 69.0
+  z: -552.0274811248506
+  yaw: 236.51492
+  pitch: 13.405832
+godmode: false
+homes:
+  home:
+    world: world
+    x: 1.2324380762499988E7
+    y: 81.0
+    z: 12375.756133054385
+    yaw: -271.59402
+    pitch: 7.773509
+  bazy:
+    world: world
+    x: 2405.9602136497488
+    y: 63.0
+    z: 2417.2638262109954
+    yaw: -358.57684
+    pitch: -1.8910139
+  myhome:
+    world: world
+    x: 1167.768936690208
+    y: 63.0
+    z: -1841.1416571680825
+    yaw: 112.52127
+    pitch: 26.976875
+money: '1955.0'
+nickname: FeniX_WH
+teleportenabled: true
+muted: false

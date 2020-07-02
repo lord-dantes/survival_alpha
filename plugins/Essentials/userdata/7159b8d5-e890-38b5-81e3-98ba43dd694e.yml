@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: _diexqw
+timestamps:
+  login: 1590912091121
+  logout: 1590914467777
+  lastteleport: 1590914265082
+ipAddress: 188.253.225.128
+lastlocation:
+  world: world
+  x: -866.0685443277258
+  y: 5.5
+  z: 60.60582092299918
+  yaw: 271.16864
+  pitch: -38.078278
+homes:
+  home:
+    world: world
+    x: -792.3028325640208
+    y: 78.0
+    z: 57.33822278563853
+    yaw: 32.245117
+    pitch: 24.7729
+logoutlocation:
+  world: world
+  x: -809.6799917548174
+  y: 62.0
+  z: 60.839869144908675
+  yaw: 36.311592
+  pitch: 17.525368

@@ -1,0 +1,45 @@
+tpmessage: '§a[§e&lSurvival§a] &aВы телепортировались в случайное место !'
+cantusemessage: '§a[§e&lSurvival§a] &cВы не сможете телепортироваться ещё $secondsLeft$ секунд!'
+cancelmessage: '§a[§e&lSurvival§a] &cТелепортация отменена, потому что вы двигались !'
+permissionmessage: '§a[§e&lSurvival§a] &cВы не имеете права на это !'
+mustintegermessage: '§a[§e&lSurvival§a] &cЭто значение должно быть целым числом !'
+setmessage: '§a[§e&lSurvival§a] &aСлучайная область телепорта была установлена в квадрате $value$ * $value$
+  вокруг вас !'
+reloadmessage: '§a[§e&lSurvival§a] &7Конфигурация перезапущена !'
+usagesetmessage: '§a[§e&lSurvival§a] &cИспользуйте : /rtp set [Целое число]'
+usagetpprotectionmessage: '§a[§e&lSurvival§a] &cИспользуйте : /rtp tpprotection [True|False]'
+usagecooldownmessage: '§a[§e&lSurvival§a] &cИспользуйте : /rtp cooldown [Integer]'
+usagedelaymessage: '§a[§e&lSurvival§a] &cИспользуйте : /rtp delay [Integer]'
+cooldownsetmessage: '§a[§e&lSurvival§a] &aНовое Время телепортации было установлено'
+delaysetmessage: '§a[§e&lSurvival§a] &aУстановлена новая задержка телепортации !'
+delaystartmessage: '§a[§e&lSurvival§a] &aТелепортация начнется через $delay$ секунды. Не двигайтесь!!'
+notonlinemessage: '§a[§e&lSurvival§a] &cОшибка : этот игрок не находится в сети !'
+doesntexistsmessage: '§a[§e&lSurvival§a] &cОшибка : этот мир не существует !'
+notfoundmessage: '§a[§e&lSurvival§a] &cОшибка: местоположение телепорта не было найдено !'
+rtphelpmessage: '§a[§e&lSurvival§a] &c/rtp - /wild - /wilderness : &aTeleports in a random location'
+rtpothershelpmessage: '§a[§e&lSurvival§a] &c/rtp [player] [world] <biome> : &aTeleports someone into
+  asked world.'
+sethelpmessage: '§a[§e&lSurvival§a] &c/rtp set [size(Integer)] : &aSet the size of the teleportation
+  area around you.'
+cooldownhelpmessage: '§a[§e&lSurvival§a] &c/rtp cooldown [time(seconds)(integer)] : &aSet teleportation
+  command cooldown.'
+reloadhelpmessage: '§a[§e&lSurvival§a] &c/rtp reload : &aReloads the configuration file.'
+tpprotectionhelpmessage: '§a[§e&lSurvival§a] &c/rtp tpprotection [True|False] : &aAllows players to be
+  teleported in protected areas. If True, they will never be teleported into a protected
+  area.'
+delayhelpmessage: '§a[§e&lSurvival§a] &c/rtp delay [seconds] : &aSet the delay before teleporting the
+  player.'
+cooldown: 5
+delay: 60
+tpprotection: true
+Worlds:
+  world:
+    zMax: 2001
+    zMin: -2001
+    xMax: 2001
+    xMin: -2001
+  world_nether:
+    zMax: 2007
+    zMin: -1995
+    xMax: 1995
+    xMin: -2007

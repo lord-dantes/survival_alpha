@@ -1,0 +1,350 @@
+groups:
+  conscript:
+    permissions:
+    - shop.command.usage
+    - shop.command.open
+    - -essentials.build.interact.383:*
+    - -essentials.build.pickup.383:*
+    - -essentials.build.place.7:*
+    - -essentials.build.break.7:*
+    - -essentials.build.pickup.7:*
+    - -essentials.worth
+    - -essentials.jail.allow.mail
+    - -essentials.jail.allow.ping
+    - -essentials.jail.allow.seen
+    - -essentials.back
+    - -essentials.back.ondeath
+    - -essentials.mail
+    - -essentials.mail.send
+    - -essentials.rules
+    - -essentials.sell
+    - essentials.spawn
+    - -essentials.warp
+    - essentials.warp.list
+    - essentials.msg
+    - essentials.balance
+    - essentials.signs.use.*
+    - essentials.list
+    - essentials.motd
+    - essentials.spawn
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.home
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple.conscript
+    - essentials.kit
+    - essentials.kits.start
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.chat.shout
+    - essentials.build
+    - essentials.pay
+    - chestcommands.open.donate.yml
+    - chestcommands.open.rekruit.yml
+    - chestcommands.command.open
+    - crazyauctions.access
+    - crazyauctions.sell
+    - crazyauctions.sell.1
+    - skinsrestorer.playercmd
+    - skinsrestorer.playercmds
+    - modifyworld.*
+    - authme.login
+    - authme.register
+    - bukkit.command.kill
+    - worldedit.selection.hpos
+    - worldedit.selection.pos
+    - worldedit.wand
+    - worldedit.selection.expand
+    - worldguard.region.addowner.own.*
+    - worldguard.region.remove.own.*
+    - worldguard.region.list.own
+    - worldguard.region.removemember.own.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.info.*
+    - worldguard.region.claim
+    - worldguard.region.wand
+    - rtp.tp
+    - citizens.npc.talk
+    - -bukkit.command.plugins
+    - namemanager.group.conscript
+    options:
+      rank: '2500'
+      prefix: '&7[&r&7➳&7]&r '
+      suffix: ''
+      default: true
+  rekruit:
+    inheritance:
+    - conscript
+    permissions:
+    - -chestcommands.open.rekruit.yml
+    - chestcommands.open.mlcapral.yml
+    - essentials.sethome.multiple.rekruit
+    - -essentials.kits.start
+    - essentials.kits.rekruit
+    - -namemanager.group.conscript
+    - namemanager.group.rekruit
+    options:
+      rank: '2400'
+      prefix: '&7[&r&f➳&7]&r '
+      suffix: ''
+      default: false
+  mlcapral:
+    inheritance:
+    - rekruit
+    permissions:
+    - -chestcommands.open.mlcapral.yml
+    - chestcommands.open.capral.yml
+    - essentials.sethome.multiple.mlcapral
+    - -essentials.kits.rekruit
+    - essentials.kits.mlcapral
+    - -namemanager.group.rekruit
+    - namemanager.group.mlcapral
+    options:
+      rank: '2300'
+      prefix: '&7[&r&3➳&7]&r '
+      suffix: ''
+      default: false
+  capral:
+    inheritance:
+    - mlcapral
+    permissions:
+    - -chestcommands.open.capral.yml
+    - chestcommands.open.serjant.yml
+    - essentials.sethome.multiple.capral
+    - -essentials.kits.mlcapral
+    - essentials.kits.capral
+    - -namemanager.group.mlcapral
+    - namemanager.group.capral
+    options:
+      rank: '2200'
+      prefix: '&7[&r&3➳⁺&7]&r '
+      suffix: ''
+      default: false
+  serjant:
+    inheritance:
+    - capral
+    permissions:
+    - -chestcommands.open.serjant.yml
+    - chestcommands.open.stserjant.yml
+    - -essentials.kits.capral
+    - essentials.kits.serjant
+    - essentials.sethome.multiple.serjant
+    - -namemanager.group.capral
+    - namemanager.group.serjant
+    options:
+      rank: '2100'
+      prefix: '&7[&r&9➳&7]&r '
+      suffix: ''
+      default: false
+  stserjant:
+    inheritance:
+    - serjant
+    permissions:
+    - -chestcommands.open.stserjant.yml
+    - chestcommands.open.leitenant.yml
+    - -essentials.kits.serjant
+    - essentials.kits.stserjant
+    - essentials.sethome.multiple.stserjant
+    - -namemanager.group.serjant
+    - namemanager.group.stserjant
+    options:
+      rank: '2100'
+      prefix: '&7[&r&9➳⁺&7]&r '
+      suffix: ''
+      default: false
+  leitenant:
+    inheritance:
+    - stserjant
+    permissions:
+    - -chestcommands.open.leitenant.yml
+    - chestcommands.open.stleitenant.yml
+    - -essentials.kits.stserjant
+    - essentials.kits.leitenant
+    - essentials.sethome.multiple.leitenant
+    - essentials.enderchest.use
+    - -namemanager.group.stserjant
+    - namemanager.group.leitenant
+    options:
+      rank: '2000'
+      prefix: '&7[&r&e➳&7]&r '
+      suffix: ''
+      default: false
+  stleitenant:
+    inheritance:
+    - leitenant
+    permissions:
+    - -chestcommands.open.stleitenant.yml
+    - chestcommands.open.capitan.yml
+    - -essentials.kits.leitenant
+    - essentials.kits.stleitenant
+    - essentials.sethome.multiple.stleitenant
+    - -namemanager.group.leitenant
+    - namemanager.group.stleit
+    options:
+      rank: '1900'
+      prefix: '&7[&r&e➳⁺&7]&r '
+      suffix: ''
+      default: false
+  capitan:
+    inheritance:
+    - stleitenant
+    permissions:
+    - -chestcommands.open.capitan.yml
+    - chestcommands.open.major.yml
+    - -essentials.kits.stleitenant
+    - essentials.kits.capitan
+    - essentials.sethome.multiple.capitan
+    - -namemanager.group.stleit
+    - namemanager.group.capitan
+    options:
+      rank: '1800'
+      prefix: '&7[&r&d◇&7]&r '
+      suffix: ''
+      default: false
+  major:
+    inheritance:
+    - capitan
+    permissions:
+    - -chestcommands.open.major.yml
+    - chestcommands.open.podpolkovnik.yml
+    - -essentials.kits.capitan
+    - essentials.kits.major
+    - essentials.sethome.multiple.major
+    - essentials.fly
+    - essentials.feed
+    - -namemanager.group.capitan
+    - namemanager.group.major
+    options:
+      rank: '1700'
+      prefix: '&7[&r&d◈&7]&r '
+      suffix: ''
+      default: false
+  podpolkovnik:
+    inheritance:
+    - major
+    permissions:
+    - -chestcommands.open.podpolkovnik.yml
+    - chestcommands.open.polkovnik.yml
+    - -essentials.kits.major
+    - essentials.kits.podpolkovnik
+    - -namemanager.group.major
+    - namemanager.group.podpolk
+    options:
+      rank: '1600'
+      prefix: '&7[&r&6±&7]&r '
+      suffix: ''
+      default: false
+  polkovnik:
+    inheritance:
+    - podpolkovnik
+    permissions:
+    - -chestcommands.open.polkovnik.yml
+    - chestcommands.open.brigadir.yml
+    - -essentials.kits.podpolkovnik
+    - essentials.kits.polkovnik
+    - -namemanager.group.podpolk
+    - namemanager.group.polkovnik
+    options:
+      rank: '1500'
+      prefix: '&7[&r&6±⁺&7]&r '
+      suffix: ''
+      default: false
+  brigadir:
+    inheritance:
+    - polkovnik
+    permissions:
+    - -chestcommands.open.brigadir.yml
+    - chestcommands.open.general-leitenant.yml
+    - -essentials.kits.polkovnik
+    - essentials.kits.brigadir
+    - -namemanager.group.polkovnik
+    - namemanager.group.brigadir
+    options:
+      rank: '1400'
+      prefix: '&7[&r&5⊖&7]&r '
+      suffix: ''
+      default: false
+  general-leitenant:
+    inheritance:
+    - brigadir
+    permissions:
+    - -chestcommands.open.general-leitenant.yml
+    - chestcommands.open.general-major.yml
+    - -essentials.kits.brigadir
+    - essentials.kits.general-leitenant
+    - -namemanager.group.brigadir
+    - namemanager.group.genleit
+    options:
+      rank: '1300'
+      prefix: '&7[&r&5⊖⁺&7]&r '
+      suffix: ''
+      default: false
+  general-major:
+    inheritance:
+    - general-leitenant
+    permissions:
+    - -chestcommands.open.general-major.yml
+    - chestcommands.open.general.yml
+    - -essentials.kits.general-leitenant
+    - essentials.kits.general-major
+    - -namemanager.group.genleit
+    - namemanager.group.genmajor
+    options:
+      rank: '1200'
+      prefix: '&7[&r&c⊙&7]&r '
+      suffix: ''
+      default: false
+  general:
+    inheritance:
+    - general-major
+    permissions:
+    - -chestcommands.open.general.yml
+    - chestcommands.open.field-marshal.yml
+    - -essentials.kits.general-major
+    - essentials.kits.general
+    - -namemanager.group.genmajor
+    - namemanager.group.general
+    options:
+      rank: '1100'
+      prefix: '&7[&r&c⊡&7]&r '
+      suffix: ''
+      default: false
+  field-marshal:
+    inheritance:
+    - general
+    permissions:
+    - -chestcommands.open.field-marshal.yml
+    - essentials.kits.*
+    - -namemanager.group.general
+    - namemanager.group.fieldmarsh
+    options:
+      rank: '1000'
+      prefix: '&7[&r&4♆&7]&r '
+      suffix: ''
+      default: false
+schema-version: 1
+users:
+  07315afe-d4d7-351f-910d-6880ac643da7:
+    group:
+    - general
+    - general-major
+    - general-leitenant
+    - brigadir
+    - polkovnik
+    - podpolkovnik
+    - major
+    - capitan
+    - stleitenant
+    - leitenant
+    - stserjant
+    - serjant
+    - capral
+    - mlcapral
+    - rekruit
+    options:
+      name: Flamingo

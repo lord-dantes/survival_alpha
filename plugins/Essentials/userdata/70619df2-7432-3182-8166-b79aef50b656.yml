@@ -1,0 +1,43 @@
+socialspy: false
+lastAccountName: murder
+timestamps:
+  login: 1591910720968
+  logout: 1591910735886
+  lastteleport: 1591821310706
+  kits:
+    capral: 1590774123368
+    leitenant: 1591821234502
+    serjant: 1591115740714
+ipAddress: 188.172.220.69
+lastlocation:
+  world: world
+  x: -371.33673176731736
+  y: 62.0
+  z: -519.8289276253404
+  yaw: -0.31033325
+  pitch: -0.24162613
+logoutlocation:
+  world: world
+  x: -16.810549327153765
+  y: 63.0
+  z: 1458.3606848666643
+  yaw: -151.93602
+  pitch: 16.174707
+money: '3088.17249999999990054'
+homes:
+  ad:
+    world: world_nether
+    x: -72.47527988899215
+    y: 46.0
+    z: -36.651900990073266
+    yaw: 21.750458
+    pitch: 17.197468
+  h:
+    world: world
+    x: -17.5
+    y: 63.0
+    z: 1460.5
+    yaw: -3.3150635
+    pitch: 0.84695816
+afk: false
+godmode: false

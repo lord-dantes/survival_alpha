@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: orugalya
+timestamps:
+  login: 1590690726748
+  lastteleport: 1590225393472
+  logout: 1590690756691
+ipAddress: 109.196.141.210
+lastlocation:
+  world: world
+  x: -705.7280313803495
+  y: 69.0
+  z: -951.2820437713564
+  yaw: -214.6582
+  pitch: 30.374832
+logoutlocation:
+  world: world
+  x: -845.5831372044872
+  y: 59.0
+  z: -659.9756807853604
+  yaw: -281.4645
+  pitch: -7.5793934

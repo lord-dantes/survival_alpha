@@ -1,0 +1,60 @@
+# In what quantities can you buy and sell items.
+amountPattern: '1,32,64'
+# Allow to sell items which have colored display name
+ignoreColoredDisplay: true
+
+# Lore will be added to each item
+iconsLore:
+- '&eЛКМ - &aкупить'
+- '&7Цена покупки: &a{buy_price}$'
+- '================='
+- '&eПКМ - &6продать'
+- '&7Стоимость продажи: &6{sell_price}$'
+
+pageSuffix: ' #{page}'
+
+
+
+# These items will be added in the last row
+changeAmount:
+  enable: true
+  slot: 8
+  id: iron_ingot
+  name: '&eИзменить количество'
+  lore: []
+nextPage:
+  slot: 6
+  id: '351:10'
+  inactiveId: '351:8'
+  name: '&aСледующая страница'
+  inactiveName: '&8Следующая страница'
+previousPage:
+  slot: 5
+  id: '351:13'
+  inactiveId: '351:8'
+  name: '&aПредыдущая страница'
+  inactiveName: '&8Предыдущая страница'
+
+customNodes:
+  '1':
+    slot: 0
+    id: arrow
+    name: '&eНазад'
+    lore: []
+    action:
+    - 'money'
+    close: true
+
+
+messages:
+  noItem: '&cВам нужно держать в инвентаре {amount} этого {item}'
+  noMoney: '&cУ вас недостаточно денег {money}$ чтобы купить это'
+  bought: '&aВы успешно купили x{amount} - {item} за {money}$'
+  sold: '&eВы успешно продали х{amount} - {item} за {money}$'
+
+# Sound names can be found here hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+sounds:
+  bought: ENTITY_ITEM_PICKUP
+  sold: ENTITY_EXPERIENCE_ORB_PICKUP
+  noMoney: none
+  noItem: none

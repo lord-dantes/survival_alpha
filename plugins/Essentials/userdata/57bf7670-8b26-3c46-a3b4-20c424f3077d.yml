@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: 228dima337
+timestamps:
+  login: 1590411222774
+  logout: 1590411447183
+  lastteleport: 1590411426465
+ipAddress: 185.52.142.22
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+logoutlocation:
+  world: world
+  x: -306.5
+  y: 69.0
+  z: -1926.5
+  yaw: 203.92058
+  pitch: 6.3000116
+homes:
+  home:
+    world: world
+    x: -306.4514291186805
+    y: 69.0
+    z: -1926.8952039219773
+    yaw: 159.52057
+    pitch: 1.6500118

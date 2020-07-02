@@ -1,0 +1,5 @@
+§a[§e&lSurvival§a]
+&6Добро Пожаловать, {PLAYER}&6!
+&6Время:&c {WORLDTIME12}
+
+&6Игроков онлайн:&c {ONLINE}

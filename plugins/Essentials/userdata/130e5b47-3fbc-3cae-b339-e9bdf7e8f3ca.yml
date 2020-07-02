@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: AtomLord2
+timestamps:
+  login: 1591700939356
+  logout: 1591701987498
+  lastteleport: 1591701613629
+ipAddress: 188.170.195.36
+lastlocation:
+  world: world
+  x: -1574.6868575842389
+  y: 65.0
+  z: 795.9658150378425
+  yaw: 84.1496
+  pitch: 20.849918
+logoutlocation:
+  world: world
+  x: -1613.6226438110386
+  y: 72.0
+  z: -1030.0852860274185
+  yaw: 322.50223
+  pitch: 48.750095

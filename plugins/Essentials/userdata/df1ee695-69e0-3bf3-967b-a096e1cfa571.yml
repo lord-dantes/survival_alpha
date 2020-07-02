@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Zizzu
+timestamps:
+  login: 1590328700507
+  logout: 1590330129153
+  lastteleport: 1590330000364
+ipAddress: 109.201.114.173
+lastlocation:
+  world: world
+  x: -410.5141349603367
+  y: 58.495200877005914
+  z: -497.19026770041813
+  yaw: -101.56918
+  pitch: 25.82018
+logoutlocation:
+  world: world
+  x: 326.0926626159296
+  y: 63.0
+  z: -726.0860839584261
+  yaw: -297.3122
+  pitch: 7.050039

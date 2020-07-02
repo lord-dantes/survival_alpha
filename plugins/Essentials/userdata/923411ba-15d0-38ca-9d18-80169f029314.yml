@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Flexer
+timestamps:
+  login: 1591909807126
+  logout: 1591910584672
+ipAddress: 128.75.162.167
+lastlocation:
+  world: world
+  x: -414.5
+  y: 254.0
+  z: -495.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -373.14382055872477
+  y: 64.5
+  z: -533.1499974814114
+  yaw: 172.9257
+  pitch: 10.838788
+afk: false

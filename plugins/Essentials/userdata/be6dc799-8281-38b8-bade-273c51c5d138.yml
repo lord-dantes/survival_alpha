@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: stalker
+timestamps:
+  login: 1591626013344
+  logout: 1591626025800
+ipAddress: 90.189.144.194
+lastlocation:
+  world: world
+  x: -405.5
+  y: 254.0
+  z: -504.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.016912956758
+  y: 58.0
+  z: -499.8088641823108
+  yaw: -17.424711
+  pitch: 29.288795

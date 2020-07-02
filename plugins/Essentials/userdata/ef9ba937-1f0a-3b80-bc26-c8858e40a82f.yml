@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Katiawerty
+timestamps:
+  login: 1592738129738
+  logout: 1592738789088
+  lastteleport: 1592737921008
+ipAddress: 212.13.182.58
+lastlocation:
+  world: world
+  x: 914.524076970883
+  y: 61.0
+  z: -936.74247485748
+  yaw: 294.26862
+  pitch: 9.057491
+logoutlocation:
+  world: world
+  x: 1281.4874498846839
+  y: 76.0
+  z: -1594.8104949584626
+  yaw: 321.2013
+  pitch: 16.9598
+homes:
+  home:
+    world: world
+    x: 914.9542382148755
+    y: 61.0
+    z: -937.6873747963357
+    yaw: 13.738464
+    pitch: 17.799505

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: wer123
+timestamps:
+  login: 1589917272524
+  logout: 1589917297427
+ipAddress: 95.139.210.135
+lastlocation:
+  world: world
+  x: -413.7722144149329
+  y: 65.0
+  z: -619.4642101233782
+  yaw: -204.92456
+  pitch: 7.800012
+logoutlocation:
+  world: world
+  x: -408.63314981624717
+  y: 58.0
+  z: -501.9307618861071
+  yaw: -39.91936
+  pitch: 16.970167
+afk: false

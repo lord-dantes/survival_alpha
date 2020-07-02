@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: kadzuto
+timestamps:
+  login: 1592577657045
+  lastteleport: 1590486124189
+  logout: 1592577673747
+ipAddress: 109.201.53.231
+lastlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -179.86916
+  pitch: -2.5298321
+homes:
+  home:
+    world: world
+    x: -641.3835477233424
+    y: 11.0
+    z: 1257.6914758173211
+    yaw: -116.56845
+    pitch: 27.963774
+afk: false
+logoutlocation:
+  world: world
+  x: -631.9296552789285
+  y: 11.0
+  z: 1257.4586118867987
+  yaw: -268.68356
+  pitch: 33.29109

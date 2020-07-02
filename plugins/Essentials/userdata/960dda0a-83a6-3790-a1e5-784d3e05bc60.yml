@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: vanya_8800535353
+timestamps:
+  login: 1590386995522
+  lastteleport: 1589695806479
+  logout: 1590387006628
+ipAddress: 46.241.64.251
+lastlocation:
+  world: world
+  x: -411.03529253762514
+  y: 58.0
+  z: -499.63082274505416
+  yaw: -73.22467
+  pitch: 25.838799
+afk: false
+logoutlocation:
+  world: world
+  x: -286.0467451506451
+  y: 69.0
+  z: -1929.9543211355174
+  yaw: 81.07126
+  pitch: 42.149982

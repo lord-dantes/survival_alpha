@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: ByBlya
+timestamps:
+  login: 1592671438687
+  lastteleport: 1592674219898
+  logout: 1592674461567
+ipAddress: 88.201.229.167
+lastlocation:
+  world: world
+  x: 1903.5
+  y: 60.02742025939079
+  z: 1567.5
+  yaw: -150.9
+  pitch: -7.0499997
+logoutlocation:
+  world: world
+  x: -1364.7392910180058
+  y: 69.0
+  z: 588.3645734182885
+  yaw: -270.3971
+  pitch: 15.299976
+homes:
+  home:
+    world: world
+    x: -728.9341519518548
+    y: 63.0
+    z: 538.9255395397765
+    yaw: -102.69733
+    pitch: 30.756845
+money: '2837.55905000000004180'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: vladkrut34
+timestamps:
+  login: 1591609413459
+  logout: 1591614091665
+  lastteleport: 1591614087966
+ipAddress: 195.216.211.90
+lastlocation:
+  world: world
+  x: 2266.300000011921
+  y: 69.0
+  z: -439.30000001192093
+  yaw: 18.569685
+  pitch: -28.767883
+logoutlocation:
+  world: world
+  x: 1357.6182329067642
+  y: 67.0
+  z: -9.898435679294364
+  yaw: -66.890564
+  pitch: 30.600027

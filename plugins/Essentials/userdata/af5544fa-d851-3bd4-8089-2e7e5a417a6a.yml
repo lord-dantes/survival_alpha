@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: ViNardle
+timestamps:
+  login: 1592586336797
+  logout: 1592586346457
+ipAddress: 46.53.178.182
+lastlocation:
+  world: world
+  x: -403.5
+  y: 254.0
+  z: -501.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.728819385939
+  y: 58.0
+  z: -499.97609876653314
+  yaw: -201.02472
+  pitch: 9.188796

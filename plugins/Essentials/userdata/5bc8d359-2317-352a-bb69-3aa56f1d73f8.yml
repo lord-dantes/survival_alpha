@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: MrMontez
+timestamps:
+  login: 1590865380674
+  lastteleport: 1590865293896
+  logout: 1590865400170
+ipAddress: 195.43.70.93
+lastlocation:
+  world: world
+  x: -368.54732526085445
+  y: 62.0
+  z: -493.35065073162025
+  yaw: -203.97223
+  pitch: 9.050745
+logoutlocation:
+  world: world
+  x: -393.1944706945504
+  y: 62.0625
+  z: -544.7656300282947
+  yaw: -87.09647
+  pitch: 10.776653

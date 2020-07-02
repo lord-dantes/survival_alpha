@@ -1,0 +1,30 @@
+lastAccountName: kon_nelegalnii
+timestamps:
+  login: 1591880212939
+  lastteleport: 1591880567713
+  logout: 1591880779417
+ipAddress: 178.67.79.116
+socialspy: false
+lastlocation:
+  world: world
+  x: -1455.8916611698846
+  y: 68.0
+  z: 320.2591066942403
+  yaw: 352.80347
+  pitch: 18.000053
+homes:
+  home:
+    world: world
+    x: 1848.2712359322936
+    y: 64.0
+    z: 690.189525177577
+    yaw: 236.25806
+    pitch: 38.70001
+logoutlocation:
+  world: world
+  x: 1851.5
+  y: 64.0
+  z: 692.5
+  yaw: 101.107574
+  pitch: 24.60005
+afk: false

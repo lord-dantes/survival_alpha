@@ -1,0 +1,38 @@
+socialspy: false
+lastAccountName: Gamer007
+timestamps:
+  login: 1592304856482
+  logout: 1592305004968
+  lastteleport: 1592164473808
+  kits:
+    capral: 1591725399920
+    capitan: 1592163302800
+    leitenant: 1592163214410
+    serjant: 1592163133369
+    major: 1592163588447
+  lastheal: 1592164117172
+ipAddress: 130.180.217.184
+lastlocation:
+  world: world
+  x: -532.183693020057
+  y: 112.89322462968374
+  z: -1257.5688903138544
+  yaw: -110.08838
+  pitch: 23.700003
+logoutlocation:
+  world: world
+  x: -1566.300000011921
+  y: 72.0
+  z: -1218.1862233595962
+  yaw: 293.71088
+  pitch: 9.599927
+money: '652154.08294999999999249'
+homes:
+  home:
+    world: world
+    x: -1592.7424976429702
+    y: 78.0
+    z: -1219.9846551839216
+    yaw: 358.06067
+    pitch: 45.300056
+afk: false

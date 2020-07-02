@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Sasha1000
+timestamps:
+  login: 1592304799471
+  logout: 1592304814824
+  lastteleport: 1591554701243
+ipAddress: 130.180.219.250
+lastlocation:
+  world: world
+  x: -1570.5
+  y: 72.0
+  z: -1216.5
+  yaw: 351.7473
+  pitch: 28.499954
+logoutlocation:
+  world: world
+  x: -1570.0158523326875
+  y: 72.0
+  z: -1216.6834643555062
+  yaw: 17.39728
+  pitch: 9.599962
+homes:
+  home:
+    world: world
+    x: -1571.0305877636054
+    y: 72.0
+    z: -1215.5409998519842
+    yaw: 351.7473
+    pitch: 28.499954

@@ -1,0 +1,41 @@
+socialspy: false
+lastAccountName: SamSebeSanta
+timestamps:
+  login: 1592680629951
+  logout: 1592686686863
+  lastteleport: 1592681675726
+  kits:
+    capral: 1592556729421
+    serjant: 1592686456561
+ipAddress: 149.27.104.132
+lastlocation:
+  world: world
+  x: -870.4247041415388
+  y: 63.9375
+  z: 315.36205671151237
+  yaw: -194.5505
+  pitch: 10.650007
+homes:
+  home:
+    world: world
+    x: 153.54522172980657
+    y: 64.0
+    z: 1557.4374976586278
+    yaw: -0.0
+    pitch: 6.7500434
+  a:
+    world: world
+    x: -881.8190423989788
+    y: 64.0
+    z: 312.309300039091
+    yaw: -180.60037
+    pitch: 5.7000165
+logoutlocation:
+  world: world
+  x: 149.57463009430077
+  y: 63.0
+  z: 1539.2345326327977
+  yaw: 194.0957
+  pitch: 3.450215
+afk: false
+money: '27600.0'

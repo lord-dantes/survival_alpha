@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: sasha1230gh
+timestamps:
+  login: 1591611784232
+  logout: 1591614095472
+  lastteleport: 1591609580327
+ipAddress: 195.216.211.90
+lastlocation:
+  world: world
+  x: -388.82471690656064
+  y: 69.5
+  z: -436.0790891933806
+  yaw: -62.574768
+  pitch: 10.988824
+logoutlocation:
+  world: world
+  x: 1359.6388370528466
+  y: 66.0
+  z: -8.768753896439998
+  yaw: -298.79077
+  pitch: 19.500036

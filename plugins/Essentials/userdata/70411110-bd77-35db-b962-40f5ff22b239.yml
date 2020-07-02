@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: bro420
+timestamps:
+  login: 1591429615818
+  logout: 1591430740045
+ipAddress: 92.62.158.77
+lastlocation:
+  world: world
+  x: -403.5
+  y: 254.0
+  z: -508.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+money: '2.0'
+afk: false

@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: sasuke
+timestamps:
+  login: 1589736005293
+  lastteleport: 1589736360009
+  logout: 1589736382840
+ipAddress: 91.165.251.78
+lastlocation:
+  world: world
+  x: -336.41429767010277
+  y: 68.0
+  z: -782.1226313395321
+  yaw: 232.47597
+  pitch: 30.00008
+homes:
+  home:
+    world: world
+    x: -410.22465788727936
+    y: 65.0
+    z: -612.5442278380618
+    yaw: -9.924513
+    pitch: 14.700004
+logoutlocation:
+  world: world
+  x: -413.3470794744883
+  y: 61.0
+  z: -530.29534538881
+  yaw: -172.21915
+  pitch: 23.870142

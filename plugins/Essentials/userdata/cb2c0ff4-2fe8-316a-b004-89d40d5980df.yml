@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: EachingPvP
+timestamps:
+  login: 1589988341727
+  lastteleport: 1589965019309
+  logout: 1589988371467
+ipAddress: 188.170.83.239
+lastlocation:
+  world: world
+  x: -408.6237757594519
+  y: 61.0
+  z: -550.7406307071295
+  yaw: -3.2365217
+  pitch: 15.6391945
+logoutlocation:
+  world: world
+  x: -295.0173302299868
+  y: 80.0
+  z: -1917.77546808627
+  yaw: 207.67621
+  pitch: 11.724603

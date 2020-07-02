@@ -1,0 +1,65 @@
+socialspy: false
+lastAccountName: Dano_Dolg
+timestamps:
+  login: 1592767155291
+  logout: 1592768358528
+  lastteleport: 1592768256269
+  kits:
+    capral: 1591631222545
+    capitan: 1591995440136
+    serjant: 1591733667191
+    major: 1592080394352
+  lastheal: 1592341063480
+ipAddress: 83.221.200.30
+lastlocation:
+  world: world
+  x: -368.7902763057556
+  y: 62.0
+  z: -518.6196887268695
+  yaw: -265.2248
+  pitch: 21.788795
+logoutlocation:
+  world: world
+  x: 838.540859642145
+  y: 79.0
+  z: -1477.247004453779
+  yaw: -32.972107
+  pitch: 16.650059
+homes:
+  home:
+    world: world
+    x: 842.7158001973905
+    y: 80.0
+    z: -1480.1070429938684
+    yaw: -16.322754
+    pitch: 10.799985
+  mine:
+    world: world
+    x: -1570.3754767008197
+    y: 38.5
+    z: -1281.0063663647309
+    yaw: -203.18153
+    pitch: 40.04997
+  warp:
+    world: world_nether
+    x: -25.439242576372273
+    y: 67.0
+    z: -400.70446151808625
+    yaw: -79.20477
+    pitch: 30.899958
+  derevna:
+    world: world_nether
+    x: 114.91154088624617
+    y: 75.0
+    z: -803.1574096461293
+    yaw: -92.999756
+    pitch: -34.200027
+  pesok:
+    world: world
+    x: -1910.6556306888078
+    y: 63.0
+    z: -1975.9667295848044
+    yaw: -150.3245
+    pitch: 79.05006
+afk: false
+money: '5679543.15745000000030152'

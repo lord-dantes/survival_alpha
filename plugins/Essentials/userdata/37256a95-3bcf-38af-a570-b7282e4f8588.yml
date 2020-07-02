@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: Angelochek2
+timestamps:
+  login: 1591993569149
+  lastteleport: 1591993612948
+  logout: 1591994161494
+ipAddress: 81.163.86.133
+lastlocation:
+  world: world
+  x: -1140.79443206467
+  y: 72.0
+  z: -579.429505760045
+  yaw: 185.61407
+  pitch: 52.200138
+logoutlocation:
+  world: world
+  x: -902.0389600455952
+  y: 26.0
+  z: -829.0776455405047
+  yaw: 108.11218
+  pitch: 26.078419
+homes:
+  home:
+    world: world
+    x: -902.0389600455952
+    y: 26.0
+    z: -829.0776455405047
+    yaw: 136.46227
+    pitch: 19.628424

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: olga
+timestamps:
+  login: 1590054734157
+  logout: 1590054764164
+  lastteleport: 1589983006613
+ipAddress: 109.196.141.210
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+logoutlocation:
+  world: world
+  x: -846.2941131915408
+  y: 63.0
+  z: -658.0138643284618
+  yaw: -67.24263
+  pitch: 64.75424

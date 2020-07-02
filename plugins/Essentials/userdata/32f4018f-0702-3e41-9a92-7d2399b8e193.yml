@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Arfray
+timestamps:
+  login: 1589979816406
+  logout: 1589980755749
+ipAddress: 176.209.118.231
+lastlocation:
+  world: world
+  x: -410.5
+  y: 254.0
+  z: -493.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.8234572970314
+  y: 60.0
+  z: -524.3609918277934
+  yaw: 179.61707
+  pitch: 22.273724

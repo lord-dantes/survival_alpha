@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Bogdan
+timestamps:
+  login: 1592770235221
+  logout: 1592770315116
+ipAddress: 37.78.169.166
+lastlocation:
+  world: world
+  x: -401.5
+  y: 254.0
+  z: -500.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -421.30000001192093
+  y: 63.0
+  z: -505.6999999880791
+  yaw: -162.1736
+  pitch: 12.788934

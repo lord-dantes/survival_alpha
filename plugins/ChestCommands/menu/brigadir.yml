@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&5&lБригадир'
+  command: 'rankupgradetobrigadironlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &5&lБригадир'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&5&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&5[p] &r&7Префикс &7[&r&5⊖&7]'
+    - '&5[p] &r&7Возможность получить набор &5/kit brigadir'
+    - '&5[p] &r&7Возможность заприватить &55 регионов'
+    - '&5[p] &r&7Возможность поставить &55 точек дома'
+    - '&5[p] &r&7Возможность выставить &56 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a5 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 5000000
+  COMMAND: 'console: pex user {player} group add brigadir;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &5&lБригадир'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

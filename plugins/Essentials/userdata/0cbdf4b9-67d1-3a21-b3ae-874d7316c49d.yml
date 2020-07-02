@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: oleg127
+timestamps:
+  login: 1592532891458
+  logout: 1592532898815
+ipAddress: 77.35.116.163
+lastlocation:
+  world: world
+  x: -410.5
+  y: 254.0
+  z: -504.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -323.69999998807907
+  y: 62.0
+  z: -422.04216464610613
+  yaw: 27.124928
+  pitch: 11.849996
+money: '75.0'

@@ -1,0 +1,46 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&d&lКапитан'
+  command: 'rankupgradetocapitanonlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &d&lКапитан'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&d&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&d[p] &r&7Префикс &7[&r&d◇&7]'
+    - '&d[p] &r&7Возможность получить набор &d/kit capitan'
+    - '&d[p] &r&7Возможность заприватить &d4 региона'
+    - '&d[p] &r&7Возможность поставить &d4 точки дома'
+    - '&d[p] &r&7Возможность выставить &d5 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a250 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 250000
+  COMMAND: 'console: pex user {player} group add capitan;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &d&lКапитан'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

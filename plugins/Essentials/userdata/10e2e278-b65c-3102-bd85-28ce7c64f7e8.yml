@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Avocadico_
+timestamps:
+  login: 1590560492145
+  logout: 1590560687282
+ipAddress: 178.34.150.33
+lastlocation:
+  world: world
+  x: -401.5
+  y: 111.0
+  z: -497.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -412.5322445672983
+  y: 61.0
+  z: -531.8452730569442
+  yaw: -238.9692
+  pitch: 13.070171
+afk: false

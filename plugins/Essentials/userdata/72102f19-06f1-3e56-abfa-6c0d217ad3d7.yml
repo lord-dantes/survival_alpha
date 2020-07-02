@@ -1,0 +1,87 @@
+socialspy: false
+lastAccountName: Fishalix
+timestamps:
+  login: 1593107765778
+  lastteleport: 1592839803835
+  logout: 1592840281981
+  kits:
+    capitan: 1592720165393
+    capral: 1592720185043
+    leitenant: 1592720200184
+    serjant: 1592720223794
+    major: 1592720215979
+    start: 1590224762781
+    admin: 1591912369379
+    flamingo: 1591912359189
+ipAddress: 46.133.205.100
+lastlocation:
+  world: world
+  x: 1167.0870458280544
+  y: 74.49313550722009
+  z: -1798.794387731008
+  yaw: 184.70654
+  pitch: 18.751352
+godmode: false
+logoutlocation:
+  world: world
+  x: -398.13275252150373
+  y: 62.0
+  z: -543.4432549826598
+  yaw: 63.42938
+  pitch: 6.7701006
+homes:
+  bloodphoen1x:
+    world: world
+    x: 167.58314626355883
+    y: 57.0
+    z: -1209.4631011197957
+    yaw: 170.98486
+    pitch: 12.899967
+  home:
+    world: world
+    x: 1181.1732406345793
+    y: 63.0
+    z: -1834.6627874562878
+    yaw: 91.857765
+    pitch: -3.1500084
+  1a:
+    world: world
+    x: 207.48621212609217
+    y: 52.0
+    z: -1222.73132698055
+    yaw: 7.6346436
+    pitch: 8.400057
+  blaze:
+    world: world_nether
+    x: 1079.910133447389
+    y: 70.0
+    z: -403.05878657643876
+    yaw: 217.39676
+    pitch: 1.0499849
+  villige:
+    world: world
+    x: 1172.2032528816624
+    y: 71.9375
+    z: -2005.2950432957095
+    yaw: -68.49218
+    pitch: 15.899947
+  end:
+    world: world
+    x: -1569.5715448534347
+    y: 40.5
+    z: -1279.000015149791
+    yaw: 310.26062
+    pitch: 31.949902
+  blaze2:
+    world: world_nether
+    x: 85.30000001192093
+    y: 58.0
+    z: 136.26910545551004
+    yaw: 239.12643
+    pitch: -1.1999559
+powertools:
+  blaze_rod:
+  - clear Flamingo
+afk: false
+money: '10181439.89859999999706094'
+nickname: Fishalix

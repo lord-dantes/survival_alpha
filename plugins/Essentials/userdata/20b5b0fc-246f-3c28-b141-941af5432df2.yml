@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: baibolbek
+timestamps:
+  login: 1592132183402
+  logout: 1592132305829
+ipAddress: 185.117.148.150
+lastlocation:
+  world: world
+  x: -404.5
+  y: 254.0
+  z: -496.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 1823.5
+  y: 61.12692619986681
+  z: -1911.5
+  yaw: 0.0
+  pitch: 0.0

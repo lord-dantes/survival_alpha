@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: ARID
+timestamps:
+  login: 1591652757768
+  logout: 1591652805019
+ipAddress: 85.172.91.238
+lastlocation:
+  world: world
+  x: -404.5
+  y: 254.0
+  z: -491.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -392.30000001192093
+  y: 62.0
+  z: -544.1748045588145
+  yaw: -72.92348
+  pitch: 2.738822

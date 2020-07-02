@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: HappyGirl
+timestamps:
+  login: 1590941525205
+  logout: 1590948516768
+  lastteleport: 1590948298334
+ipAddress: 46.160.63.215
+lastlocation:
+  world: world
+  x: -865.5276375608645
+  y: 14.0
+  z: -425.3056308058322
+  yaw: 182.82202
+  pitch: 10.35001
+logoutlocation:
+  world: world
+  x: -1016.1458160404741
+  y: 64.0
+  z: -304.9734688902998
+  yaw: 85.6366
+  pitch: 10.050013
+homes:
+  home:
+    world: world
+    x: -1018.7407283645367
+    y: 65.0625
+    z: -294.7823623549798
+    yaw: 145.93657
+    pitch: 18.150076
+afk: false

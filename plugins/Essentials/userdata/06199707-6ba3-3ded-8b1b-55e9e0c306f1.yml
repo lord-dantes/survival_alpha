@@ -1,0 +1,28 @@
+socialspy: false
+lastAccountName: Flinka
+timestamps:
+  login: 1591000853295
+  logout: 1591002646178
+ipAddress: 109.252.83.192
+lastlocation:
+  world: world
+  x: -402.5
+  y: 254.0
+  z: -499.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 933.0723041021956
+  y: 66.0
+  z: -739.6242861585306
+  yaw: 156.70923
+  pitch: 47.95026
+homes:
+  home:
+    world: world
+    x: 931.3511052629705
+    y: 63.0
+    z: -740.4695354770512
+    yaw: 254.35228
+    pitch: 5.180903

@@ -1,0 +1,1651 @@
+[00:01:11] [Server thread/INFO]: CONSOLE issued server command: /list 
+[00:01:11] [Server thread/INFO]: [0;33;22mСейчас [0;31;1m2[0;33;22m из [0;31;1m20[0;33;22m игроков на сервере.[m
+[00:01:11] [Server thread/INFO]: [0;33;22mfield-marshal[m: [0;37;22m[[m[0;31;22m♆[0;37;22m][m [0;31;22mERROR[m[0;37;1m, [0;37;22m[Отошел][m[0;37;22m[[m[0;31;22m♆[0;37;22m][m Flamingo[m[0;37;1m[m
+[00:01:49] [User Authenticator #18/INFO]: UUID of player Lord_Dantes is c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+[00:01:49] [Server thread/INFO]: Lord_Dantes[/192.162.227.174:58627] logged in with entity id 986874 at ([world]-1025.4392487286377, 69.0, 1448.8580838449543)
+[00:03:12] [Server thread/INFO]: Maryshka lost connection: Disconnected
+[00:03:19] [User Authenticator #19/INFO]: UUID of player Maryshka is 6f4e87f7-b2c7-381b-bab6-256277d5b8c8
+[00:03:19] [Server thread/INFO]: Maryshka[/46.133.144.178:52739] logged in with entity id 999384 at ([world]-1073.4395382222403, 102.70325118677924, 1519.811763899294)
+[00:03:26] [Server thread/INFO]: Maryshka lost connection: Internal Exception: java.io.IOException: Error while writev(...): Connection reset by peer
+[00:04:19] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:04:40] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "general-leitenant"![m
+[00:04:43] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:04:53] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "general"![m
+[00:04:55] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "general-major"![m
+[00:04:57] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:05:19] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "mtserjant"![m
+[00:05:21] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:05:33] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "stserjant"![m
+[00:05:34] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:05:45] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "master-serjant"![m
+[00:05:46] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:05:48] [Server thread/INFO]: Lord_Dantes issued server command: /s
+[00:05:50] [Server thread/INFO]: Lord_Dantes issued server command: /sda
+[00:05:51] [Server thread/INFO]: Lord_Dantes issued server command: /s as
+[00:05:52] [Server thread/INFO]: Lord_Dantes issued server command: /s Lord_Dantes
+[00:05:54] [Async Chat Thread - #4/INFO]: §f[L]§2 
+[00:05:54] [Async Chat Thread - #4/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m asda[m
+[00:06:01] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "capral"![m
+[00:06:03] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:06:11] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "mlcapral"![m
+[00:06:13] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:06:16] [Async Chat Thread - #4/INFO]: §f[L]§2 
+[00:06:16] [Async Chat Thread - #4/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;1m➳[0;37;22m][m Lord_Dantes[m asda[m
+[00:06:24] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" removed from group "rekruit"![m
+[00:06:25] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:06:27] [Async Chat Thread - #4/INFO]: §f[L]§2 
+[00:06:27] [Async Chat Thread - #4/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m asd[m
+[00:06:30] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:06:46] [Async Chat Thread - #4/INFO]: §f[L]§2 
+[00:06:46] [Async Chat Thread - #4/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m rankupgradetofieldmarhalonlyfornpccommandifyouusethiscommandyouarebannedok[m
+[00:06:50] [Server thread/INFO]: Lord_Dantes issued server command: /v
+[00:06:52] [Server thread/INFO]: Lord_Dantes issued server command: /v
+[00:06:53] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetofieldmarhalonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:06:57] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetofieldmarhalonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:07:11] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:07:41] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:07:44] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:07:45] [Server thread/INFO]: [0;32;1m[[0;33;1m[21mSurvival[0;32;1m] [0;31;1mНеизвестная команда.[m
+[00:07:48] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:07:49] [Server thread/INFO]: [0;32;1m[[0;33;1m[21mSurvival[0;32;1m] [0;31;1mНеизвестная команда.[m
+[00:07:59] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:08:02] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:08:03] [Server thread/INFO]: [0;32;1m[[0;33;1m[21mSurvival[0;32;1m] [0;31;1mНеизвестная команда.[m
+[00:08:24] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:08:26] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:11:19] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:11:22] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:11:29] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:11:54] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:11:56] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:12:58] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:13:01] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:13:03] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:13:05] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:13:07] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:13:28] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:13:31] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:13:34] [Server thread/INFO]: Lord_Dantes issued server command: /close
+[00:13:34] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:13:37] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;33;1mСохранение Мира[m
+[00:13:37] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;32;1mСохранение Завершено[m
+[00:13:38] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:13:43] [Server thread/INFO]: Lord_Dantes issued server command: /close
+[00:13:43] [Server thread/INFO]: Lord_Dantes issued server command: /rankupgradetorekruitonlyfornpccommandifyouusethiscommandyouarebannedok
+[00:14:07] [Server thread/INFO]: Lord_Dantes issued server command: /deop Lord_Dantes
+[00:14:07] [Server thread/INFO]: [Lord_Dantes: De-opped Lord_Dantes]
+[00:14:22] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:14:24] [Server thread/INFO]: Lord_Dantes issued server command: /deop Lord_Dantes
+[00:14:27] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:14:40] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:14:43] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:14:53] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:14:55] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:16:01] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:16:03] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:16:29] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:16:34] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:16:34] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[00:16:35] [Async Chat Thread - #5/INFO]: §f[L]§2 
+[00:16:35] [Async Chat Thread - #5/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;1m➳[0;37;22m][m Lord_Dantes[m sad[m
+[00:16:36] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:17:01] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:17:01] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[00:17:02] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:17:10] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:17:49] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:19:39] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:19:39] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[00:19:41] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:19:51] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:19:54] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:19:54] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[00:19:55] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:19:57] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:20:02] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "rekruit"![m
+[00:20:02] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:20:05] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:20:08] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:20:22] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:20:24] [Async Chat Thread - #6/INFO]: [0;33;22m[G][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m Привет[m
+[00:20:24] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "mlcapral"![m
+[00:20:24] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:20:27] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:27] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m q[m
+[00:20:31] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:31] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m тестирую ranks[m
+[00:20:34] [Async Chat Thread - #6/INFO]: [0;33;22m[G][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m давно тут ?[m
+[00:20:38] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:38] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m должны работать уже по полной програме[m
+[00:20:41] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:41] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m не[m
+[00:20:42] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:42] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m 20м[m
+[00:20:51] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:51] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m харош что помогаешь работаьт[m
+[00:20:55] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:20:55] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я видоовсики смотрел )[m
+[00:21:05] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:05] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m я щас закончу с рангами фул тоже помогу со спавном да запустим серак[m
+[00:21:07] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:07] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m сервак[m
+[00:21:12] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:12] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Lord_Dantes[m та все норм)[m
+[00:21:19] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:21:25] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:25] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я впринципи маруську понимаю она тоже хз что строить ))[m
+[00:21:25] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:21:28] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:21:32] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:21:34] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "capral"![m
+[00:21:34] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:21:37] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:37] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m смотрел реку[m
+[00:21:38] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:38] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ?[m
+[00:21:42] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:42] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m да прикольно[m
+[00:21:45] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:45] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m )[m
+[00:21:55] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:21:55] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m согласен сложно делать когда так сазал постройте спавн[m
+[00:22:02] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:02] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m но окей вы сделали 70% норм работы[m
+[00:22:10] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:10] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m еще фонари добавим[m
+[00:22:14] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:14] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m Маруська украсит[m
+[00:22:14] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:14] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m деревья и тд декор[m
+[00:22:16] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:16] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m позже[m
+[00:22:21] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:21] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m та пусть отдыхает уже мб[m
+[00:22:26] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:26] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Lord_Dantes[m я сам хочу мб как-то[m
+[00:22:27] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:22:28] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:28] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а ок[m
+[00:22:31] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:31] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я её скажу )[m
+[00:22:35] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "serjant"![m
+[00:22:35] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:22:37] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:22:43] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:43] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я накидал корч... ковриков[m
+[00:22:44] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "stserjant"![m
+[00:22:44] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:22:45] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:22:47] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:47] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и кнопок[m
+[00:22:54] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:22:54] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m типо грязь и камни[m
+[00:22:54] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "leitenant"![m
+[00:22:54] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:00] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:07] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "stleitenant"![m
+[00:23:07] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:11] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:14] [User Authenticator #20/INFO]: UUID of player MaxPro2005 is 9c9c0428-b055-3b15-8c05-19b13b9b81d6
+[00:23:14] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@66e2b84f[id=9c9c0428-b055-3b15-8c05-19b13b9b81d6,name=MaxPro2005,properties={},legacy=false] (/85.95.178.89:1676): §a[§e§lSurvival§a] §cВас нет в белом списке сервера!
+[00:23:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@66e2b84f[id=9c9c0428-b055-3b15-8c05-19b13b9b81d6,name=MaxPro2005,properties={},legacy=false] (/85.95.178.89:1676) lost connection: §a[§e§lSurvival§a] §cВас нет в белом списке сервера!
+[00:23:16] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "capitan"![m
+[00:23:16] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:18] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:26] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "major"![m
+[00:23:26] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:27] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:31] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "podpolkovnik"![m
+[00:23:31] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:32] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:38] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:38] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а и ещё[m
+[00:23:39] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "polkovnik"![m
+[00:23:39] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:23:39] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:39] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m Слава[m
+[00:23:40] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:42] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:42] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m попробуй[m
+[00:23:43] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:23:44] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:44] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m вот так написать[m
+[00:23:51] [Server thread/INFO]: Lord_Dantes issued server command: /tp fl
+[00:23:51] [Server thread/INFO]: §cLord_Dantes §4отказано в доступе к команде.
+[00:23:55] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:55] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m . /addlight enable[m
+[00:23:56] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:56] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и[m
+[00:23:57] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:23:57] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m da op me[m
+[00:24:01] [Server thread/INFO]: Flamingo issued server command: /op Lord_Dantes
+[00:24:01] [Server thread/INFO]: [Flamingo: Opped Lord_Dantes]
+[00:24:03] [Server thread/INFO]: Lord_Dantes issued server command: /sps
+[00:24:04] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:04] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m sps[m
+[00:24:07] [Server thread/INFO]: Lord_Dantes issued server command: /tp Flamingo
+[00:24:09] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:09] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m возьми потом[m
+[00:24:11] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:11] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m в руки[m
+[00:24:13] [Server thread/INFO]: Lord_Dantes issued server command: /addlight enable
+[00:24:17] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:17] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и по бей[m
+[00:24:20] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:20] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m во[m
+[00:24:26] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:26] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а то у меня не работатет[m
+[00:24:33] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:33] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m осветишь спавн визде )[m
+[00:24:45] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:45] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ПКМ убирает[m
+[00:24:52] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:52] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ток блоки поискать нужно будет ))[m
+[00:24:55] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:24:55] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m где бот[m
+[00:25:00] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:00] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m какой[m
+[00:25:11] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:11] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m баг значит[m
+[00:25:18] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:18] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m F3 + A[m
+[00:25:27] [Server thread/INFO]: Flamingo issued server command: /tp Lord_Dantes
+[00:25:40] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:25:41] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.removeLight(LightsApi.java:214) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:144) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:492) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:912) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:37) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInUseItem.a(PacketPlayInUseItem.java:5) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:25:46] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:46] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m какой кнопкой ты жёмшь[m
+[00:25:48] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:48] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ЛКМ ?[m
+[00:25:50] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:25:50] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m да[m
+[00:25:55] [Server thread/INFO]: Flamingo issued server command: /addlight enable
+[00:25:55] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:25:56] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:25:56] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:25:57] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:01] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:01] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а у меня не работает ))[m
+[00:26:02] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:03] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:03] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:04] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:04] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m спавн уже расширять не надо[m
+[00:26:06] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:06] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я сломался )[m
+[00:26:09] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:09] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m я уже самбуду ок[m
+[00:26:11] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:26:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:12] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:26:14] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:14] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ок[m
+[00:26:18] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:18] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я ток реку сделаю[m
+[00:26:20] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:20] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m 2ую[m
+[00:26:28] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:28] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я тебе показывал как[m
+[00:26:43] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:43] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m вот там[m
+[00:26:44] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:44] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ещё[m
+[00:26:47] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:47] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m освети[m
+[00:26:56] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:26:56] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m не[m
+[00:27:00] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:00] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m здание другое будет[m
+[00:27:04] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:04] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ок[m
+[00:27:08] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:08] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m зачеем )[m
+[00:27:13] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:13] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m а что это[m
+[00:27:15] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:15] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m туда можно будет фото потом[m
+[00:27:17] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:17] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m чего либо[m
+[00:27:18] [Server thread/INFO]: Lord_Dantes issued server command: /eco give Lord_Dantes 99999999
+[00:27:31] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:31] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m да и впринципи место занимаем[m
+[00:27:35] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:35] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m тут пустовато[m
+[00:27:47] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:27:56] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:56] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m построю что-то[m
+[00:27:58] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:27:58] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ок[m
+[00:28:00] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:00] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m дома перенесу[m
+[00:28:07] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:07] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m сделай их ближе )[m
+[00:28:11] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:11] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m вф[m
+[00:28:12] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:12] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m да[m
+[00:28:15] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:15] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m можешь сделать?[m
+[00:28:15] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:15] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и это[m
+[00:28:16] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:16] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Lord_Dantes[m .кфтлы[m
+[00:28:18] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:18] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m что[m
+[00:28:19] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:28:23] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "brigadir"![m
+[00:28:23] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:28:24] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:28:27] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "general-leitenant"![m
+[00:28:27] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:28:28] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:28:34] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "general-major"![m
+[00:28:34] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:28:35] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:28:40] [Server thread/INFO]: [0;37;1mUser "c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55/Lord_Dantes" added to group "general"![m
+[00:28:40] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:28:42] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:28:43] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:43] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m что сделать[m
+[00:28:44] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:28:48] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:48] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m ближе[m
+[00:28:51] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:51] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m м[m
+[00:28:53] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:53] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m посмотрим[m
+[00:28:56] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:28:56] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m все ранги работают вроде ак[m
+[00:29:04] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:29:04] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m та что смотреть[m
+[00:29:05] [Server thread/INFO]: Lord_Dantes issued server command: /wand
+[00:29:06] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:29:06] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m просто я реку тогда слева буду делать иначе )[m
+[00:29:08] [Server thread/INFO]: Lord_Dantes issued server command: //wan
+[00:29:10] [Server thread/INFO]: Lord_Dantes issued server command: //wand
+[00:29:22] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:29:22] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m нужно реше определить что да как[m
+[00:29:30] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:29:30] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ато место лишнее будетв[m
+[00:29:31] [Server thread/INFO]: Lord_Dantes issued server command: //copy
+[00:29:33] [Server thread/INFO]: Lord_Dantes issued server command: /set 0
+[00:29:37] [Server thread/INFO]: Lord_Dantes issued server command: //set 0
+[00:29:42] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:29:46] [Server thread/INFO]: Lord_Dantes issued server command: //expand up 100
+[00:29:50] [Server thread/INFO]: Lord_Dantes issued server command: //expand 100 up
+[00:29:53] [Server thread/INFO]: Lord_Dantes issued server command: //copy
+[00:29:57] [Server thread/INFO]: Lord_Dantes issued server command: //set 0
+[00:30:01] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:30:01] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и нужно перекинуть сервер на BungeeCord ))))[m
+[00:30:11] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:30:19] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:30:28] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:30:33] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:30:37] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:30:40] [Server thread/INFO]: Lord_Dantes issued server command: //unfo
+[00:30:43] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:30:43] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:30:43] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m что ты сделал ))[m
+[00:30:46] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:30:46] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m точнее как )[m
+[00:30:48] [Server thread/INFO]: Lord_Dantes issued server command: //unfo
+[00:30:51] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:31:03] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:03] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m на 1 блок ниже )[m
+[00:31:11] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:11] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и правее нужно )[m
+[00:31:16] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:16] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ты дерево скушал ([m
+[00:31:24] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:31:26] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:26] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m давай я перенесу[m
+[00:31:27] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:31:27] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:27] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m верни[m
+[00:31:32] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:31:34] [Server thread/INFO]: Lord_Dantes issued server command: //paste
+[00:31:37] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:31:38] [Server thread/ERROR]: Could not pass event PlayerInteractEvent to AddLight v4.3.2
+java.lang.NoClassDefFoundError: com/sk89q/worldedit/math/BlockVector3
+	at com.github.hexocraft.addlight.integrations.WorldEditHooker.isLocationInSelection(WorldEditHooker.java:99) ~[?:?]
+	at com.github.hexocraft.addlight.LightsApi.createLight(LightsApi.java:139) ~[?:?]
+	at com.github.hexocraft.addlight.listeners.PlayerListener.onPlayerInteract(PlayerListener.java:124) ~[?:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor432.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$1.execute(EventExecutor.java:44) ~[patched_1.10.2.jar:git-Paper-865]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:78) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:517) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:502) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:231) [patched_1.10.2.jar:git-Paper-865]
+	at org.bukkit.craftbukkit.v1_10_R1.event.CraftEventFactory.callPlayerInteractEvent(CraftEventFactory.java:198) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerInteractManager.a(PlayerInteractManager.java:111) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnection.a(PlayerConnection.java:835) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:40) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PacketPlayInBlockDig.a(SourceFile:10) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.PlayerConnectionUtils$1.run(SourceFile:13) [patched_1.10.2.jar:git-Paper-865]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_252]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_252]
+	at net.minecraft.server.v1_10_R1.SystemUtils.a(SourceFile:45) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.D(MinecraftServer.java:799) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.D(DedicatedServer.java:404) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.C(MinecraftServer.java:733) [patched_1.10.2.jar:git-Paper-865]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:632) [patched_1.10.2.jar:git-Paper-865]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_252]
+[00:31:47] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:47] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ./undo[m
+[00:31:49] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:49] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m переноси крч[m
+[00:31:50] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:50] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m меного раз )[m
+[00:31:54] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:31:55] [Server thread/INFO]: Lord_Dantes issued server command: //undo
+[00:31:58] [Async Chat Thread - #6/INFO]: §f[L]§2 
+[00:31:58] [Async Chat Thread - #6/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m много*[m
+[00:31:59] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:32:00] [Server thread/INFO]: Flamingo issued server command: //wand
+[00:32:21] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:32:23] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:32:32] [Server thread/INFO]: Flamingo issued server command: //expand 30 up
+[00:32:34] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:32:38] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:32:51] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:32:53] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:32:56] [Server thread/INFO]: Flamingo issued server command: //expand 30 up
+[00:32:58] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:33:00] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:00] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m куда[m
+[00:33:04] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:04] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m ближе сюда[m
+[00:33:07] [Server thread/INFO]: Flamingo issued server command: //paste
+[00:33:08] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:08] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m так[m
+[00:33:13] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:13] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ой[m
+[00:33:14] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:14] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Lord_Dantes[m забыл[m
+[00:33:16] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:33:20] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:33:21] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:33:23] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:33:38] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;33;1mСохранение Мира[m
+[00:33:39] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;32;1mСохранение Завершено[m
+[00:33:44] [Server thread/INFO]: Flamingo issued server command: //expand 30 up
+[00:33:49] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:33:57] [Server thread/INFO]: Flamingo issued server command: //paste
+[00:33:59] [Async Chat Thread - #7/INFO]: §f[L]§2 
+[00:33:59] [Async Chat Thread - #7/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m так[m
+[00:34:28] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:34:33] [Server thread/INFO]: Flamingo issued server command: //undo
+[00:34:45] [Server thread/INFO]: Flamingo issued server command: //expand 31 up
+[00:34:52] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[00:34:52] [Server thread/INFO]: [0;37;1mPermissions reloaded[m
+[00:34:54] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:34:54] [Server thread/INFO]: Flamingo issued server command: //cut
+[00:34:57] [Server thread/INFO]: Lord_Dantes issued server command: /s
+[00:35:03] [Server thread/INFO]: Lord_Dantes issued server command: /namemanager reload
+[00:35:04] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:35:04] [Server thread/INFO]: Flamingo issued server command: //paste
+[00:35:06] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:35:11] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:35:14] [Server thread/INFO]: Lord_Dantes issued server command: /ranks
+[00:35:23] [Server thread/INFO]: Flamingo issued server command: //set 24,12
+[00:35:35] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:35:35] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m так уже лучше )[m
+[00:36:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m мм[m
+[00:36:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а где галлограмма[m
+[00:36:09] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:09] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ))[m
+[00:36:17] [Server thread/INFO]: Flamingo issued server command: /hd list
+[00:36:23] [Server thread/INFO]: Flamingo issued server command: /hd tp
+[00:36:29] [Server thread/INFO]: [0;32;22m[[0;32;1mChestCommands[0;32;22m] [0;32;1mPlugin reloaded.[m
+[00:36:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m что[m
+[00:36:35] [Server thread/INFO]: Flamingo issued server command: /hd teleport fountain
+[00:36:35] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:35] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m какая[m
+[00:36:37] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:37] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m трп[m
+[00:36:42] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:42] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ю/hd teleport fountain[m
+[00:36:44] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:36:44] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ))[m
+[00:36:55] [Server thread/INFO]: Lord_Dantes issued server command: /shop open gunsonlyforviewbotandnototherpeopleifyoulookthismenyyouarewillbebanned
+[00:37:05] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:37:05] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m драсте[m
+[00:37:19] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:37:19] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m там гдето голограмма[m
+[00:37:25] [Server thread/INFO]: Lord_Dantes issued server command: //wand
+[00:37:27] [Server thread/INFO]: Lord_Dantes issued server command: //set
+[00:37:33] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:37:33] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m её[m
+[00:37:36] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:37:36] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m тп нужно[m
+[00:37:37] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:37:37] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и всё[m
+[00:37:38] [Server thread/INFO]: Lord_Dantes issued server command: //set 2
+[00:37:51] [Server thread/INFO]: Lord_Dantes issued server command: //set 55
+[00:37:54] [Server thread/INFO]: Lord_Dantes issued server command: //set 45
+[00:37:56] [Server thread/INFO]: Lord_Dantes issued server command: //set 35
+[00:37:58] [Server thread/INFO]: Lord_Dantes issued server command: //set 25
+[00:37:59] [Server thread/INFO]: Lord_Dantes issued server command: //set 26
+[00:38:00] [Server thread/INFO]: Lord_Dantes issued server command: //set 27
+[00:38:02] [Server thread/INFO]: Lord_Dantes issued server command: //set 28
+[00:38:03] [Server thread/INFO]: Lord_Dantes issued server command: //set 29
+[00:38:05] [Server thread/INFO]: Lord_Dantes issued server command: //set 30
+[00:38:06] [Server thread/INFO]: Lord_Dantes issued server command: //set 31
+[00:38:08] [Server thread/INFO]: Lord_Dantes issued server command: //set 32
+[00:38:09] [Server thread/INFO]: Lord_Dantes issued server command: //set 33
+[00:38:10] [Server thread/INFO]: Lord_Dantes issued server command: //set 34
+[00:38:11] [Server thread/INFO]: Lord_Dantes issued server command: //set 35
+[00:38:12] [Server thread/INFO]: Lord_Dantes issued server command: //set 36
+[00:38:14] [Server thread/INFO]: Lord_Dantes issued server command: //set 37
+[00:38:15] [Server thread/INFO]: Lord_Dantes issued server command: //set 38
+[00:38:17] [Server thread/INFO]: Lord_Dantes issued server command: //set 125
+[00:38:18] [Server thread/INFO]: Lord_Dantes issued server command: //set 126
+[00:38:19] [Server thread/INFO]: Lord_Dantes issued server command: //set 125
+[00:38:20] [Server thread/INFO]: Lord_Dantes issued server command: //set 124
+[00:38:23] [Server thread/INFO]: Lord_Dantes issued server command: //set 127
+[00:38:25] [Server thread/INFO]: Lord_Dantes issued server command: //set 128
+[00:38:26] [Server thread/INFO]: Lord_Dantes issued server command: //set 129
+[00:38:28] [Server thread/INFO]: Flamingo issued server command: /hd movehere fountain
+[00:38:29] [Server thread/INFO]: Lord_Dantes issued server command: //set 125
+[00:38:33] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:38:33] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m всё[m
+[00:38:35] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:38:38] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:38:40] [Server thread/INFO]: Flamingo issued server command: /tp Lord_Dantes Flamingo
+[00:38:45] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:38:45] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m не[m
+[00:38:46] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:38:46] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m кстати[m
+[00:38:50] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:38:50] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m посмотри что за игру[m
+[00:38:53] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:38:53] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я тебе советовал[m
+[00:39:04] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:04] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ээ ааа ))[m
+[00:39:18] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:18] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ты хочешь внутри сделать ??[m
+[00:39:19] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:19] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m чтото[m
+[00:39:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m церковь[m
+[00:39:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m да[m
+[00:39:23] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:23] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m священика[m
+[00:39:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m который скупат[m
+[00:39:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m плоть зомби[m
+[00:39:31] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:31] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m просто она не проднозначена ))[m
+[00:39:33] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:33] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m и еще чет будет делать[m
+[00:39:37] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:37] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m значит будет[m
+[00:39:47] [Server thread/INFO]: Lord_Dantes issued server command: /clea
+[00:39:51] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:39:52] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:52] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m тебе рассказать что за игра ?[m
+[00:39:58] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:39:58] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m чуть позже[m
+[00:40:01] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:01] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m jr[m
+[00:40:02] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:02] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ок[m
+[00:40:04] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:04] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m я пока скенцетрирован[m
+[00:40:07] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:07] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я считаю шедевр )[m
+[00:40:24] [Server thread/INFO]: Flamingo issued server command: //wand
+[00:40:28] [Server thread/INFO]: Flamingo issued server command: //set 9
+[00:40:30] [Server thread/INFO]: Flamingo issued server command: //set 0
+[00:40:48] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:48] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m осветишь тем плагином сам ок[m
+[00:40:53] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:40:53] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а то у меня не работает )[m
+[00:41:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m да нативно давай осветим[m
+[00:41:14] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:14] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m зачем вводить в заблуждение вообще[m
+[00:41:16] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:16] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m факелами ?[m
+[00:41:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m фонарями[m
+[00:41:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ну почему заблуждение[m
+[00:41:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m святое место ))[m
+[00:41:40] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:41:40] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m нууу[m
+[00:42:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я все места[m
+[00:42:26] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:26] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m для нрс[m
+[00:42:28] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:28] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m для нпс[m
+[00:42:36] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:36] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ковриком[m
+[00:42:38] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:38] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m выделял[m
+[00:42:42] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:42] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и светом[m
+[00:42:56] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:56] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m да свет тут ток будет[m
+[00:42:57] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:42:57] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m прикол[m
+[00:43:02] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:02] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m )[m
+[00:43:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m и скрин[m
+[00:43:05] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:05] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m вот от сюда[m
+[00:43:09] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:09] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m сделаю[m
+[00:43:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m понял[m
+[00:43:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m типа[m
+[00:43:24] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:24] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m в далике )[m
+[00:43:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m L[m
+[00:43:30] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:30] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Да[m
+[00:43:40] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:40] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m бу бл )[m
+[00:43:54] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:43:54] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m можно ещё картин повесить[m
+[00:44:00] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:00] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m типо святые[m
+[00:44:01] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:01] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m )[m
+[00:44:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m только 1х[m
+[00:44:05] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:05] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m не более 1х[m
+[00:44:10] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:10] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m вот тут )[m
+[00:44:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ну не надо широких[m
+[00:44:18] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:18] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m смотри[m
+[00:44:22] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:22] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m &s[m
+[00:44:24] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:24] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;34;22ms[m
+[00:44:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;34;22m2[m
+[00:44:27] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:27] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;32;22m2[m
+[00:44:28] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:28] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;36;22m2[m
+[00:44:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;31;22m2[m
+[00:44:30] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:30] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m [0;35;22m2[m
+[00:44:40] [Server thread/INFO]: Lord_Dantes issued server command: /npc create &5&lСвященник
+[00:44:44] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:44] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m во[m
+[00:44:56] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:44:56] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а так[m
+[00:45:09] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:45:19] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:19] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я в церкви был 1 раз..[m
+[00:45:26] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:26] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m вот что я понял )[m
+[00:45:27] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:27] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m а я много раз был[m
+[00:45:28] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:45:32] [Server thread/INFO]: Lord_Dantes issued server command: /npc sel
+[00:45:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ну вот ты ставь[m
+[00:45:37] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:37] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m там нету картин[m
+[00:45:41] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:41] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m в моей например церкви[m
+[00:45:47] [Server thread/INFO]: Lord_Dantes issued server command: /npc chuch
+[00:45:49] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:45:49] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m в той что я был были свечи )[m
+[00:45:51] [Server thread/INFO]: Lord_Dantes issued server command: /npc skin church
+[00:45:55] [Server thread/INFO]: Lord_Dantes issued server command: /npc skin church
+[00:45:56] [Server thread/INFO]: Lord_Dantes issued server command: /npc skin churcher
+[00:46:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m щас священник узнаю как[m
+[00:46:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m там была церковь на кладбище )[m
+[00:46:18] [Server thread/INFO]: Lord_Dantes issued server command: /npc skin priest
+[00:46:19] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:19] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m lol[m
+[00:46:23] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:23] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m )[m
+[00:46:28] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:28] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m юный[m
+[00:46:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:46:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m поп )[m
+[00:46:45] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &6&lПастор
+[00:46:52] [Server thread/INFO]: Flamingo issued server command: /npc sel
+[00:46:56] [Server thread/INFO]: Flamingo issued server command: /npc pose -a
+[00:46:59] [Server thread/INFO]: Flamingo issued server command: /npc pose -a
+[00:47:01] [Server thread/INFO]: Flamingo issued server command: /npc pose -a
+[00:47:02] [Server thread/INFO]: Flamingo issued server command: /npc pose -a
+[00:47:04] [Server thread/INFO]: Flamingo issued server command: /npc pose -a
+[00:47:07] [Server thread/INFO]: Lord_Dantes issued server command: /npc tphere
+[00:47:15] [Server thread/INFO]: Lord_Dantes issued server command: /npc tphere
+[00:47:21] [Server thread/INFO]: Flamingo issued server command: /npc tphere
+[00:47:23] [Server thread/INFO]: Flamingo issued server command: /npc tphere
+[00:47:26] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:47:26] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m во[m
+[00:47:55] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:47:55] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ))[m
+[00:48:13] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:48:24] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:24] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m можешь пока прочекать ранги если хоч[m
+[00:48:25] [Server thread/INFO]: Lord_Dantes issued server command: /
+[00:48:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ок[m
+[00:48:31] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:48:33] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:48:37] [Server thread/INFO]: Lord_Dantes issued server command: /deop Flamingo
+[00:48:37] [Server thread/INFO]: [Lord_Dantes: De-opped Flamingo]
+[00:48:41] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:41] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m v[m
+[00:48:42] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:42] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m м[m
+[00:48:42] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:42] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m достигни генерала[m
+[00:48:52] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:52] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а у меня нет уполномочий )[m
+[00:48:54] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:54] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m ко 2[m
+[00:48:55] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:48:55] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m м[m
+[00:48:58] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:49:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m а ты рекрута нажимай[m
+[00:49:04] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:04] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m белый[m
+[00:49:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m я же он ?[m
+[00:49:09] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:09] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m )[m
+[00:49:11] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:49:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m нет[m
+[00:49:14] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:14] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m а бл[m
+[00:49:15] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:15] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ты верхний левый[m
+[00:49:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m уже путаюсь )[m
+[00:49:24] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:49:46] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:46] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Flamingo[m со стрелками конечно ещя та путаница будет ))[m
+[00:49:47] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:49:52] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:52] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Yt[m
+[00:49:53] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "rekruit"![m
+[00:49:53] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:49:54] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:54] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Не[m
+[00:49:55] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:55] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;1m➳[0;37;22m][m Flamingo[m ы[m
+[00:49:58] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:49:59] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:49:59] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Я думаю цвета зарешают[m
+[00:50:01] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "mlcapral"![m
+[00:50:01] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:03] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:03] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳[0;37;22m][m Flamingo[m ы[m
+[00:50:05] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:07] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "capral"![m
+[00:50:07] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;36;22m➳⁺[0;37;22m][m Flamingo[m ы[m
+[00:50:10] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:12] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "serjant"![m
+[00:50:12] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:13] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:13] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;34;1m➳[0;37;22m][m Flamingo[m ы[m
+[00:50:15] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:17] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "stserjant"![m
+[00:50:17] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:19] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:19] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;34;1m➳⁺[0;37;22m][m Flamingo[m ЫЫ[m
+[00:50:21] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:24] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "leitenant"![m
+[00:50:24] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:26] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:26] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;1m➳[0;37;22m][m Flamingo[m ЫЫЫ[m
+[00:50:27] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:30] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "stleitenant"![m
+[00:50:30] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;1m➳⁺[0;37;22m][m Flamingo[m ЫЫЫЫЫЫЫЫЫЫЫ[m
+[00:50:33] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:35] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "capitan"![m
+[00:50:35] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:38] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:38] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;35;1m◇[0;37;22m][m Flamingo[m ЫЫЫЫЫЫБЛ[m
+[00:50:39] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:42] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "major"![m
+[00:50:42] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:44] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:44] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;35;1m◈[0;37;22m][m Flamingo[m К[m
+[00:50:46] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:48] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "podpolkovnik"![m
+[00:50:48] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:50] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:50] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±[0;37;22m][m Flamingo[m КУКУ[m
+[00:50:52] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:53] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "polkovnik"![m
+[00:50:53] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:50:55] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:50:55] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;33;22m±⁺[0;37;22m][m Flamingo[m ХА[m
+[00:50:56] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:50:58] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "brigadir"![m
+[00:50:58] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:51:00] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:00] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;35;22m⊖[0;37;22m][m Flamingo[m ЕД[m
+[00:51:03] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:51:05] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "general-leitenant"![m
+[00:51:05] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:51:07] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:07] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;35;22m⊖⁺[0;37;22m][m Flamingo[m ИТ[m
+[00:51:08] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:51:10] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "general-major"![m
+[00:51:10] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:51:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊙[0;37;22m][m Flamingo[m И[m
+[00:51:14] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:51:15] [Server thread/INFO]: [0;37;1mUser "07315afe-d4d7-351f-910d-6880ac643da7/Flamingo" added to group "general"![m
+[00:51:15] [Server thread/INFO]: [0;36;22mReloaded NameManager![m
+[00:51:17] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:17] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ВСЁ[m
+[00:51:18] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:18] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m )[m
+[00:51:22] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:22] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ВСЁ[m
+[00:51:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m бл[m
+[00:51:31] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:31] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Т9 скажу _[m
+[00:51:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m _[m
+[00:51:33] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:51:33] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[00:51:38] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:51:43] [Server thread/INFO]: Flamingo issued server command: /rank
+[00:52:08] [Server thread/INFO]: Lord_Dantes issued server command: /npc sel
+[00:52:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:52:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ты оп убрал ?[m
+[00:52:12] [Server thread/INFO]: Lord_Dantes issued server command: /npc tphere
+[00:52:16] [Server thread/INFO]: Lord_Dantes issued server command: /op Flamingo
+[00:52:16] [Server thread/INFO]: [Lord_Dantes: Opped Flamingo]
+[00:52:22] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:52:22] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m я прост оне замечал )[m
+[00:52:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:52:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m с опкой ты все ранги можешь тыкать[m
+[00:52:36] [Server thread/INFO]: Lord_Dantes issued server command: /npc tphere
+[00:53:06] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:53:06] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m драсте )[m
+[00:53:40] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;33;1mСохранение Мира[m
+[00:53:40] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;32;1mСохранение Завершено[m
+[00:53:48] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:53:48] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m странным не кажется[m
+[00:53:50] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:53:50] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m что визде[m
+[00:53:53] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:53:53] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m двери 3х3[m
+[00:53:55] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:53:55] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а тут 1 на 2 )[m
+[00:54:02] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:02] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m всм 3 на 3[m
+[00:54:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ну как бы )[m
+[00:54:15] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:15] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m тут нет дверей[m
+[00:54:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а там зачем )[m
+[00:54:21] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:21] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m и это не бармен[m
+[00:54:24] [Server thread/INFO]: Lord_Dantes issued server command: /npc se
+[00:54:25] [Server thread/INFO]: Lord_Dantes issued server command: /npc sel
+[00:54:28] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[00:54:29] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:29] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m сидр[m
+[00:54:29] [Server thread/INFO]: Lord_Dantes issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:54:30] [Server thread/INFO]: Flamingo issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:54:32] [Server thread/INFO]: Lord_Dantes issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:54:44] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:44] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m где мы находимя[m
+[00:54:45] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:45] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m где мы находимся[m
+[00:54:56] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:54:56] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m в чернобыле ))[m
+[00:55:02] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:02] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m nice[m
+[00:55:06] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:06] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m хз[m
+[00:55:08] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:08] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m склад[m
+[00:55:12] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:12] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m сидоровича )[m
+[00:55:16] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &e&lПутеводитель
+[00:55:19] [Server thread/INFO]: Lord_Dantes issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:55:20] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:20] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Сидорович в пустыне )[m
+[00:55:22] [Server thread/INFO]: Lord_Dantes issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:55:23] [Server thread/INFO]: Lord_Dantes issued server command: /ranks-to-view-only-npc-dont-take-with-human
+[00:55:25] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:25] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m не[m
+[00:55:28] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:28] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m постой[m
+[00:55:32] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:32] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ya afk pary min[m
+[00:55:33] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:33] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m сейчас придумаю[m
+[00:55:36] [Async Chat Thread - #8/INFO]: §f[L]§2 
+[00:55:36] [Async Chat Thread - #8/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ок[m
+[00:56:28] [Server thread/INFO]: Flamingo issued server command: /npc sel
+[00:56:37] [Server thread/INFO]: Flamingo issued server command: /npc tphere
+[00:56:57] [Async Chat Thread - #9/INFO]: §f[L]§2 
+[00:56:57] [Async Chat Thread - #9/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m может Смотритель NAME[m
+[00:57:00] [Async Chat Thread - #9/INFO]: §f[L]§2 
+[00:57:00] [Async Chat Thread - #9/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m типо[m
+[00:57:06] [Async Chat Thread - #9/INFO]: §f[L]§2 
+[00:57:06] [Async Chat Thread - #9/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m он главный в городе[m
+[00:58:57] [Server thread/INFO]: Flamingo issued server command: /hd movehere fountain
+[00:58:59] [Server thread/INFO]: Flamingo issued server command: /hd movehere fountain
+[00:59:09] [Server thread/INFO]: Lord_Dantes lost connection: Timed out
+[01:02:07] [Server thread/INFO]: Flamingo issued server command: /spawn
+[01:02:11] [Server thread/INFO]: Flamingo issued server command: /setspawn
+[01:02:15] [Server thread/INFO]: Flamingo issued server command: /spawn
+[01:02:57] [User Authenticator #21/INFO]: UUID of player Lord_Dantes is c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55
+[01:02:57] [Server thread/INFO]: Lord_Dantes[/192.162.227.174:59434] logged in with entity id 1324913 at ([world]-1034.1249709969331, 64.0, 1424.1439406544541)
+[01:03:18] [Server thread/INFO]: Flamingo issued server command: /TP Lord_Dantes
+[01:03:24] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:24] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m может Смотритель NAME[m
+[01:03:24] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:24] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m tut[m
+[01:03:27] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:27] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m вижу[m
+[01:03:29] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:29] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Не[m
+[01:03:34] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:34] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m типо[m
+[01:03:38] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:03:38] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m он главный в городе[m
+[01:03:39] [Server thread/INFO]: Lord_Dantes issued server command: /npc sel
+[01:03:42] [Server thread/INFO]: Lord_Dantes issued server command: /npc cmdremove 1
+[01:03:42] [Server thread/INFO]: Lord_Dantes issued server command: /npc cmdremove 1
+[01:03:45] [Server thread/INFO]: Lord_Dantes issued server command: /npc cmdadd
+[01:03:49] [Server thread/INFO]: Lord_Dantes issued server command: /npc cmdadd donate
+[01:03:51] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:03:53] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:04:02] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:04:02] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:02] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Просто Что он показывает )[m
+[01:04:04] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:04:08] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:04:10] [Server thread/INFO]: Lord_Dantes issued server command: /donate
+[01:04:20] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:20] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m кхм[m
+[01:04:21] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:21] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m путь в ближайший табачный магаз или ещё чего )[m
+[01:04:23] [Server thread/INFO]: Lord_Dantes issued server command: /npc sel
+[01:04:35] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:35] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ну или просто имя[m
+[01:04:37] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:37] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m типо[m
+[01:04:41] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:41] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Борыга[m
+[01:04:45] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:45] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Борыга Вася[m
+[01:04:45] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:45] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m )[m
+[01:04:52] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:52] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Борыга Толик[m
+[01:04:52] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &e&lFlamingo
+[01:04:54] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:54] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[01:04:56] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:04:56] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[01:05:03] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &e&lБорыга Flamingo
+[01:05:07] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:07] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m )))))[m
+[01:05:15] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &e&lБорыга Flamingo и Толик
+[01:05:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Тогда Фень[m
+[01:05:23] [Server thread/INFO]: Lord_Dantes issued server command: /npc rename &e&lСмотритеть
+[01:05:28] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:28] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ну такой[m
+[01:05:32] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:32] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m смотрит в потолок[m
+[01:05:36] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:36] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Фламинго и толик збс )[m
+[01:05:39] [Server thread/INFO]: Lord_Dantes issued server command: /shop open redstonesonlyforviewbotandnototherpeopleifyoulookthismenyyouarewillbebanned
+[01:05:41] [Server thread/INFO]: Lord_Dantes issued server command: /shop open redstonesonlyforviewbotandnototherpeopleifyoulookthismenyyouarewillbebanned
+[01:05:52] [Server thread/INFO]: Flamingo issued server command: /shop open redstonesonlyforviewbotandnototherpeopleifyoulookthismenyyouarewillbebanned
+[01:05:55] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:05:55] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m кстати[m
+[01:06:03] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:03] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а он не работает почему ?[m
+[01:06:03] [Server thread/INFO]: Flamingo issued server command: /donate
+[01:06:07] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:07] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а[m
+[01:06:08] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:08] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m всё[m
+[01:06:09] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:09] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m уже )[m
+[01:06:09] [Server thread/INFO]: Flamingo issued server command: /donate
+[01:06:21] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:21] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m лайфак смотри[m
+[01:06:31] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:31] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[01:06:31] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:31] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ок[m
+[01:06:34] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:34] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m но это я просто так[m
+[01:06:47] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:47] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m смотри[m
+[01:06:51] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:51] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m за счёт чего он горит )[m
+[01:06:54] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:54] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m работает?[m
+[01:06:57] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:06:57] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m работает*[m
+[01:07:05] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:07:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m магия )[m
+[01:07:23] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:23] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m нет[m
+[01:07:26] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:26] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[01:07:27] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:27] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ты его активировал[m
+[01:07:32] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:32] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m и что )_[m
+[01:07:33] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:33] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m смотри[m
+[01:07:38] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:38] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m смотри[m
+[01:07:48] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:07:48] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m это баг )[m
+[01:08:04] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:04] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m можно ловуху сделать так по сути )[m
+[01:08:06] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:08:09] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:09] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Все?[m
+[01:08:12] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:12] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Сервер готов?[m
+[01:08:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ну по сути[m
+[01:08:21] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:21] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m теперь могу про игру рассказать ))[m
+[01:08:26] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:26] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m я реально[m
+[01:08:32] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:32] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ну по сути[m
+[01:08:36] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:36] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ток свет[m
+[01:08:38] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:38] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m не везде[m
+[01:08:44] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:44] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m и декор[m
+[01:08:47] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:47] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m вот тут ты сам[m
+[01:08:49] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:08:49] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тп[m
+[01:09:07] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:09:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:09:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тп[m
+[01:09:23] [Server thread/INFO]: Lord_Dantes issued server command: /setspawn
+[01:09:26] [Server thread/INFO]: Lord_Dantes issued server command: /setspawn **
+[01:09:29] [Server thread/INFO]: Lord_Dantes issued server command: /setspawn all
+[01:09:57] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:09:57] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тут декора нет[m
+[01:10:11] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:11] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m я просто линивая жепа )[m
+[01:10:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m зачем двери[m
+[01:10:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ЖАРА )[m
+[01:10:20] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:20] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Ремонт[m
+[01:10:23] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:23] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m )[m
+[01:10:30] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:30] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тогда так[m
+[01:10:48] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:48] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m так[m
+[01:10:55] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:55] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m бл че еще[m
+[01:10:56] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:56] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m и ещё[m
+[01:10:58] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:10:58] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m Банджи[m
+[01:11:01] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:01] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m нее[m
+[01:11:03] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:03] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m потом[m
+[01:11:05] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:11:07] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:07] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m п о т о м[m
+[01:11:12] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:12] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m линивая задница[m
+[01:11:13] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:13] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m в следующем году[m
+[01:11:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m )[m
+[01:11:20] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:20] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m каком году сдурел[m
+[01:11:22] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:22] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ))[m
+[01:11:28] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:28] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m че тут пусто[m
+[01:11:46] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:11:46] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а что должно быть в летней кухне[m
+[01:12:02] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:02] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m и вот там 2 этаж пустует[m
+[01:12:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m слава[m
+[01:12:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m попробуй[m
+[01:12:19] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:19] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ещё[m
+[01:12:23] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:23] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а не позже[m
+[01:12:24] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:24] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ок[m
+[01:12:25] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:12:37] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:37] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тут 2 этаж[m
+[01:12:39] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:39] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m пуст[m
+[01:12:46] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:12:46] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m можно закрыть[m
+[01:13:26] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:26] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m всё[m
+[01:13:27] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:27] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m опен[m
+[01:13:31] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:31] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m скрины ?[m
+[01:13:36] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:36] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Ну[m
+[01:13:41] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:41] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m сейчас[m
+[01:13:41] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;33;1mСохранение Мира[m
+[01:13:42] [AutoSaveWorld AutoSaveThread/INFO]: [0;37;22m[[0;33;1m[21mSurvival[0;37;22m] [0;32;1mСохранение Завершено[m
+[01:13:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m будет[m
+[01:13:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m Надо префиксы фоткатьда[m
+[01:13:46] [Server thread/INFO]: Lord_Dantes issued server command: /clear
+[01:13:48] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:48] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m давай[m
+[01:13:52] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:52] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m я всё пофоткаю[m
+[01:13:52] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:52] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m я буду менять чи шо[m
+[01:13:56] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:13:56] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ранги у себя[m
+[01:14:05] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:14:05] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ты будешь с ником сразу фоткаь[m
+[01:14:16] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:14:16] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m да?[m
+[01:14:26] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:14:26] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m 4e eto[m
+[01:14:32] [Server thread/INFO]: Lord_Dantes issued server command: /tp Flamingo Lord_Dantes
+[01:15:02] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:02] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m оставилбы[m
+[01:15:04] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:04] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m это[m
+[01:15:07] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:07] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m декор )[m
+[01:15:13] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:13] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m чё фоткать[m
+[01:15:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m тп меня туда[m
+[01:15:18] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:18] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m а то лаги )[m
+[01:15:31] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:31] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m не давай потом тоже[m
+[01:15:35] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:35] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m не охота щас[m
+[01:15:38] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:38] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ок[m
+[01:15:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m о прошли[m
+[01:15:46] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:46] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m лаги )[m
+[01:15:49] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:15:49] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m перемести надпись[m
+[01:16:00] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:00] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m уйди[m
+[01:16:13] [Server thread/INFO]: Flamingo issued server command: /hd movehere fountain
+[01:16:17] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:17] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m всё[m
+[01:16:36] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:36] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m че еще[m
+[01:16:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m может найду 1 ракурс для фото ?[m
+[01:16:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m кхм[m
+[01:16:49] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:49] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m для открытия )[m
+[01:16:50] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:50] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ладно пох[m
+[01:16:56] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:16:56] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m щас сливаю данные себе на пк[m
+[01:17:00] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:00] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m кидаю тебе[m
+[01:17:05] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:05] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m или завтра кину[m
+[01:17:07] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:07] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m вот[m
+[01:17:08] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:08] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ок[m
+[01:17:12] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:12] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m сфоткать что[m
+[01:17:13] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:13] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m открываю щас сервак буд[m
+[01:17:15] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:15] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m буду[m
+[01:17:18] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:18] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m и зайди в беседу вк[m
+[01:17:20] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:20] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m нашу[m
+[01:17:22] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:22] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m ок[m
+[01:17:32] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:32] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m я там[m
+[01:17:41] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:41] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m я перезайжу[m
+[01:17:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m зайду*[m
+[01:17:43] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:43] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m фыв[m
+[01:17:44] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:44] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;37;22m➳[0;37;22m][m Lord_Dantes[m ок[m
+[01:17:48] [Async Chat Thread - #10/INFO]: §f[L]§2 
+[01:17:48] [Async Chat Thread - #10/INFO]: [0;37;1m[L][0;32;22m [m[0;37;22m[[m[0;31;1m⊡[0;37;22m][m Flamingo[m с шейдерами[m
+[01:17:50] [Server thread/INFO]: Flamingo lost connection: Disconnected

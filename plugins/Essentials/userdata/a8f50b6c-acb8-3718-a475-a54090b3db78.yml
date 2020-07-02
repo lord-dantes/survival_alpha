@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: vladple
+timestamps:
+  login: 1591487454759
+  lastteleport: 1591488393240
+  logout: 1591488448556
+ipAddress: 37.53.70.244
+lastlocation:
+  world: world
+  x: -417.0495130010209
+  y: 61.0
+  z: -526.0797864782314
+  yaw: 242.3811
+  pitch: 6.3202033
+homes:
+  home:
+    world: world
+    x: 1595.317848410007
+    y: 67.0
+    z: -2067.065352082287
+    yaw: 95.64343
+    pitch: 5.0998764
+logoutlocation:
+  world: world
+  x: 1612.3208450117265
+  y: 63.0
+  z: -2044.7751609791171
+  yaw: -46.706486
+  pitch: 35.249866
+money: '639.699999999999998'

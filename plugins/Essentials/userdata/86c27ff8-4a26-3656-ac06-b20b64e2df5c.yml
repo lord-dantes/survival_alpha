@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: tomash
+timestamps:
+  login: 1590355669634
+  logout: 1590355709798
+ipAddress: 96.44.183.149
+lastlocation:
+  world: world
+  x: -412.5
+  y: 129.0
+  z: -501.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -408.5
+  y: 58.0
+  z: -499.5
+  yaw: -205.67471
+  pitch: 3.6387963

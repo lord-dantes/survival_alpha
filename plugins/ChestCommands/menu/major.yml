@@ -1,0 +1,48 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+  name: '&d&lМайор'
+  command: 'rankupgradetomajoronlyfornpccommandifyouusethiscommandyouarebannedok'
+  rows: 5
+  auto-refresh: 5
+  open-action: 'tell:&7[&e&lSurvival&7&r] Вы открыли ранг &d&lМайор'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+info:
+  NAME: '&d&lИнформация о ранге'
+  LORE:
+    - ''
+    - '&d[p] &r&7Префикс &7[&r&d◈&7]'
+    - '&d[p] &r&7Возможность получить набор &d/kit major'
+    - '&d[p] &r&7Возможность заприватить &d4 региона'
+    - '&d[p] &r&7Возможность поставить &d5 точек дома'
+    - '&d[p] &r&7Возможность выставить &d5 предметов &7на аукцион'
+    - '&d[p] &r&fВозможность утолить голод командой &d/feed'
+    - '&d[p] &r&fВозможность летать командой &d/fly'
+    - ''
+    - 'Стоимость ранга - §a500 000$'
+    - 'При покупке выдается навсегда'
+  ID: book
+  POSITION-X: 2
+  POSITION-Y: 2
+buy:
+  NAME: '&a&lКупить ранг'
+  PRICE: 500000
+  COMMAND: 'console: pex user {player} group add major;console: namemanager reload;tell: &7[&e&lSurvival&7&r] &aУра, поздравляем вас с покупкой ранга &d&lМайор'
+  ID: 288
+  POSITION-X: 8
+  POSITION-Y: 2
+exit:
+  NAME: '&c&lНазад'
+  COMMAND: 'open: donate.yml'
+  ID: 166
+  POSITION-X: 8
+  POSITION-Y: 4

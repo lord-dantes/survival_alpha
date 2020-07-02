@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: Meehan
+timestamps:
+  login: 1590866366018
+  lastteleport: 1590526247218
+  logout: 1590866797104
+ipAddress: 178.217.43.143
+lastlocation:
+  world: world
+  x: -1549.672428589024
+  y: 64.0
+  z: -34.02548720792421
+  yaw: -133.245
+  pitch: 25.65413
+homes:
+  home:
+    world: world
+    x: -1428.755912387212
+    y: 79.0
+    z: -278.1927782128367
+    yaw: -72.91821
+    pitch: 15.733353
+afk: false
+logoutlocation:
+  world: world
+  x: -1531.4239440424449
+  y: 72.0
+  z: -340.5739901606315
+  yaw: -184.19879
+  pitch: 33.47799

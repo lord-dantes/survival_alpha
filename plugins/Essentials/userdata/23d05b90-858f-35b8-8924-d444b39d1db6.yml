@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: looonka
+timestamps:
+  login: 1591104038704
+  logout: 1591104092203
+  lastteleport: 1591103918682
+ipAddress: 178.217.43.151
+lastlocation:
+  world: world
+  x: -401.337796138622
+  y: 62.0
+  z: -521.1412599188812
+  yaw: -57.59047
+  pitch: 23.14293
+logoutlocation:
+  world: world
+  x: -399.15294627414397
+  y: 61.0
+  z: -544.3320076858429
+  yaw: -308.15463
+  pitch: 19.697517

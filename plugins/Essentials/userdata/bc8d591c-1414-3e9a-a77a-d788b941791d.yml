@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: lly2009
+timestamps:
+  login: 1590517282180
+  logout: 1590517353620
+  lastteleport: 1590517305844
+ipAddress: 82.151.125.113
+lastlocation:
+  world: world
+  x: -356.10173200520643
+  y: 62.0
+  z: -521.6998440222233
+  yaw: -180.45668
+  pitch: 11.1791935
+logoutlocation:
+  world: world
+  x: -408.34574313181963
+  y: 58.0
+  z: -503.948407680267
+  yaw: 2.7678952
+  pitch: -1.5288612
+afk: false

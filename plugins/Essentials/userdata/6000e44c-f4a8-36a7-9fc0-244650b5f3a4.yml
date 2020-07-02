@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: nastya_glypau
+timestamps:
+  login: 1590329081532
+  lastteleport: 1590329949608
+  logout: 1590330142353
+ipAddress: 176.59.46.75
+lastlocation:
+  world: world
+  x: -410.564339772207
+  y: 61.166109260938214
+  z: -524.984740480772
+  yaw: -170.86923
+  pitch: 21.170181
+logoutlocation:
+  world: world
+  x: 309.7349243170639
+  y: 73.0
+  z: -779.6297339969162
+  yaw: -91.51398
+  pitch: 33.44995

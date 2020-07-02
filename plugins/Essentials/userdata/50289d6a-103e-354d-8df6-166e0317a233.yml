@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Privet11
+timestamps:
+  login: 1592751536189
+  logout: 1592751582241
+ipAddress: 141.105.139.126
+lastlocation:
+  world: world
+  x: -414.5
+  y: 254.0
+  z: -499.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -401.1013772771855
+  y: 61.5
+  z: -525.3875208873962
+  yaw: -87.4751
+  pitch: 15.338785

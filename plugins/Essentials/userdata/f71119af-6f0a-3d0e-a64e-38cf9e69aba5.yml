@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Magistr
+timestamps:
+  login: 1589479194226
+  lastteleport: 1589481985225
+  logout: 1589484557285
+ipAddress: 188.123.230.71
+lastlocation:
+  world: world
+  x: -409.0680255059461
+  y: 58.0
+  z: -500.37426647388577
+  yaw: -180.6436
+  pitch: 9.21595
+afk: false
+logoutlocation:
+  world: world
+  x: -325.57241348700546
+  y: 64.0
+  z: -645.3413900062469
+  yaw: -257.70026
+  pitch: 9.387113

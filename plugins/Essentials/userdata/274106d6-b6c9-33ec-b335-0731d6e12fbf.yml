@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: KOT_KARATELL
+timestamps:
+  login: 1590486611354
+  logout: 1590486622191
+  lastteleport: 1590484435945
+ipAddress: 2.134.75.3
+lastlocation:
+  world: world
+  x: -407.9185361991298
+  y: 58.0
+  z: -501.1405912746336
+  yaw: -205.67471
+  pitch: 3.6387963
+logoutlocation:
+  world: world
+  x: -630.9854771052019
+  y: 11.0
+  z: 1257.300000011921
+  yaw: -78.01196
+  pitch: 33.02804
+money: '278.45'

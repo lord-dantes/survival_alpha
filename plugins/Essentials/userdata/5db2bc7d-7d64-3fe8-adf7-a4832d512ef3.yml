@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: Pr0kJl9IToEDiT9I
+timestamps:
+  login: 1590859613625
+  lastteleport: 1590857477327
+  logout: 1590859961588
+ipAddress: 176.112.173.28
+lastlocation:
+  world: world
+  x: -951.9801239749921
+  y: 79.0
+  z: 400.21103476654025
+  yaw: -78.74982
+  pitch: 46.65003
+money: '23552.67600000000015985'
+logoutlocation:
+  world: world
+  x: -1097.456609170405
+  y: 5.0
+  z: 441.69999998807907
+  yaw: -2.2527466
+  pitch: 33.899918
+homes:
+  home:
+    world: world
+    x: -948.0465562465502
+    y: 86.0
+    z: 399.58592396182246
+    yaw: -84.599815
+    pitch: 29.699997

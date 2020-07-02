@@ -1,0 +1,37 @@
+socialspy: false
+lastAccountName: vanya_xd
+timestamps:
+  login: 1591681326763
+  logout: 1591681379803
+  lastteleport: 1591371391059
+  kits:
+    capral: 1590680908662
+    leitenant: 1591370590676
+    serjant: 1590769961568
+  jail: 0
+ipAddress: 46.241.64.251
+lastlocation:
+  world: world
+  x: -778.6999999880791
+  y: 12.0
+  z: -722.6999999880791
+  yaw: -28.205019
+  pitch: 46.116016
+logoutlocation:
+  world: world
+  x: -278.79800798423395
+  y: 77.0
+  z: -1911.1975685489288
+  yaw: 159.66751
+  pitch: 5.100003
+afk: false
+homes:
+  home:
+    world: world
+    x: -277.12738638912055
+    y: 77.5
+    z: -1928.9031377887075
+    yaw: 55.570408
+    pitch: 22.050087
+money: '150369.29535000000038357'
+jailed: false

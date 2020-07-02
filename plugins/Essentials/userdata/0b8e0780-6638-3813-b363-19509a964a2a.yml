@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: kimko
+timestamps:
+  login: 1590328735460
+  logout: 1590330150656
+  lastteleport: 1590330017433
+ipAddress: 213.167.213.140
+lastlocation:
+  world: world
+  x: -407.9335811809625
+  y: 61.0
+  z: -550.4536866191077
+  yaw: 174.13089
+  pitch: 0.32018238
+logoutlocation:
+  world: world
+  x: 314.77858780034535
+  y: 64.0
+  z: -735.2665595576462
+  yaw: 156.88806
+  pitch: 14.399988

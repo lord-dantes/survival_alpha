@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: DoicovMD
+timestamps:
+  login: 1592509056430
+  logout: 1592509069716
+ipAddress: 92.115.250.103
+lastlocation:
+  world: world
+  x: -415.5
+  y: 141.0
+  z: -497.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -407.2747287283228
+  y: 60.0
+  z: -525.4196199191294
+  yaw: 11.617839
+  pitch: 1.0868847

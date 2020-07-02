@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: elzar1
+timestamps:
+  login: 1591029604161
+  logout: 1591029690542
+ipAddress: 178.120.57.182
+lastlocation:
+  world: world
+  x: -403.5
+  y: 254.0
+  z: -503.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -375.25453363886265
+  y: 62.0
+  z: -474.7703554232444
+  yaw: -120.62485
+  pitch: 15.338796

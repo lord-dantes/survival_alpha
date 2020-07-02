@@ -1,0 +1,45 @@
+socialspy: false
+lastAccountName: Pilezozz
+timestamps:
+  login: 1590682874589
+  lastteleport: 1590480342498
+  logout: 1590683266803
+ipAddress: 91.215.142.236
+lastlocation:
+  world: world
+  x: 206.990908993858
+  y: 65.0
+  z: -1201.8080818909762
+  yaw: 30.920898
+  pitch: 25.199982
+homes:
+  jopa:
+    world: world
+    x: 166.1632675826407
+    y: 64.0
+    z: -1224.5071142835004
+    yaw: 2.8500977
+    pitch: 12.300065
+  trap:
+    world: world
+    x: -246.30000001192093
+    y: 18.0
+    z: -1449.404136963884
+    yaw: 257.1172
+    pitch: 58.800083
+  ad:
+    world: world_nether
+    x: -64.81009997157722
+    y: 93.0
+    z: -129.0868746091906
+    yaw: 19.351501
+    pitch: 45.150036
+logoutlocation:
+  world: world
+  x: 165.0937268098654
+  y: 57.0
+  z: -1201.5658058743477
+  yaw: 133.65112
+  pitch: -22.650135
+money: '11873.6600000000000025'
+afk: false

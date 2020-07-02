@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: shoshin
+timestamps:
+  login: 1591715536112
+  logout: 1591723550908
+  lastteleport: 1591723349639
+ipAddress: 178.19.255.84
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+afk: false
+logoutlocation:
+  world: world
+  x: -326.9732746979094
+  y: 64.0
+  z: -1382.298169941445
+  yaw: -45.307983
+  pitch: 21.450102
+homes:
+  home:
+    world: world
+    x: -326.616903663536
+    y: 64.0
+    z: -1382.2958011205283
+    yaw: -312.60428
+    pitch: 18.000027

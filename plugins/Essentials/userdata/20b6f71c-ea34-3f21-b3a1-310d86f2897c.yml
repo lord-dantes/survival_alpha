@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: StarryDragonZ
+timestamps:
+  login: 1591638074300
+  logout: 1591638090242
+  lastteleport: 1591490443482
+  kits:
+    capral: 1591490466846
+ipAddress: 92.112.154.218
+lastlocation:
+  world: world
+  x: -390.87857393941397
+  y: 62.0
+  z: -542.2864358037043
+  yaw: 291.13092
+  pitch: 3.7701752
+logoutlocation:
+  world: world
+  x: 1587.3552745834118
+  y: 67.0625
+  z: -2036.0078264652668
+  yaw: 359.21768
+  pitch: 6.6
+money: '100216.6790000000000976'
+homes:
+  home:
+    world: world
+    x: 1585.9944207212131
+    y: 67.0
+    z: -2038.0392167980285
+    yaw: 98.643555
+    pitch: 23.699883
+afk: false

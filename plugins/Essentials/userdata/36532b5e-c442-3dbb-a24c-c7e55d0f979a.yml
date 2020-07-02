@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Alex
+timestamps:
+  login: 1590476808677
+  logout: 1590476838648
+ipAddress: 45.85.36.40
+lastlocation:
+  world: world
+  x: -411.5
+  y: 254.0
+  z: -491.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -416.7763457751246
+  y: 58.0
+  z: -504.6192735794497
+  yaw: -313.6747
+  pitch: 19.799969
+afk: false

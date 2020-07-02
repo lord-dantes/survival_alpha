@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: zuss
+timestamps:
+  login: 1592151174788
+  logout: 1592151280956
+ipAddress: 178.176.182.108
+lastlocation:
+  world: world
+  x: -406.5
+  y: 70.0
+  z: -509.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -399.70430842757384
+  y: 62.0
+  z: -543.5261083264278
+  yaw: 91.62515
+  pitch: 19.050087

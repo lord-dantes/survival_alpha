@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Oliver_138
+timestamps:
+  login: 1590302411056
+  lastteleport: 1590302453274
+  logout: 1590302652312
+ipAddress: 176.48.176.87
+lastlocation:
+  world: world
+  x: -384.1985589627041
+  y: 62.0
+  z: -521.4377320305751
+  yaw: -189.30762
+  pitch: -1.1651077
+logoutlocation:
+  world: world
+  x: 1165.163067762364
+  y: 66.0
+  z: -1762.7011067484837
+  yaw: 11.608082
+  pitch: 7.349917

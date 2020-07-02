@@ -1,0 +1,41 @@
+socialspy: false
+lastAccountName: BloodPhoen1x
+timestamps:
+  login: 1592646068600
+  logout: 1592664198786
+  lastteleport: 1592663446624
+  kits:
+    capral: 1590687304403
+ipAddress: 176.213.158.232
+lastlocation:
+  world: world
+  x: -417.9863530183662
+  y: 68.0
+  z: -1974.1411374878844
+  yaw: 261.72293
+  pitch: -4.2479954
+logoutlocation:
+  world: world
+  x: 70.07612745163739
+  y: 77.0
+  z: -1270.300000011921
+  yaw: 134.85321
+  pitch: 14.4
+homes:
+  amid:
+    world: world
+    x: 170.06044684279453
+    y: 57.0
+    z: -1212.2215361543124
+    yaw: -163.64981
+    pitch: 9.600065
+  akil:
+    world: world
+    x: 71.1065800641627
+    y: 77.0
+    z: -1275.1679939756584
+    yaw: 105.75015
+    pitch: 32.25015
+afk: false
+godmode: false
+money: '7600'

@@ -1,0 +1,340 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # REQUIRED
+  # Appears as the title of the menu.
+  name: '&1Ранги'
+
+  # REQUIRED
+  # The number of rows in the menu.
+  rows: 6
+
+  # OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'rank;ranks;donate;'
+
+  # OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # OPTIONAL
+  # This command command will be executed when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell: &eВы открытили меню рангов.'
+
+  # OPTIONAL
+  # The menu will open only when right-clicking with a compass.
+  open-with-item:
+    id: compass
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+info:
+  NAME: '&3&lИнформация о рангах'
+  LORE:
+    - ''
+    - '&fЧтобы купить ранг, нужно кликнуть на один из них'
+    - ''
+    - 'При покупке ранги выдаются навсегда'
+  ID: book
+  POSITION-X: 1
+  POSITION-Y: 6
+conscript:
+  NAME: '&7&lНовичок'
+  LORE:
+    - ''
+    - '&7[p] &r&7Префикс &7[&r&7➳&7]'
+    - '&7[p] &r&7Возможность получить набор &7/kit start'
+    - '&7[p] &r&7Возможность заприватить &71 регион'
+    - '&7[p] &r&7Возможность поставить &71 точку дома'
+    - '&7[p] &r&7Возможность выставить &71 предмет &7на аукцион'
+    - ''
+    - 'Этот ранг уже есть у всех игроков'
+    - 'Он выдается навсегда бесплатно'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 11184810}}'
+  POSITION-X: 1
+  POSITION-Y: 1
+rekruit:
+  NAME: '&f&lРекрут'
+  COMMAND: 'open: rekruit.yml'
+  LORE:
+    - ''
+    - '&f[p] &r&7Префикс &7[&r&f➳&7]'
+    - '&f[p] &r&7Возможность получить набор &f/kit rekruit'
+    - '&f[p] &r&7Возможность заприватить &f1 регион'
+    - '&f[p] &r&7Возможность поставить &f2 точки дома'
+    - '&f[p] &r&7Возможность выставить &f2 предмета &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a5 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 16383998}}'
+  POSITION-X: 2
+  POSITION-Y: 2
+mlcapral:
+  NAME: '&3&lМладший капрал'
+  COMMAND: 'open: mlcapral.yml'
+  LORE:
+    - ''
+    - '&3[p] &r&7Префикс &7[&r&3➳&7]'
+    - '&3[p] &r&7Возможность получить набор &3/kit mlcapral'
+    - '&3[p] &r&7Возможность заприватить &31 регион'
+    - '&3[p] &r&7Возможность поставить &33 точки дома'
+    - '&3[p] &r&7Возможность выставить &33 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a15 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 43690}}'
+  POSITION-X: 3
+  POSITION-Y: 2
+capral:
+  NAME: '&3&lКапрал'
+  COMMAND: 'open: capral.yml'
+  LORE:
+    - ''
+    - '&3[p] &r&7Префикс &7[&r&3➳⁺&7]'
+    - '&3[p] &r&7Возможность получить набор &3/kit capral'
+    - '&3[p] &r&7Возможность заприватить &32 региона'
+    - '&3[p] &r&7Возможность поставить &33 точки дома'
+    - '&3[p] &r&7Возможность выставить &33 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a35 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 43690}}'
+  POSITION-X: 4
+  POSITION-Y: 2
+serjant:
+  NAME: '&9&lСержант'
+  COMMAND: 'open: serjant.yml'
+  LORE:
+    - ''
+    - '&9[p] &r&7Префикс &7[&r&9➳&7]'
+    - '&9[p] &r&7Возможность получить набор &9/kit serjant'
+    - '&9[p] &r&7Возможность заприватить &93 региона'
+    - '&9[p] &r&7Возможность поставить &93 точки дома'
+    - '&9[p] &r&7Возможность выставить &93 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a65 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 3949738}}'
+  POSITION-X: 5
+  POSITION-Y: 2
+stserjant:
+  NAME: '&9&lМастер-сержант'
+  COMMAND: 'open: stserjant.yml'
+  LORE:
+    - ''
+    - '&9[p] &r&7Префикс &7[&r&9➳⁺&7]'
+    - '&9[p] &r&7Возможность получить набор &9/kit stserjant'
+    - '&9[p] &r&7Возможность заприватить &93 региона'
+    - '&9[p] &r&7Возможность поставить &93 точки дома'
+    - '&9[p] &r&7Возможность выставить &94 предметa &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a85 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 3949738}}'
+  POSITION-X: 6
+  POSITION-Y: 2
+leitenant:
+  NAME: '&e&lЛейтенант'
+  COMMAND: 'open: leitenant.yml'
+  LORE:
+    - ''
+    - '&e[p] &r&7Префикс &7[&r&e➳&7]'
+    - '&e[p] &r&7Возможность получить набор &e/kit leitenant'
+    - '&e[p] &r&7Возможность заприватить &e3 региона'
+    - '&e[p] &r&7Возможность поставить &e4 точки дома'
+    - '&e[p] &r&7Возможность выставить &e5 предметов &7на аукцион'
+    - '&e[p] &r&fВозможность открыть эндер-сундук командой &e/ec'
+    - ''
+    - 'Стоимость ранга - §a100 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 16701501}}'
+  POSITION-X: 7
+  POSITION-Y: 2
+stleitenant:
+  NAME: '&e&lСтарший-лейтенант'
+  COMMAND: 'open: stleitenant.yml'
+  LORE:
+    - ''
+    - '&e[p] &r&7Префикс &7[&r&e➳⁺&7]'
+    - '&e[p] &r&7Возможность получить набор &e/kit stleitenant'
+    - '&e[p] &r&7Возможность заприватить &e3 региона'
+    - '&e[p] &r&7Возможность поставить &e3 точки дома'
+    - '&e[p] &r&7Возможность выставить &e5 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a150 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 16701501}}'
+  POSITION-X: 8
+  POSITION-Y: 2
+capitan:
+  NAME: '&d&lКапитан'
+  COMMAND: 'open: capitan.yml'
+  LORE:
+    - ''
+    - '&d[p] &r&7Префикс &7[&r&d◇&7]'
+    - '&d[p] &r&7Возможность получить набор &d/kit capitan'
+    - '&d[p] &r&7Возможность заприватить &d4 региона'
+    - '&d[p] &r&7Возможность поставить &d4 точки дома'
+    - '&d[p] &r&7Возможность выставить &d5 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a250 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 15961002}}'
+  POSITION-X: 3
+  POSITION-Y: 3
+major:
+  NAME: '&d&lМайор'
+  COMMAND: 'open: major.yml'
+  LORE:
+    - ''
+    - '&d[p] &r&7Префикс &7[&r&d◈&7]'
+    - '&d[p] &r&7Возможность получить набор &d/kit major'
+    - '&d[p] &r&7Возможность заприватить &d4 региона'
+    - '&d[p] &r&7Возможность поставить &d5 точек дома'
+    - '&d[p] &r&7Возможность выставить &d5 предметов &7на аукцион'
+    - '&d[p] &r&fВозможность утолить голод командой &d/feed'
+    - '&d[p] &r&fВозможность летать командой &d/fly'
+    - ''
+    - 'Стоимость ранга - §a500 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 15961002}}'
+  POSITION-X: 4
+  POSITION-Y: 3
+podpolkovnik:
+  NAME: '&6&lПодполковник'
+  COMMAND: 'open: podpolkovnik.yml'
+  LORE:
+    - ''
+    - '&6[p] &r&7Префикс &7[&r&6±&7]'
+    - '&6[p] &r&7Возможность получить набор &6/kit podpolkovnik'
+    - '&6[p] &r&7Возможность заприватить &65 регионов'
+    - '&6[p] &r&7Возможность поставить &65 точек дома'
+    - '&6[p] &r&7Возможность выставить &65 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a1 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 16351261}}'
+  POSITION-X: 5
+  POSITION-Y: 3
+polkovnik:
+  NAME: '&6&lПолковник'
+  COMMAND: 'open: polkovnik.yml'
+  LORE:
+    - ''
+    - '&6[p] &r&7Префикс &7[&r&6±⁺&7]'
+    - '&6[p] &r&7Возможность получить набор &6/kit polkovnik'
+    - '&6[p] &r&7Возможность заприватить &65 регионов'
+    - '&6[p] &r&7Возможность поставить &65 точек дома'
+    - '&6[p] &r&7Возможность выставить &65 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a2 500 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 16351261}}'
+  POSITION-X: 6
+  POSITION-Y: 3
+brigadir:
+  NAME: '&5&lБригадир'
+  COMMAND: 'open: brigadir.yml'
+  LORE:
+    - ''
+    - '&5[p] &r&7Префикс &7[&r&5⊖&7]'
+    - '&5[p] &r&7Возможность получить набор &5/kit brigadir'
+    - '&5[p] &r&7Возможность заприватить &55 регионов'
+    - '&5[p] &r&7Возможность поставить &55 точек дома'
+    - '&5[p] &r&7Возможность выставить &56 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a5 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 11141290}}'
+  POSITION-X: 7
+  POSITION-Y: 3
+general-leitenant:
+  NAME: '&5&lГенерал&r-&5&lлейтенант'
+  COMMAND: 'open: general-leitenant.yml'
+  LORE:
+    - ''
+    - '&5[p] &r&7Префикс &7[&r&5⊖⁺&7]'
+    - '&5[p] &r&7Возможность получить набор &5/kit general-leitenant'
+    - '&5[p] &r&7Возможность заприватить &55 приватов'
+    - '&5[p] &r&7Возможность поставить &56 точек дома'
+    - '&5[p] &r&7Возможность выставить &57 предметов&7 на аукцион'
+    - ''
+    - 'Стоимость ранга - §a7 500 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 11141290}}'
+  POSITION-X: 4
+  POSITION-Y: 4
+general-major:
+  NAME: '&c&lГенерал&r-&c&lмайор'
+  COMMAND: 'open: general-major.yml'
+  LORE:
+    - ''
+    - '&c[p] &r&7Префикс &7[&r&c⊙&7]'
+    - '&c[p] &r&7Возможность получить набор &c/kit general-major'
+    - '&c[p] &r&7Возможность заприватить &c6 регионов'
+    - '&c[p] &r&7Возможность поставить &c6 точек дома'
+    - '&c[p] &r&7Возможность выставить &c10 предметов&7 на аукцион'
+    - ''
+    - 'Стоимость ранга - §a10 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  NBT-DATA: '{display: {color: 16733525}}'
+  POSITION-X: 5
+  POSITION-Y: 4
+general:
+  NAME: '&c&lГенерал'
+  COMMAND: 'open: general.yml'
+  LORE:
+    - ''
+    - '&c[p] &r&7Префикс &7[&r&c⊡&7]'
+    - '&c[p] &r&7Возможность получить набор &c/kit general'
+    - '&c[p] &r&7Возможность заприватить &c6 приватов'
+    - '&c[p] &r&7Возможность поставить &c10 точек дома'
+    - '&c[p] &r&7Возможность выставить &c10 предметов &7на аукцион'
+    - ''
+    - 'Стоимость ранга - §a15 000 000$'
+    - 'При покупке выдается навсегда'
+  ID: leather chestplate
+  ENCHANTMENT: 'fire aspect, -1'
+  NBT-DATA: '{display: {color: 16733525}}'
+  POSITION-X: 6
+  POSITION-Y: 4
+exit:
+  NAME: '&c&lЗакрыть меню'
+  ID: 166
+  POSITION-X: 9
+  POSITION-Y: 6

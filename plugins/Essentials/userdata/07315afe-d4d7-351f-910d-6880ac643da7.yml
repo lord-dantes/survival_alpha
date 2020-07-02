@@ -1,0 +1,97 @@
+socialspy: false
+lastAccountName: Flamingo
+timestamps:
+  login: 1593370816379
+  logout: 1593382670560
+  kits:
+    capitan: 1593016824621
+    leitenant: 1593016818776
+    serjant: 1593016808558
+    general-major: 1593016853172
+    stleitenant: 1593016814458
+    brigadir: 1593016839672
+    general-leitenant: 1593016844186
+    start: 1593016894222
+    admin: 1590919973276
+    flamingo: 1590919976180
+    capral: 1593016828122
+    general: 1593016859572
+    major: 1593016794212
+    polkovnik: 1593016836471
+    mlcapral: 1593016797108
+    podpolkovnik: 1593016833922
+    rekruit: 1593016906474
+  lastteleport: 1593381798663
+  jail: 0
+ipAddress: 37.77.108.32
+lastlocation:
+  world: world
+  x: -1024.0739962751904
+  y: 69.0
+  z: 1449.6623976875833
+  yaw: 23.489258
+  pitch: 45.154274
+logoutlocation:
+  world: world
+  x: -1026.549253067941
+  y: 69.0
+  z: 1449.7143328166374
+  yaw: 99.55707
+  pitch: 21.322313
+godmode: false
+afk: false
+money: '48047688.5400000000001869'
+nickname: Flamingo
+homes:
+  bayz:
+    world: world
+    x: 2432.9986837564143
+    y: 63.0
+    z: 2441.391397343749
+    yaw: 139.1529
+    pitch: 11.555287
+  bear:
+    world: world
+    x: 204.23325803625582
+    y: 63.0
+    z: -906.411298648497
+    yaw: -12.684265
+    pitch: 15.667607
+  home:
+    world: world
+    x: 240.38281929134237
+    y: 34.23372671279119
+    z: 304.8782712997065
+    yaw: 210.14488
+    pitch: 68.16372
+  cym:
+    world: world
+    x: 184.99601911215044
+    y: 72.0
+    z: 378.41774577825254
+    yaw: 263.3335
+    pitch: 17.004185
+  myhome:
+    world: world
+    x: 1181.621625341067
+    y: 64.50512449566484
+    z: -1834.0750704381446
+    yaw: 48.807766
+    pitch: 2.999992
+  b:
+    world: world
+    x: 1452.909930588335
+    y: 69.0
+    z: -1521.9436921734016
+    yaw: -50.668823
+    pitch: 8.779249
+powertools:
+  blaze_rod:
+  - ban {player}
+  stick:
+  - tp AFROD1TA Flamingo
+  bone:
+  - banip {player}
+  ink_sack:
+  - clear Fishalix
+jailed: false

@@ -1,0 +1,179 @@
+groups:
+  rekruit:
+    permissions:
+    - -essentials.build.interact.383:*
+    - -essentials.build.pickup.383:*
+    - -essentials.build.place.7:*
+    - -essentials.build.break.7:*
+    - -essentials.build.pickup.7:*
+    - -essentials.worth
+    - -essentials.jail.allow.mail
+    - -essentials.jail.allow.ping
+    - -essentials.jail.allow.seen
+    - -essentials.back
+    - -essentials.back.ondeath
+    - -essentials.mail
+    - -essentials.mail.send
+    - -essentials.rules
+    - essentials.spawn
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.msg
+    - essentials.balance
+    - essentials.signs.use.*
+    - essentials.list
+    - essentials.motd
+    - essentials.spawn
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.home
+    - essentials.delhome
+    - essentials.sethome
+    - essentials.sethome.bed
+    - essentials.sethome.multiple.rekruit
+    - essentials.kit
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.chat.shout
+    - essentials.build
+    - chestcommands.open.example.yml
+    - chestcommands.command.open
+    - crazyauctions.access
+    - crazyauctions.sell
+    - crazyauctions.sell.2
+    - skinsrestorer.playercmd
+    - skinsrestorer.playercmds
+    - modifyworld.*
+    - authme.login
+    - authme.register
+    - bukkit.command.kill
+    - worldedit.selection.hpos
+    - worldedit.selection.pos
+    - worldedit.wand
+    - worldedit.selection.expand
+    - worldguard.region.wand
+    - worldguard.region.claim
+    - worldguard.region.remove.*
+    - worldguard.region.info.*
+    - worldguard.region.addowner.own.*
+    - worldguard.region.removeowner.own.*
+    - worldguard.region.addmember.own.*
+    - worldguard.region.removemember.own.*
+    - worldguard.region.remove.own.*
+    - worldguard.region.list
+    - worldguard.region.flag.regions.own.*
+    - -worldguard.region.flag.flags.pvp.*
+    - rtp.tp
+    options:
+      rank: '1000'
+      prefix: '&f&l[Рекрут] '
+      suffix: ''
+      default: true
+  capral:
+    inheritance:
+    - rekruit
+    permissions:
+    - essentials.sethome.multiple.capral
+    options:
+      rank: '900'
+      prefix: '&3&l[Капрал] '
+      suffix: ''
+      default: false
+  serjant:
+    inheritance:
+    - capral
+    permissions:
+    - essentials.sethome.multiple.serjant
+    options:
+      rank: '800'
+      prefix: '&9&l[Сержант] '
+      suffix: ''
+      default: false
+  leitenant:
+    inheritance:
+    - serjant
+    permissions:
+    - essentials.sethome.multiple.leitenant
+    options:
+      rank: '700'
+      prefix: '&e&l[Лейтенант] '
+      suffix: ''
+      default: false
+  capitan:
+    inheritance:
+    - leitenant
+    permissions:
+    - essentials.sethome.multiple.capitan
+    options:
+      rank: '600'
+      prefix: '&d&l[Капитан] '
+      suffix: ''
+      default: false
+  major:
+    inheritance:
+    - capitan
+    permissions:
+    - essentials.sethome.multiple.major
+    options:
+      rank: '500'
+      prefix: '&2&l[Майор] '
+      suffix: ''
+      default: false
+  polkovnik:
+    inheritance:
+    - major
+    permissions:
+    - essentials.back
+    options:
+      rank: '400'
+      prefix: '&6&l[Полковник] '
+      suffix: ''
+      default: false
+  general-leitenant:
+    inheritance:
+    - polkovnik
+    permissions:
+    - essentials.sethome.multiple.general-leitenant
+    options:
+      rank: '300'
+      prefix: '&c&l[Генерал&r-&e&lЛейтенант] '
+      suffix: ''
+      default: false
+  general:
+    inheritance:
+    - general-leitenant
+    permissions:
+    - essentials.sethome.multiple.general
+    options:
+      rank: '200'
+      prefix: '&c&l[Генерал] '
+      suffix: ''
+      default: falses
+schema-version: 1
+users:
+  c9dec06d-b1b4-3ba6-93c7-e7d0584fcd55:
+    group:
+    - capral
+    - rekruit
+    options:
+      name: Lord_Dantes
+  0cf30650-cfc9-37a0-9c6a-bb668815eef3:
+    group:
+    - rekruit
+    options:
+      name: FeniX_WH
+  ce0426a8-01ae-3768-a02e-3be7dcbe5b09:
+    group:
+    - capral
+    options:
+      name: BloodPhoen1x
+  40de468d-71e1-34a3-88f7-2433ba18270f:
+    group:
+    - capral
+    options:
+      name: Pilezozz

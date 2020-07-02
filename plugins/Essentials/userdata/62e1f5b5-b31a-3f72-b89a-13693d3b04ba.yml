@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: vitkaYT31
+timestamps:
+  login: 1590966151540
+  logout: 1590966393322
+  lastteleport: 1590966329806
+ipAddress: 77.121.213.241
+lastlocation:
+  world: world
+  x: -433.37583723964497
+  y: 64.0
+  z: -163.354379692115
+  yaw: -25.167297
+  pitch: 23.515676
+logoutlocation:
+  world: world
+  x: -409.86487206558576
+  y: 59.0
+  z: -468.5605282748277
+  yaw: 69.93377
+  pitch: 0.6465679

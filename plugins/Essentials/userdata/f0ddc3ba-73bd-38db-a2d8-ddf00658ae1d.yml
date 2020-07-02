@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: X_MACTEP_X
+timestamps:
+  login: 1592604711737
+  lastteleport: 1592605185509
+  logout: 1592606440361
+ipAddress: 85.140.3.12
+lastlocation:
+  world: world
+  x: 930.098167612525
+  y: 71.0
+  z: 1060.971935555641
+  yaw: 215.32507
+  pitch: 8.39013
+logoutlocation:
+  world: world
+  x: 1603.4430618272454
+  y: 65.0
+  z: -897.4903621512829
+  yaw: 88.71716
+  pitch: 15.487328

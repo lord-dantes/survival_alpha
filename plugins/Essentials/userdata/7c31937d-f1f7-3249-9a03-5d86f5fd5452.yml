@@ -1,0 +1,31 @@
+socialspy: false
+lastAccountName: GGUno
+timestamps:
+  login: 1591096321094
+  lastteleport: 1591097342564
+  logout: 1591099851557
+ipAddress: 178.217.43.155
+lastlocation:
+  world: world
+  x: -361.3287904508472
+  y: 63.0
+  z: -491.5407594704769
+  yaw: 89.72874
+  pitch: 24.69864
+homes:
+  home:
+    world: world
+    x: 908.5
+    y: 74.0
+    z: 1029.5
+    yaw: 132.31473
+    pitch: 34.363506
+logoutlocation:
+  world: world
+  x: 857.1708765918353
+  y: 73.0
+  z: 979.8389002380846
+  yaw: 224.6189
+  pitch: 81.732285
+money: '1004097.354300000000018'
+afk: false

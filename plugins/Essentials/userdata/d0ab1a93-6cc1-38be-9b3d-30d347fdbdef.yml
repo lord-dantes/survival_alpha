@@ -1,0 +1,29 @@
+socialspy: false
+lastAccountName: KlevMan1945
+timestamps:
+  login: 1591718546757
+  lastteleport: 1591722681877
+  logout: 1591722752681
+ipAddress: 109.111.142.32
+lastlocation:
+  world: world
+  x: -408.55751087444577
+  y: 58.0
+  z: -499.63275940360234
+  yaw: -179.86916
+  pitch: -2.5298321
+logoutlocation:
+  world: world
+  x: 2486.294423859449
+  y: 77.0
+  z: 738.7967310311028
+  yaw: -135.52771
+  pitch: 12.900057
+homes:
+  home:
+    world: world
+    x: 2479.300000011921
+    y: 76.0
+    z: 737.646222257383
+    yaw: -78.97781
+    pitch: 27.000061

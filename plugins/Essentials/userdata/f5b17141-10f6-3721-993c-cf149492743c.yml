@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: marina0685
+timestamps:
+  login: 1590341763902
+  logout: 1590342302363
+  lastteleport: 1590342234566
+ipAddress: 178.151.163.48
+lastlocation:
+  world: world
+  x: 169.7644282022139
+  y: 64.0
+  z: -1223.5070529348295
+  yaw: -330.2997
+  pitch: 24.4499
+logoutlocation:
+  world: world
+  x: -410.1797931491776
+  y: 58.0
+  z: -491.2173268223565
+  yaw: -147.01924
+  pitch: 40.070156

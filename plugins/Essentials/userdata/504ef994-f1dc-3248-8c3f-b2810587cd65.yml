@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: papakrut
+timestamps:
+  login: 1592680885225
+  lastteleport: 1592674197669
+  logout: 1592681062606
+ipAddress: 84.51.108.21
+lastlocation:
+  world: world
+  x: 375.0403394533551
+  y: 70.0
+  z: -788.7013096061528
+  yaw: -100.14637
+  pitch: 15.447345
+homes:
+  home:
+    world: world
+    x: -724.0192915023348
+    y: 63.0
+    z: 538.2310941329764
+    yaw: -259.1792
+    pitch: 23.064337
+logoutlocation:
+  world: world
+  x: -725.9805072974644
+  y: 63.0
+  z: 538.2205755929407
+  yaw: 62.37519
+  pitch: 51.851242
+money: '5594.23275000000001787'

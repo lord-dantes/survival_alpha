@@ -1,0 +1,28 @@
+socialspy: false
+lastAccountName: Mekboyz
+timestamps:
+  login: 1591546505264
+  logout: 1591546535286
+ipAddress: 5.182.25.67
+lastlocation:
+  world: world
+  x: 271.6326538627541
+  y: 41.0
+  z: 766.5389497211655
+  yaw: 51.299896
+  pitch: 10.200005
+homes:
+  home:
+    world: world
+    x: -482.55461181897243
+    y: 67.0
+    z: 1808.8739900775834
+    yaw: -84.00021
+    pitch: 25.65001
+logoutlocation:
+  world: world
+  x: -482.96249265637636
+  y: 67.0
+  z: 1808.948572748924
+  yaw: -32.400253
+  pitch: 53.55004

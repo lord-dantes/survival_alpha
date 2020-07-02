@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: DmitrySky
+timestamps:
+  login: 1591699559761
+  logout: 1591699829547
+  lastteleport: 1591699809340
+ipAddress: 178.121.5.44
+lastlocation:
+  world: world
+  x: -395.1665357860354
+  y: 65.0
+  z: -409.00611323376523
+  yaw: -311.4193
+  pitch: 6.170172
+homes:
+  home:
+    world: world
+    x: -1519.0186682627136
+    y: 71.0
+    z: -672.9755620334843
+    yaw: -91.95105
+    pitch: 12.89994
+logoutlocation:
+  world: world
+  x: -1530.699999988079
+  y: 72.0
+  z: -671.1845362241294
+  yaw: -269.40106
+  pitch: 20.24995
+money: '271.6150000000000002'
